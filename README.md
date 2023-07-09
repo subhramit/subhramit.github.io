@@ -2,7 +2,7 @@
 ## My blog page
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>
-This piece of software is licensed under MIT License.
+This piece of software is licensed under MIT License. <br>
 Copyright (c) 2023 Subhramit Basu Bhowmick
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
