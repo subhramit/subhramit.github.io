@@ -1,7 +1,6 @@
 {
   "scripts": {
-    "start": "vite" 
-
+    "start": "vite"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.14",
@@ -10,5 +9,12 @@
   },
   "dependencies": {
     "vite": "^4.4.2"
-  }
+  },
+  "name": "subhramit.github.io",
+  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>\r This piece of software is licensed under an [MIT License](https://opensource.org/licenses/MIT). <br>\r Copyright © 2023 Subhramit Basu Bhowmick <br>\r All rights reserved.",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
