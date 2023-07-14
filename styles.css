@@ -697,6 +697,10 @@ video {
   gap: 1.5rem;
 }
 
+.rounded-2xl {
+  border-radius: 1rem;
+}
+
 .rounded-full {
   border-radius: 9999px;
 }
@@ -860,6 +864,10 @@ video {
   padding-right: 354px;
 }
 
+.pt-1 {
+  padding-top: 0.25rem;
+}
+
 .pt-14 {
   padding-top: 3.5rem;
 }
@@ -902,6 +910,10 @@ video {
 
 .pt-8 {
   padding-top: 2rem;
+}
+
+.pt-9 {
+  padding-top: 2.25rem;
 }
 
 .text-center {
