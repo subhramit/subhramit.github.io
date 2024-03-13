@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" class="hidden md:block">
+<html lang="en" class="hidden sm:block">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -9,31 +9,31 @@
   </head>
   <body>
     <!-- Nav Bar -->
-    <nav class="bg-uno text-white flex gap-6 h-13">
-      <ul class="flex justify-evenly w-full">
-        <a href="./index.html"><li class="py-auto cursor-pointer hover:bg-tres py-4 px-2">Home</li></a>
-        <a href="./about.html"><li class="py-auto cursor-pointer hover:bg-tres py-4 px-2">About me</li></a>
-        <a href="./stories.html"><li class="py-auto cursor-pointer hover:bg-tres py-4 px-2">Thoughts & Stories</li></a>
-        <a href="./poetry.html"><li class="py-auto cursor-pointer hover:bg-tres py-4 px-2">Poetry</li></a>
-        <a href="./recommendations.html"><li class="py-auto cursor-pointer hover:bg-tres py-4 px-2">Recommendations</li></a>
-        <a href="./contact.html"><li class="py-auto cursor-pointer hover:bg-tres py-4 px-2">Contact</li></a>
+    <nav class="bg-uno text-white flex flex-col sm:flex-row gap-4 sm:gap-6 h-auto sm:h-13">
+      <ul class="flex flex-col sm:flex-row justify-evenly w-full">
+        <a href="./index.html"><li class="py-2 sm:py-4 px-2 cursor-pointer hover:bg-tres">Home</li></a>
+        <a href="./about.html"><li class="py-2 sm:py-4 px-2 cursor-pointer hover:bg-tres">About me</li></a>
+        <a href="./stories.html"><li class="py-2 sm:py-4 px-2 cursor-pointer hover:bg-tres">Thoughts & Stories</li></a>
+        <a href="./poetry.html"><li class="py-2 sm:py-4 px-2 cursor-pointer hover:bg-tres">Poetry</li></a>
+        <a href="./recommendations.html"><li class="py-2 sm:py-4 px-2 cursor-pointer hover:bg-tres">Recommendations</li></a>
+        <a href="./contact.html"><li class="py-2 sm:py-4 px-2 cursor-pointer hover:bg-tres">Contact</li></a>
       </ul>
     </nav>
      <!-- Body -->
-    <main class="bg-quad flex justify-around">
-      <div class="main py-96 pl-56 max-w-6xl">
-        <div class="text-6xl font-serif">Subhramit's Blog</div>
+    <main class="bg-quad flex flex-col sm:flex-row justify-around items-center py-12 sm:py-96">
+      <div class="main py-8 sm:py-0 pl-4 sm:pl-56 max-w-6xl">
+        <div class="text-4xl sm:text-6xl font-serif">Subhramit's Blog</div>
         <div>
-          <p class="py-3 w-1/2 pl-1 font-serif">
+          <p class="py-3 w-full sm:w-1/2 pl-1 font-serif">
             The aurors are on their way.
           </p>
           <div class="buttons my-4">
-              <a href="./about.html"><button class="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2">Board the train</button></a>
-        </div>
+            <a href="./about.html"><button class="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2">Board the train</button></a>
+          </div>
         </div>
       </div>
-      <div class="flex items-center">
-        <img src="./assets/window.jpg" class="rounded-full h-80 mr-72" alt="">
+      <div class="flex items-center mt-8 sm:mt-0">
+        <img src="./assets/window.jpg" class="rounded-full h-40 sm:h-80 mr-0 sm:mr-72" alt="">
       </div>
     </main>
   </body>
@@ -41,5 +41,5 @@
   <footer class="text-center bg-uno text-white">
     <div class="flex justify-center"><a rel="license" href="https://opensource.org/licenses/MIT/" class="hover:text-quad">MIT License</a>. Copyright © 2023 Subhramit Basu Bhowmick</div>
     <div class="flex justify-center"></div>
-    </footer>
+  </footer>
 </html>
