@@ -3,14 +3,14 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Subhraamit's Blog</title>
+    <title>Subhramit's Blog</title>
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <link rel="stylesheet" href="./styles.css">
   </head>
   <body>
-    <!-- Nav Bar -->
-    <nav class="bg-uno text-white flex flex-col sm:flex-row gap-4 sm:gap-6 h-auto sm:h-13">
-      <ul class="flex flex-col sm:flex-row justify-evenly w-full">
+    <!-- Navigation Bar -->
+    <nav class="bg-uno text-white fixed top-0 left-0 h-full w-64 transform -translate-x-full transition-transform duration-300 ease-in-out sm:translate-x-0 sm:relative sm:h-13 sm:w-auto" id="navBar">
+      <ul class="flex flex-col justify-evenly h-full sm:flex-row sm:w-full">
         <a href="./index.html"><li class="py-2 sm:py-4 px-2 cursor-pointer hover:bg-tres">Home</li></a>
         <a href="./about.html"><li class="py-2 sm:py-4 px-2 cursor-pointer hover:bg-tres">About me</li></a>
         <a href="./stories.html"><li class="py-2 sm:py-4 px-2 cursor-pointer hover:bg-tres">Thoughts & Stories</li></a>
@@ -19,7 +19,15 @@
         <a href="./contact.html"><li class="py-2 sm:py-4 px-2 cursor-pointer hover:bg-tres">Contact</li></a>
       </ul>
     </nav>
-     <!-- Body -->
+
+    <!-- Toggle Button -->
+    <button class="fixed top-4 left-4 sm:hidden" id="toggleBtn">
+      <svg class="w-6 h-6 text-uno" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" stroke="currentColor">
+        <path d="M4 6h16M4 12h16M4 18h16"></path>
+      </svg>
+    </button>
+
+    <!-- Body -->
     <main class="bg-quad flex flex-col sm:flex-row justify-around items-center py-12 sm:py-96">
       <div class="main py-8 sm:py-0 pl-4 sm:pl-56 max-w-6xl">
         <div class="text-4xl sm:text-6xl font-serif">Subhramit's Blog</div>
@@ -36,10 +44,27 @@
         <img src="./assets/window.jpg" class="rounded-full h-40 sm:h-80 mr-0 sm:mr-72" alt="">
       </div>
     </main>
+
+    <hr>
+    <footer class="text-center bg-uno text-white">
+      <div class="flex justify-center"><a rel="license" href="https://opensource.org/licenses/MIT/" class="hover:text-quad">MIT License</a>. Copyright © 2023 Subhramit Basu Bhowmick</div>
+      <div class="flex justify-center"></div>
+    </footer>
+
+    <script>
+      const navBar = document.getElementById('navBar');
+      const toggleBtn = document.getElementById('toggleBtn');
+
+      toggleBtn.addEventListener('click', () => {
+        navBar.classList.toggle('translate-x-0');
+      });
+
+      document.addEventListener('click', (event) => {
+        const target = event.target;
+        if (!navBar.contains(target) && target !== toggleBtn) {
+          navBar.classList.remove('translate-x-0');
+        }
+      });
+    </script>
   </body>
-  <hr>
-  <footer class="text-center bg-uno text-white">
-    <div class="flex justify-center"><a rel="license" href="https://opensource.org/licenses/MIT/" class="hover:text-quad">MIT License</a>. Copyright © 2023 Subhramit Basu Bhowmick</div>
-    <div class="flex justify-center"></div>
-  </footer>
 </html>
