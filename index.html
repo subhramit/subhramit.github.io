@@ -1,45 +1,13 @@
-<!DOCTYPE html>
-<html lang="en" class="hidden md:block">
+<!doctype html>
+<html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Subhramit's Blog</title>
-    <link rel="icon" type="image/x-icon" href="favicon.ico">
-    <link rel="stylesheet" href="./styles.css">
+    <title>Modernize Blog with React and Best Practices</title>
   </head>
   <body>
-    <!-- Nav Bar -->
-    <nav class="bg-uno text-white flex gap-6 h-13">
-      <ul class="flex justify-evenly w-full">
-        <a href="./index.html"><li class="py-auto cursor-pointer hover:bg-tres py-4 px-2">Home</li></a>
-        <a href="./about.html"><li class="py-auto cursor-pointer hover:bg-tres py-4 px-2">About me</li></a>
-        <a href="./stories.html"><li class="py-auto cursor-pointer hover:bg-tres py-4 px-2">Thoughts & Stories</li></a>
-        <a href="./poetry.html"><li class="py-auto cursor-pointer hover:bg-tres py-4 px-2">Poetry</li></a>
-        <a href="./recommendations.html"><li class="py-auto cursor-pointer hover:bg-tres py-4 px-2">Recommendations</li></a>
-        <a href="./contact.html"><li class="py-auto cursor-pointer hover:bg-tres py-4 px-2">Contact</li></a>
-      </ul>
-    </nav>
-     <!-- Body -->
-    <main class="bg-quad flex justify-around">
-      <div class="main py-96 pl-56 max-w-6xl">
-        <div class="text-6xl font-serif">Subhramit's Blog</div>
-        <div>
-          <p class="py-3 w-1/2 pl-1 font-serif">
-            The aurors are on their way.
-          </p>
-          <div class="buttons my-4">
-              <a href="./about.html"><button class="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2">Board the train</button></a>
-        </div>
-        </div>
-      </div>
-      <div class="flex items-center">
-        <img src="./assets/window.jpg" class="rounded-full h-80 mr-72" alt="">
-      </div>
-    </main>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
   </body>
-  <hr>
-  <footer class="text-center bg-uno text-white">
-    <div class="flex justify-center"><a rel="license" href="https://opensource.org/licenses/MIT/" class="hover:text-quad">MIT License</a>. Copyright © 2023 Subhramit Basu Bhowmick</div>
-    <div class="flex justify-center"></div>
-    </footer>
 </html>
