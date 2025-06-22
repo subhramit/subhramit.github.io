@@ -23,7 +23,7 @@ export default function Layout({ children }: LayoutProps) {
       <div
         className={`fixed inset-y-0 left-0 transform ${
           isMobileMenuOpen ? 'translate-x-0' : '-translate-x-full'
-        } md:hidden bg-uno w-64 z-40 transition-transform duration-300 ease-in-out`}
+        } md:hidden bg-uno text-white w-64 z-40 transition-transform duration-300 ease-in-out`}
       >
         <Navigation className="flex-col pt-16" />
       </div>
