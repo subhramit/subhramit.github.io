@@ -15,5 +15,9 @@ export interface BlogPost {
     text: string;
     author: string;
   };
-  content: string;
+  content: string[];
+  endQuote?: {
+    text: string;
+    author: string;
+  };
 }
