@@ -15,7 +15,7 @@ export default function Poetry() {
                 My thoughts on poetry
             </div>
 
-            <div className="text-lg md:text-xl text-start font-serif font-medium md:pl-[15.5rem] pt-4 italic">
+            <div className="text-lg md:text-xl text-start font-serif font-medium md:pl-[15.5rem] md:pr-[15.5rem] pt-4 italic">
                 <p>"And medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. <br />
                     But poetry, beauty, romance, love - these are what we stay alive for."</p>
             </div>
