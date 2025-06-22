@@ -3,7 +3,7 @@ import windowImage from '/window.jpg';
 export default function Contact() {
   return (
       <div className="flex flex-col md:flex-row justify-around items-center p-8 md:p-0">
-        <div className="md:py-96 px-16 md:pl-56 md:pr-0 max-w-6xl text-center md:text-left">
+        <div className="md:py-80 px-16 md:pl-56 md:pr-0 max-w-6xl text-center md:text-left">
           <div className="text-4xl md:text-6xl font-serif mb-4">Thanks for taking the journey!</div>
           <div>
             <p className="py-3 md:w-1/2 pl-1 font-serif">
