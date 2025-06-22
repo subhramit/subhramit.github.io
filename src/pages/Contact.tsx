@@ -1,3 +1,5 @@
+import windowImage from '/window.jpg';
+
 export default function Contact() {
   return (
     <div className="flex justify-around">
@@ -36,7 +38,7 @@ export default function Contact() {
         </div>
       </div>
       <div className="flex items-center">
-        <img src="https://images.pexels.com/photos/3278215/pexels-photo-3278215.jpeg" className="rounded-full h-80 mr-72" alt="Contact" />
+        <img src={windowImage} className="rounded-full h-80 mr-72" alt="Contact" />
       </div>
     </div>
   );
