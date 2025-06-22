@@ -4,7 +4,7 @@ export default function About() {
     return (
         <div className="max-w-7xl mx-auto px-4 py-8">
             <div className="flex justify-center">
-                <div className="w-64 h-64 mx-auto mb-4">
+                <div className="w-6/12 md:w-64 md:h-64 mx-auto mb-4">
                     <img
                         src={displayImage}
                         className="w-full h-full object-cover rounded-full"
