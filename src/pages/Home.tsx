@@ -1,5 +1,3 @@
-import { Book } from 'lucide-react';
-
 export default function Home() {
   return (
     <div className="flex flex-col md:flex-row justify-around items-center p-8 md:p-0">
@@ -17,7 +15,11 @@ export default function Home() {
         </div>
       </div>
       <div className="mt-8 md:mt-0">
-        <Book className="w-32 h-32 md:w-48 md:h-48 text-uno" />
+          <img
+              src="../../public/window.jpg"
+              alt="Blog illustration"
+              className="w-32 h-32 md:w-48 md:h-48 object-contain"
+          />
       </div>
     </div>
   );
