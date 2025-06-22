@@ -14,7 +14,10 @@ export default function Contact() {
             <a href="https://www.instagram.com/_neeyl/">
               <button className="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2">Instagram</button>
             </a>
-            <a href="https://www.linkedin.com/in/subhramit-basu-bhowmick-7636881ba/">
+            <a href="https://github.com/subhramit">
+              <button className="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2">GitHub</button>
+            </a>
+            <a href="https://www.linkedin.com/in/subhramit-basu/">
               <button className="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2">LinkedIn</button>
             </a>
             <a href="https://www.facebook.com/subhramit.basu/">
