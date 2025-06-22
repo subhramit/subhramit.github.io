@@ -1,17 +1,20 @@
-import { Book } from 'lucide-react';
+import diaryImage from '/diary.jpg';
 import { characters, blogPosts } from '../data/content';
 
 export default function Stories() {
   return (
-    <div className="max-w-4xl mx-auto px-4 py-8">
-      <div className="text-center mb-8">
-        <div className="w-32 h-32 mx-auto mb-4">
-          <Book className="w-full h-full text-uno" />
-        </div>
-        <h1 className="text-4xl md:text-6xl font-serif font-extralight underline decoration-2 mb-12">
-          Thoughts & Stories
-        </h1>
-      </div>
+      <main className="bg-quad w-full mx-auto my-auto flex-col">
+          {/* Replace the Book icon with the original image */}
+          <div className="flex justify-center pt-3">
+              <img
+                  src={diaryImage}
+                  className="max-w-screen-2xl object-cover w-2/12 rounded-full"
+                  alt="Diary"
+              />
+          </div>
+          <div className="text-6xl text-start font-serif font-extralight flex justify-center pt-5 underline decoration-2">
+              Thoughts & Stories
+          </div>
 
       <section className="mb-12">
         <h2 className="text-3xl md:text-5xl font-serif font-extralight underline decoration-2 mb-6">
@@ -50,6 +53,6 @@ export default function Stories() {
           </article>
         ))}
       </section>
-    </div>
+    </main>
   );
 }
