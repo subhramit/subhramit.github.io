@@ -11,22 +11,30 @@ export default function Layout({ children }: LayoutProps) {
 
   return (
     <div className="min-h-screen flex flex-col">
-      {/* Mobile Menu Button */}
-      <button
-        className="md:hidden fixed top-4 left-4 z-50 p-2 bg-uno text-white rounded-lg"
-        onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-      >
-        {isMobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
-      </button>
+        {/* Mobile Menu Button */}
+        <button
+            className="md:hidden fixed top-4 left-4 z-50 p-2 bg-uno text-white rounded-lg"
+            onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+        >
+            {isMobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
+        </button>
 
-      {/* Mobile Navigation Sidebar */}
-      <div
-        className={`fixed inset-y-0 left-0 transform ${
-          isMobileMenuOpen ? 'translate-x-0' : '-translate-x-full'
-        } md:hidden bg-uno text-white w-64 z-40 transition-transform duration-300 ease-in-out`}
-      >
-        <Navigation className="flex-col pt-16" />
-      </div>
+        {/* Backdrop Overlay */}
+        {isMobileMenuOpen && (
+            <div
+                className="fixed inset-0 bg-black bg-opacity-50 z-30 md:hidden"
+                onClick={() => setIsMobileMenuOpen(false)}
+            />
+        )}
+
+        {/* Mobile Navigation Sidebar */}
+        <div
+            className={`fixed inset-y-0 left-0 transform ${
+                isMobileMenuOpen ? 'translate-x-0' : '-translate-x-full'
+            } md:hidden bg-uno text-white w-64 z-40 transition-transform duration-300 ease-in-out`}
+        >
+            <Navigation className="flex-col pt-16" />
+        </div>
 
       {/* Desktop Navigation */}
       <nav className="hidden md:block bg-uno text-white">
