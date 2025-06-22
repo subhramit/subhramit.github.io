@@ -51,10 +51,10 @@ export default function Layout({ children }: LayoutProps) {
         <div className="flex justify-center">
           <a
             rel="license"
-            href="https://opensource.org/licenses/MIT/"
+            href="/LICENSE"
             className="hover:text-quad"
           >
-            MIT License
+              Licensed under MIT
           </a>
           . Copyright © {new Date().getFullYear()} Subhramit Basu Bhowmick
         </div>
