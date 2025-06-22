@@ -52,11 +52,11 @@ export default function Layout({ children }: LayoutProps) {
           <a
             rel="license"
             href="/LICENSE"
-            className="hover:text-quad"
+            className="hover:text-quad mr-1"
           >
-              Licensed under MIT
+              License
           </a>
-          . Copyright © {new Date().getFullYear()} Subhramit Basu Bhowmick
+            {" • "}Copyright © {new Date().getFullYear()} Subhramit Basu Bhowmick
         </div>
       </footer>
     </div>
