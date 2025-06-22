@@ -1,4 +1,5 @@
-import windowImage from '../../public/window.jpg';
+import windowImage from '/window.jpg';
+import { Link } from 'react-router-dom';
 
 export default function Home() {
     return (
@@ -9,11 +10,11 @@ export default function Home() {
                     The aurors are on their way.
                 </p>
                 <div className="buttons my-4">
-                    <a href="/about">
+                    <Link to="/about">
                         <button className="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2">
                             Board the train
                         </button>
-                    </a>
+                    </Link>
                 </div>
             </div>
             <div className="mt-8 md:mt-0 flex items-center">
