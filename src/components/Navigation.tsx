@@ -21,7 +21,7 @@ export default function Navigation({ className = '' }: NavigationProps) {
         <li key={item.href}>
           <Link
             to={item.href}
-            className="block py-4 pl-5 pr-2 hover:bg-tres transition-colors duration-200"
+            className="block py-4 pl-5 pr-2 md:px-3 hover:bg-tres transition-colors duration-200"
           >
             {item.label}
           </Link>
