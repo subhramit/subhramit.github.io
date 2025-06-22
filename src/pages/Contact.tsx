@@ -37,8 +37,10 @@ export default function Contact() {
             </div>
           </div>
         </div>
-        <div className="mt-8 md:mt-0 flex items-center">
-          <img src={windowImage} className="rounded-full h-48 md:h-80 md:mr-72 object-cover" alt="Contact" />
+        <div className="mt-8 md:mt-0 flex items-center justify-center md:justify-start">
+          <div className="w-8/12 md:w-80 md:h-80 md:mr-72">
+            <img src={windowImage} className="w-full h-full rounded-full object-cover" alt="Contact" />
+          </div>
         </div>
       </div>
   );

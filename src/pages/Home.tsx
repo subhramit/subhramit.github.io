@@ -17,12 +17,14 @@ export default function Home() {
                     </Link>
                 </div>
             </div>
-            <div className="mt-8 md:mt-0 flex items-center">
-                <img
-                    src={windowImage}
-                    alt="Window view"
-                    className="rounded-full h-48 md:h-80 md:mr-48 object-cover"
-                />
+            <div className="mt-8 md:mt-0 flex items-center justify-center md:justify-start">
+                <div className="w-8/12 md:w-80 md:h-80 md:mr-48">
+                    <img
+                        src={windowImage}
+                        alt="Window view"
+                        className="w-full h-full rounded-full object-cover"
+                    />
+                </div>
             </div>
         </div>
     );
