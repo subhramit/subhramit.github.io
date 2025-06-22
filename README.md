@@ -1,7 +1,14 @@
 # Subhramit's Blog
-## My blog page
+
+My personal blog.
+
 ## License
-This piece of software is licensed under an [MIT License](https://opensource.org/licenses/MIT). <br>
-The text (non-code syntax) content present in raw form in the software is not to be copied without accreditation to the original owner. For more details, refer to the LICENSE file. <br>
-Copyright © 2023 Subhramit Basu Bhowmick <br>
-All rights reserved.
+
+This project is licensed under a **Modified [MIT License](https://opensource.org/licenses/MIT)**.
+
+- **Code**: Free to use, modify, and distribute
+- **Written content**: Requires attribution when copied or republished
+
+See the [LICENSE](LICENSE) file for more information.
+
+Copyright © 2025 Subhramit Basu Bhowmick
