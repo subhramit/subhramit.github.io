@@ -6,7 +6,7 @@ export default function About() {
           <div className="flex justify-center pt-5">
               <img
                   src={displayImage}
-                  className="max-w-screen-2xl object-cover w-2/12 rounded-full"
+                  className="max-w-screen-2xl object-cover w-[14%] rounded-full"
                   alt="Profile picture"
               />
           </div>

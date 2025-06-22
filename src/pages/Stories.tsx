@@ -5,7 +5,7 @@ export default function Stories() {
     return (
         <div className="max-w-4xl mx-auto px-4 py-8">
             <div className="text-center mb-8">
-                <div className="w-32 h-32 mx-auto mb-4">
+                <div className="w-64 h-64 mx-auto mb-4">
                     <img
                         src={diaryImage}
                         className="w-full h-full object-cover rounded-full"
