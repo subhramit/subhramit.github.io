@@ -1247,10 +1247,10 @@ export default function Recommendations() {
                 <p>"The Bet" is a short story that I was first introduced to in my 8th standard because of my board (ICSE). Although I did not have the maturity to, and hence wasn't able appreciate it justifiably back then, every time I re-read it at my leisure after my boards ended, my understanding of its themes deepend and I found it to be one of the most marvelous stories that have ever been written.<br />
                     It highlights the psychological changes a young lawyer goes through during a 15-year voluntary solitary confinement, as a consequence of a "stupid" bet that he takes with a rich banker to prove that life imprisonment is a more humane punishment compared to death penalty, for two million dollars. I don't wish to spoil it for you any further, but I can't keep myself from putting this quote here that you'll find relevant to the story (and this sub-section in general) after reading it (if you choose to): <br/>
                 </p>
-                <div className="text-xl text-start font-serif font-extralight pl-72 pr-62 pt-5 italic">
+                <div className="text-xl text-start font-serif font-extralight pl-4 md:pl-72 pr-4 md:pr-62 pt-5 italic">
                     <p>"A reader lives a thousand lives before he dies. The man who never reads lives only one."</p>
                 </div>
-                <div className="text-xl text-start font-serif flex justify-end pl-62 pr-[354px] ">- George R.R. Martin</div>
+                <div className="text-xl text-start font-serif flex justify-end pl-4 md:pl-62 pr-4 md:pr-[354px]">- George R.R. Martin</div>
                 <br />
                 <p>The Bhagavad Gita is a very old scripture which consists of a conversation between two friends, Arjuna and Krishna. Arjuna finds himself in a war in which he has to fight for Dharma, against his own kin, and consequently finds himself trembling (both physically and metaphorically) and is unable to wield his bow against them. He turns to his friend Krishna for guidance, and he sings the Gita to him, which guides him through the battle out of which he emerges enlightened and victorious, despite having an army which would otherwise be considered weaker than his opponent's (Duryodhan). It is a very deep piece of literature and when unpacked properly, acts as a guide to life in general. <br />
                 <br />
