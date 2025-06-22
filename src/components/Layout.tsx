@@ -51,7 +51,7 @@ export default function Layout({ children }: LayoutProps) {
         <div className="flex justify-center">
           <a
             rel="license"
-            href="/LICENSE"
+            href="https://github.com/subhramit/subhramit.github.io/blob/main/LICENSE"
             className="hover:text-quad mr-1"
           >
               License
