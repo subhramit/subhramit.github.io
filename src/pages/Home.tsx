@@ -3,8 +3,8 @@ import { Link } from 'react-router-dom';
 
 export default function Home() {
     return (
-        <div className="flex flex-col md:flex-row justify-around items-center p-8 md:p-0">
-            <div className="md:py-96 px-16 md:pl-56 md:pr-0 max-w-6xl text-center md:text-left">
+        <div className="flex flex-col md:flex-row justify-around items-center pt-20 md:pt-0 p-8 md:p-0">
+            <div className="md:py-96 md:pl-56 md:pr-0 max-w-6xl text-center md:text-left">
                 <h1 className="text-4xl md:text-6xl font-serif mb-4">Subhramit's Blog</h1>
                 <p className="py-3 md:w-1/2 pl-1 font-serif mb-4">
                     The aurors are on their way.
@@ -21,7 +21,7 @@ export default function Home() {
                 <img
                     src={windowImage}
                     alt="Window view"
-                    className="rounded-full h-32 md:h-80 md:mr-72 object-cover"
+                    className="rounded-full h-32 md:h-80 md:mr-48 object-cover"
                 />
             </div>
         </div>
