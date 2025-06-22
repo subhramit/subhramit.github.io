@@ -1,5 +1,3 @@
-import React from 'react';
-
 export default function Recommendations() {
   return (
     <div className="w-full mx-auto my-auto flex-col">
