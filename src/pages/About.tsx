@@ -1,4 +1,3 @@
-import React from 'react';
 import displayImage from '/neil.jpg';
 
 export default function About() {
