@@ -1,9 +1,9 @@
 import { Character, BlogPost } from '../types';
 
 export const characters: Character[] = [
-  { name: 'Me', description: '' },
-  { name: 'Myself', description: 'redacted' },
-  { name: 'I', description: 'redacted' },
+  // { name: 'Me', description: '' },
+  // { name: 'Myself', description: 'redacted' },
+  // { name: 'I', description: 'redacted' },
 ];
 
 export const blogPosts: BlogPost[] = [
