@@ -3,12 +3,14 @@ import displayImage from '/neil.jpg';
 export default function About() {
     return (
         <div className="max-w-7xl mx-auto px-4 py-8">
-            <div className="flex justify-center pt-5">
-                <img
-                    src={displayImage}
-                    className="max-w-screen-2xl w-[14%] object-cover rounded-full"
-                    alt="Profile picture"
-                />
+            <div className="flex justify-center">
+                <div className="w-64 h-64 mx-auto mb-4">
+                    <img
+                        src={displayImage}
+                        className="w-full h-full object-cover rounded-full"
+                        alt="Profile picture"
+                    />
+                </div>
             </div>
             <div className="text-3xl md:text-5xl text-center underline decoration-2 pt-7">About me</div>
             <div className="text-lg md:text-xl font-serif font-medium pt-8 space-y-4">
