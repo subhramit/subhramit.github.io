@@ -38,7 +38,7 @@ export default function Contact() {
           </div>
         </div>
         <div className="mt-8 md:mt-0 flex items-center">
-          <img src={windowImage} className="rounded-full h-32 md:h-80 md:mr-72 object-cover" alt="Contact" />
+          <img src={windowImage} className="rounded-full h-42 md:h-80 md:mr-72 object-cover" alt="Contact" />
         </div>
       </div>
   );

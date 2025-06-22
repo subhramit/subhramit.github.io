@@ -21,7 +21,7 @@ export default function Home() {
                 <img
                     src={windowImage}
                     alt="Window view"
-                    className="rounded-full h-32 md:h-80 md:mr-48 object-cover"
+                    className="rounded-full h-42 md:h-80 md:mr-48 object-cover"
                 />
             </div>
         </div>
