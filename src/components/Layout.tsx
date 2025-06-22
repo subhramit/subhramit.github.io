@@ -48,15 +48,16 @@ export default function Layout({ children }: LayoutProps) {
 
       {/* Footer */}
       <footer className="text-center bg-uno text-white py-4">
-        <div className="flex justify-center">
+        <div className="flex justify-center items-center gap-1">
           <a
             rel="license"
             href="https://github.com/subhramit/subhramit.github.io/blob/main/LICENSE"
-            className="hover:text-quad mr-1"
+            className="hover:text-quad mr-1 hidden sm:inline"
           >
               License
           </a>
-            {" • "}Copyright © {new Date().getFullYear()} Subhramit Basu Bhowmick
+            <span className="hidden sm:inline pr-1">•</span>
+            <span>Copyright © {new Date().getFullYear()} Subhramit Basu Bhowmick</span>
         </div>
       </footer>
     </div>
