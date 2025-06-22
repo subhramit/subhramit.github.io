@@ -30,7 +30,7 @@ export default function Stories() {
                     ))}
                 </div>
                 <p className="mt-6 font-serif">
-                    Once upon a time, this section used to contain the names of people people who either greatly influenced or played a significant part in the story of my life. It was (and is) difficult to make such a list, as there many people including my childhood friends and college friends who have come and stayed close to my heart as life unfolded, so I decided to start out small and list a couple of people. <br/>
+                    Once upon a time, this section used to contain the names of people people who either greatly influenced or played a significant part in the story of my life. It was (and is) difficult to make such a list, as there many people including my childhood friends, college friends and office co-workers who have come and stayed close to my heart as life unfolded, so I decided to start out small and list a couple of people. <br/>
                     My plan back then was that from time to time, I would be introducing more of the characters with the stories I share. However, as time passed, it turned out that it didn't make sense to have a pre-defined list at all, given how my own experiences turned out to be the most influential among my life, and although the experiences involve people, it made more sense to focus on the stories than the people, apart from the fact that you "never know what happens tomorrow" once you put anybody on a pedestal. <br/>
                     Hence, now I only stick to the plan.
                 </p>
