@@ -45,11 +45,19 @@ export default function Stories() {
                                 <blockquote className="italic font-semibold mb-2">
                                     "{post.quote.text}"
                                 </blockquote>
-                                <cite className="block text-sm">-{post.quote.author}</cite>
+                                <cite className="block text-xl font-serif not-italic">-{post.quote.author}</cite>
                             </div>
                         )}
-                        <div className="prose prose-lg font-serif">{post.content}</div>
-                        <div className="text-xl font-serif mt-4">{post.date}</div>
+                        <div className="prose prose-xl font-serif font-medium whitespace-pre-line">{post.content}</div>
+                        {post.endQuote && (
+                            <div className="mt-6 mb-4">
+                                <blockquote className="italic font-semibold mb-2">
+                                    "{post.endQuote.text}"
+                                </blockquote>
+                                <cite className="block text-xl font-serif not-italic">-{post.endQuote.author}</cite>
+                            </div>
+                        )}
+                        <div className="text-xxl font-serif mt-4">{post.date}</div>
                     </article>
                 ))}
             </section>
