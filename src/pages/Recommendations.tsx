@@ -207,7 +207,7 @@ export default function Recommendations() {
                 className="flex justify-center pt-4">
                 <img
                     src={tomAndSummerImage}
-                    className="max-w-screen-3xl object-cover w-8/12 md:w-4/12 rounded-2xl"
+                    className="max-w-screen-3xl object-cover w-9/12 md:w-4/12 rounded-2xl"
                     alt="500 Days of Summer"
                 />
             </div>
@@ -533,7 +533,7 @@ export default function Recommendations() {
                 className="flex justify-center pt-4">
                 <img
                     src={braveImage}
-                    className="max-w-screen-3xl object-cover w-8/12 md:w-4/12 rounded-2xl"
+                    className="max-w-screen-3xl object-cover w-9/12 md:w-4/12 rounded-2xl"
                     alt="Brave"
                 />
             </div>
@@ -1268,7 +1268,7 @@ export default function Recommendations() {
                 className="flex justify-center pt-4">
                 <img
                     src={youStartedItImage}
-                    className="max-w-screen-3xl object-cover w-8/12 md:w-4/12 rounded-full"
+                    className="max-w-screen-3xl object-cover w-9/12 md:w-4/12 rounded-full"
                     alt="You Started It Podcast"
                 />
             </div>
