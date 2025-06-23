@@ -33,6 +33,6 @@ export const blogPosts: BlogPost[] = [
   {
     title:'Thought - The Lemur',
     date: '24-06-2025',
-    content: `Yesterday, I was watching Flow (I am a sucker for animated films), and in it there was a Lemur who was obsessed with collecting useless items (glass bottles, mirrors and trinkets, to be precise), even at the face of a flood, which he needs to survive to even be able to entertain himself with these. It was as if they are so important, and indispensable. "What a foolish animal", I thought to myself. And then, after a while, it hit me - how different are most human beings from the Lemur, just the scope and scale of this obsession being different?`
+    content: `Yesterday, I was watching Flow (as I might have mentioned before, I am a sucker for Disney-style animated films), and in it there was a Lemur who was obsessed with collecting useless items (glass bottles, mirrors and trinkets, to be precise), even at the face of a flood, which he needs to survive to even be able to entertain himself with these. It was as if they are so important, and indispensable. "What a foolish animal", I thought to myself. And then, after a while, it hit me - how different are most human beings from the Lemur, just the scope and scale of this obsession being different?`
   }
 ];
