@@ -11,7 +11,7 @@ export default function Poetry() {
                 />
             </div>
 
-            <div className="text-4xl md:text-6xl text-center md:text-start font-serif font-extralight md:pl-[15rem] pt-7 underline decoration-2">
+            <div className="text-4xl md:text-5xl text-center md:text-start font-serif font-extralight md:pl-[15rem] pt-7 underline decoration-2">
                 My thoughts on poetry
             </div>
 
