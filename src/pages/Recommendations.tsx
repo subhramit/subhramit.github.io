@@ -61,43 +61,17 @@ export default function Recommendations() {
                 Karunesh is also quite commonplace, but his funniest act so far was his most recent Amazon Prime <a href="https://www.primevideo.com/detail/Aalas-Motaapa-Ghabraahat/0PC75X2D6A4RGZ4NA280VF9SS0" className="hover:text-tres text-pink-600">special</a>. <br />
                 Mohd Suhel is the newest gold that I've struck. He is criminally underrated. Have a taste <a href="https://www.youtube.com/watch?v=og6SGJ-fi1A&ab_channel=MohdSuhel" className="hover:text-tres text-pink-600">here</a>.
                 </p>
-          </div>
+            </div>
 
-            <div
-                className="text-lg md:text-xl text-start font-serif font-medium md:pl-60 md:pr-60">
+            <div className="text-lg md:text-xl text-start font-serif font-medium md:pl-60 md:pr-60">
                 <p>
-                    <br/>
-                    <strong><u>Side
-                        note</u>:</strong> I
-                    also
-                    love
-                    skits
-                    by <a
-                    href="https://www.youtube.com/watch?v=R6_q0MwImTE&ab_channel=AwkwardPuppets"
-                    className="hover:text-tres text-pink-600">Awkward
-                    Puppets</a>, <a
-                    href="https://www.youtube.com/watch?v=W4EK5nvyszs&t=3s&ab_channel=AGCANDY"
-                    className="hover:text-tres text-pink-600">AGC
-                    Andy</a> (most
-                    of
-                    his
-                    content
-                    is
-                    on
-                    Instagram),
-                    and <a
-                    href="https://www.youtube.com/watch?v=OjFUJEoq8k0&ab_channel=Key%26Peele"
-                    className="hover:text-tres text-pink-600">Key
-                    and
-                    Peele</a>.
+                    <br />
+                    <strong><u>Side note</u>:</strong> I also love skits by <a href="https://www.youtube.com/watch?v=R6_q0MwImTE&ab_channel=AwkwardPuppets" className="hover:text-tres text-pink-600">Awkward Puppets</a>, <a href="https://www.youtube.com/watch?v=W4EK5nvyszs&t=3s&ab_channel=AGCANDY" className="hover:text-tres text-pink-600">AGC Andy</a> (most of his content is on Instagram), and <a href="https://www.youtube.com/watch?v=OjFUJEoq8k0&ab_channel=Key%26Peele" className="hover:text-tres text-pink-600">Key and Peele</a>.
                 </p>
             </div>
 
             {/* Movies Section */}
-            <div
-                className="text-2xl md:text-3xl text-start font-serif font-bold md:pl-60 pt-5 underline">
-                Movies
-            </div>
+            <div className="text-2xl md:text-3xl text-start font-serif font-bold md:pl-60 pt-5 underline">Movies</div>
 
             <div
                 className="flex justify-center pt-4">
