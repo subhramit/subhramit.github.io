@@ -5,9 +5,7 @@ import youStartedItImage from '/youStartedIt.png';
 export default function Recommendations() {
     return (
         <div className="max-w-8xl mx-auto px-4 py-8">
-            <div className="text-4xl md:text-6xl text-center font-serif font-extralight underline decoration-2 pt-7">
-                Recommendations
-            </div>
+            <div className="text-4xl md:text-6xl text-center font-serif font-extralight underline decoration-2 pt-7">Recommendations</div>
 
             <div className="text-2xl md:text-3xl text-start font-serif font-medium md:pl-60 pt-8 italic max-w-6xl">
                 <p>"Look, Simba. Everything the light touches is our kingdom."</p>
@@ -21,9 +19,7 @@ export default function Recommendations() {
             </div>
 
             {/* Stand-up Comics Section */}
-            <div className="text-2xl md:text-3xl text-start font-serif font-bold md:pl-60 pt-5 underline">
-                Stand-up comics
-            </div>
+            <div className="text-2xl md:text-3xl text-start font-serif font-bold md:pl-60 pt-5 underline">Stand-up comics</div>
 
             <div className="text-lg md:text-xl text-start font-serif font-extralight md:pl-60 md:pr-72 pt-5 italic">
                 <p>"Dear Sad, look on the bright side. Being ghosted by your crush is far superior to being crushed by a ghost."</p>
@@ -56,116 +52,16 @@ export default function Recommendations() {
                 </p>
             </div>
 
-            <div
-                className="text-lg md:text-xl text-start font-serif font-medium md:pl-60 pt-4 md:pr-60">
-                <p>Here's
-                    a <a
-                        href="https://www.youtube.com/watch?v=YDDlFHQ1Vgw&t=468s&ab_channel=SrijanKaushik"
-                        className="hover:text-tres text-pink-600">link</a> to
-                    a
-                    short
-                    stand-up
-                    clip
-                    by
-                    Srijan
-                    Kaushik. <br/>
-                    Here's <a
-                        href="https://www.youtube.com/watch?v=6CdhE3hh2CQ&ab_channel=SumitAnand"
-                        className="hover:text-tres text-pink-600">one</a> by
-                    Sumit
-                    Anand. <br/>
-                    I'm
-                    not
-                    including
-                    any
-                    by
-                    Abhishek
-                    Upmanyu
-                    since
-                    he's
-                    a
-                    common
-                    favourite
-                    among
-                    people. <br/>
-                    Here's <a
-                        href="https://www.youtube.com/watch?v=n9Cql4qMrQ8&ab_channel=DanielFernandes"
-                        className="hover:text-tres text-pink-600">one</a> by
-                    Daniel
-                    Fernandes
-                    (you
-                    can
-                    also
-                    watch
-                    his
-                    specials
-                    for
-                    free,
-                    as
-                    he
-                    has
-                    a
-                    pay-as-you-like
-                    model). <br/>
-                    You
-                    can
-                    get
-                    a
-                    flavor
-                    of
-                    KV <a
-                        href="https://www.youtube.com/watch?v=kcKQI0J6pmU&ab_channel=RandomChikibum"
-                        className="hover:text-tres text-pink-600">here</a> (I
-                    don't
-                    know
-                    why,
-                    but
-                    he
-                    removed
-                    some
-                    of
-                    his
-                    old
-                    uploads).<br/>
-                    Karunesh
-                    is
-                    also
-                    quite
-                    commonplace,
-                    but
-                    his
-                    funniest
-                    act
-                    so
-                    far
-                    was
-                    his
-                    most
-                    recent
-                    Amazon
-                    Prime <a
-                        href="https://www.primevideo.com/detail/Aalas-Motaapa-Ghabraahat/0PC75X2D6A4RGZ4NA280VF9SS0"
-                        className="hover:text-tres text-pink-600">special</a>. <br/>
-                    Mohd
-                    Suhel
-                    is
-                    the
-                    newest
-                    gold
-                    that
-                    I've
-                    struck.
-                    He
-                    is
-                    criminally
-                    underrated.
-                    Have
-                    a
-                    taste <a
-                        href="https://www.youtube.com/watch?v=og6SGJ-fi1A&ab_channel=MohdSuhel"
-                        className="hover:text-tres text-pink-600">here</a>.
-                </p>
-            </div>
+            <div className="text-lg md:text-xl text-start font-serif font-medium md:pl-60 pt-4 md:pr-60">
+                <p>Here's a <a href="https://www.youtube.com/watch?v=YDDlFHQ1Vgw&t=468s&ab_channel=SrijanKaushik" class="hover:text-tres text-pink-600">link</a> to a short stand-up clip by Srijan Kaushik. <br>
+                    Here's <a href="https://www.youtube.com/watch?v=6CdhE3hh2CQ&ab_channel=SumitAnand" class="hover:text-tres text-pink-600">one</a> by Sumit Anand. <br>
+                        I'm not including any by Abhishek Upmanyu since he's a common favourite among people. <br>
+                            Here's <a href="https://www.youtube.com/watch?v=n9Cql4qMrQ8&ab_channel=DanielFernandes" class="hover:text-tres text-pink-600">one</a> by Daniel Fernandes (you can also watch his specials for free, as he has a pay-as-you-like model). <br>
+                                You can get a flavor of KV <a href="https://www.youtube.com/watch?v=kcKQI0J6pmU&ab_channel=RandomChikibum" class="hover:text-tres text-pink-600">here</a> (I don't know why, but he removed some of his old uploads).<br>
+          Karunesh is also quite commonplace, but his funniest act so far was his most recent Amazon Prime <a href="https://www.primevideo.com/detail/Aalas-Motaapa-Ghabraahat/0PC75X2D6A4RGZ4NA280VF9SS0" class="hover:text-tres text-pink-600">special</a>. <br>
+          Mohd Suhel is the newest gold that I've struck. He is criminally underrated. Have a taste <a href="https://www.youtube.com/watch?v=og6SGJ-fi1A&ab_channel=MohdSuhel" class="hover:text-tres text-pink-600">here</a>.
+          </p>
+          </div>
 
             <div
                 className="text-lg md:text-xl text-start font-serif font-medium md:pl-60 md:pr-60">
