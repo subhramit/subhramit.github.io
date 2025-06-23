@@ -15,12 +15,12 @@ export default function Poetry() {
                 My thoughts on poetry
             </div>
 
-            <div className="text-lg md:text-xl text-start font-serif font-medium md:pl-[15.5rem] md:pr-[15.5rem] pt-4 italic">
+            <div className="text-[17px] sm:text-lg md:text-xl text-start font-serif font-medium md:pl-[15.5rem] md:pr-[15.5rem] pt-4 italic">
                 <p>"And medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. <br />
                     But poetry, beauty, romance, love - these are what we stay alive for."</p>
             </div>
 
-            <div className="text-lg md:text-xl text-start font-serif md:pl-[15.5rem]">
+            <div className="text-[17px] sm:text-lg md:text-xl text-start font-serif md:pl-[15.5rem]">
                 - John Keating, Dead Poets Society (1989)
             </div>
 
@@ -50,7 +50,7 @@ export default function Poetry() {
                     As time ensnares us in this journey of life, love and death, <br />
                     I think it is madness to not be amazed.</p>
             </div>
-            <div className="text-xl text-start font-serif pl-[15rem] pt-2">20.11.2021</div>
+            <div className="text-[17px] sm:text-lg md:text-xl text-start font-serif pl-[15rem] pt-2">20.11.2021</div>
 
             <div className="text-2xl sm:text-3xl md:text-4xl text-start font-serif font-extralight md:pl-[15rem] pt-6">Storms</div>
             <div className="text-base md:text-lg text-start font-serif font-medium md:pl-[15.18rem] pt-2 italic">
@@ -69,7 +69,7 @@ export default function Poetry() {
                     When you look in the mirror <br />
                     You find something you truly adore?</p>
             </div>
-            <div className="text-xl text-start font-serif pl-[15rem] pt-2 pb-6">11.07.2023</div>
+            <div className="text-[17px] sm:text-lg md:text-xl text-start font-serif pl-[15rem] pt-2 pb-6">11.07.2023</div>
         </div>
     );
 }
