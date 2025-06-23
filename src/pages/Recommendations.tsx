@@ -220,6 +220,16 @@ export default function Recommendations() {
                 </p>
             </div>
 
+            <div className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-extralight md:pl-60 md:pr-72 pt-5 italic">
+                <p>
+                    "I can never read all the books I want; I can never be all the people I want and live all the lives I want. I can never train myself in all the skills I want. And why do I want? I want to live and feel all the shades, tones and variations of mental and physical experience possible in my life. And I am horribly limited."
+                </p>
+            </div>
+            <div className="text-base md:text-[19px] text-start font-serif md:pl-[245px]">
+                - Sylvia Plath, from "The Unabridged Journals of Sylvia Plath"<br />
+                (epigraph in The Midnight Library barring the last line, and also my favourite quote)
+            </div>
+
             <div className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-medium md:pl-60 pt-4 md:pr-72">
                 <p>
                     "The Bet" is a short story that I was first introduced to in my 8th standard because of my board (ICSE). Although I did not have the maturity to, and hence wasn't able appreciate it justifiably back then, every time I re-read it at my leisure after my boards ended, my understanding of its themes deepend and I found it to be one of the most marvelous stories that have ever been written.<br />
@@ -231,7 +241,7 @@ export default function Recommendations() {
                 <div className="text:lg md:text-xl text-start font-serif flex justify-end pl-4 md:pl-62 pr-4 md:pr-[354px]">- George R.R. Martin</div>
                 <br />
                 <p>
-                    The Bhagavad Gita is a very old scripture which consists of a conversation between two friends, Arjuna and Krishna. Arjuna finds himself in a war in which he has to fight for Dharma, against his own kin, and consequently finds himself trembling (both physically and metaphorically) and is unable to wield his bow against them. He turns to his friend Krishna for guidance, and he sings the Gita to him, which guides him through the battle out of which he emerges enlightened and victorious, despite having an army which would otherwise be considered weaker than his opponent's (Duryodhan). It is a very deep piece of literature and when unpacked properly, acts as a guide to life in general.<br /><br />
+                    The Bhagavad Gita is a very old scripture which (objectively) consists of a conversation between two friends, Arjuna and Krishna. Arjuna finds himself in a war in which he has to fight for Dharma, against his own kin, and consequently finds himself trembling (both physically and metaphorically) and is unable to wield his bow against them. He turns to his friend Krishna for guidance, and he sings the Gita to him, which guides him through the battle out of which he emerges enlightened and victorious, despite having an army which would otherwise be considered weaker than his opponent's (Duryodhan). It is a very deep piece of literature and when unpacked properly, acts as a guide to life in general. You can find every piece of important, fundamental wisdom you can ever gather from any elder, ted talk, book, etc. contained within the umbrella of some verse within some chapter of this book, but only if understood properly, as time and again it has also been subject to a lot of misinterpretations.<br /><br />
                     In Gödel, Escher, Bach: an Eternal Golden Braid, Douglas Hofstadter takes the lives and works of mathematician Kurt Gödel, artist M. C. Escher and musician Johann Sebastian Bach, and explores common themes between them. He doesn't necessarily relate their fields to each other, but discusses how human cognition emerges through neurological mechanisms. As Wikipedia puts it, "Through short stories, illustrations, and analysis, the book discusses how systems can acquire meaningful context despite being made of "meaningless" elements. It also discusses self-reference and formal rules, isomorphism, what it means to communicate, how knowledge can be represented and stored, the methods and limitations of symbolic representation, and even the fundamental notion of "meaning" itself."
                 </p>
             </div>
