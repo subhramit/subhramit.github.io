@@ -95,15 +95,15 @@ export default function Recommendations() {
                     <strong>9. The Secret Life of Walter Mitty</strong><br />
                     <strong>10. The End of the Tour</strong><br />
                     <strong>11. Wind River</strong><br />
-                    <strong>11. Django Unchained</strong><br />
-                    <strong>12. Skyfall</strong><br />
-                    <strong>13. Sully</strong><br />
-                    <strong>14. Anatomy of a Fall</strong><br />
-                    <strong>15. Before We Go</strong><br />
-                    <strong>16. The Big Short</strong><br />
-                    <strong>17. Living</strong><br />
-                    <strong>18. Groundhog Day</strong><br />
-                    <strong>19. Airplane!</strong> - if you're just looking for fun, go for this. It's the funniest movie that I've ever watched.
+                    <strong>12. Anatomy of a Fall</strong><br />
+                    <strong>13. Before We Go</strong><br />
+                    <strong>14. Django Unchained</strong><br />
+                    <strong>15. Skyfall</strong><br />
+                    <strong>16. Sully</strong><br />
+                    <strong>17. The Big Short</strong><br />
+                    <strong>18. Living</strong><br />
+                    <strong>19. Groundhog Day</strong><br />
+                    <strong>20. Airplane!</strong> - if you're just looking for fun, go for this. It's the funniest movie that I've ever watched.
                 </p>
             </div>
 
