@@ -24,7 +24,7 @@ export default function Poetry() {
                 - John Keating, Dead Poets Society (1989)
             </div>
 
-            <div className="text-lg md:text-xl text-start font-serif font-medium md:pl-[15.5rem] pt-4 md:pr-[15.5rem]">
+            <div className="text-base sm:text-lg md:text-xl text-start font-serif font-medium md:pl-[15.5rem] pt-4 md:pr-[15.5rem]">
                 <p>When it comes to poetry, I have never believed in constrained definitions about words on a page. I have always felt poets are not just the ones who write poetry, but also the ones who just possess a poetic mind - a mind that is capable of appreciating poetry or anything that is poetic. And here births the paradox - as all poetry is created by the poets, so that means all that is considered poetic is also only made so by the poets themselves. <br />
                     <br />
                     I always imagined an ideal "poets society" to be one in which people can, without any obligation to do so, come and sit together during a random sunset, look at the sky and just drown in the moment. Perhaps this is why I never made it to my college's poetry club.
@@ -33,8 +33,8 @@ export default function Poetry() {
                 </p>
             </div>
 
-            <div className="text-3xl md:text-5xl text-start font-serif font-extralight md:pl-[15rem] pt-6">Madness</div>
-            <div className="text-lg md:text-xl text-start font-serif font-medium md:pl-[15.18rem] pt-2 italic">
+            <div className="text-2xl sm:text-3xl md:text-4xl text-start font-serif font-extralight md:pl-[15rem] pt-6">Madness</div>
+            <div className="text-base md:text-lg text-start font-serif font-medium md:pl-[15.18rem] pt-2 italic">
                 <p>A mad world it is, perhaps <br />
                     Where life is an unsolicited gift. <br />
                     Before drowning in the nectar of the clouds, <br />
@@ -50,10 +50,10 @@ export default function Poetry() {
                     As time ensnares us in this journey of life, love and death, <br />
                     I think it is madness to not be amazed.</p>
             </div>
-            <div className="text-2xl text-start font-serif pl-[15rem] pt-2">20.11.2021</div>
+            <div className="text-xl text-start font-serif pl-[15rem] pt-2">20.11.2021</div>
 
-            <div className="text-3xl md:text-5xl text-start font-serif font-extralight md:pl-[15rem] pt-6">Storms</div>
-            <div className="text-lg md:text-xl text-start font-serif font-medium md:pl-[15.18rem] pt-2 italic">
+            <div className="text-2xl sm:text-3xl md:text-4xl text-start font-serif font-extralight md:pl-[15rem] pt-6">Storms</div>
+            <div className="text-base md:text-lg text-start font-serif font-medium md:pl-[15.18rem] pt-2 italic">
                 <p>Oh, haven't you wondered <br />
                     Why, by the storms you're always adored? <br />
                     Why, when the dark, moonless sky prevails, <br />
@@ -69,7 +69,7 @@ export default function Poetry() {
                     When you look in the mirror <br />
                     You find something you truly adore?</p>
             </div>
-            <div className="text-2xl text-start font-serif pl-[15rem] pt-2 pb-6">11.07.2023</div>
+            <div className="text-xl text-start font-serif pl-[15rem] pt-2 pb-6">11.07.2023</div>
         </div>
     );
 }
