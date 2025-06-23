@@ -95,6 +95,7 @@ export default function Recommendations() {
                     <strong>9. The Secret Life of Walter Mitty</strong><br />
                     <strong>10. The End of the Tour</strong><br />
                     <strong>11. Wind River</strong><br />
+                    <strong>11. Django Unchained</strong><br />
                     <strong>12. Skyfall</strong><br />
                     <strong>13. Sully</strong><br />
                     <strong>14. Anatomy of a Fall</strong><br />
