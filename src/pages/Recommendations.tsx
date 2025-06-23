@@ -227,7 +227,7 @@ export default function Recommendations() {
             </div>
             <div className="text-base md:text-[19px] text-start font-serif md:pl-[245px]">
                 - Sylvia Plath, from "The Unabridged Journals of Sylvia Plath"<br />
-                (epigraph in The Midnight Library barring the last line, and also my favourite quote)
+                (epigraph in The Midnight Library barring the last line, and also my favourite quote)<br />
             </div>
 
             <div className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-medium md:pl-60 pt-4 md:pr-72">
