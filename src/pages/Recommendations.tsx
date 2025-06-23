@@ -73,8 +73,7 @@ export default function Recommendations() {
             {/* Movies Section */}
             <div className="text-2xl md:text-3xl text-start font-serif font-bold md:pl-60 pt-5 underline">Movies</div>
 
-            <div
-                className="flex justify-center pt-4">
+            <div className="flex justify-center pt-4">
                 <img
                     src={tomAndSummerImage}
                     className="max-w-screen-3xl object-cover w-10/12 md:w-4/12 rounded-2xl"
@@ -82,80 +81,20 @@ export default function Recommendations() {
                 />
             </div>
 
-            <div
-                className="text-lg md:text-xl text-start font-serif font-medium md:pl-60 pt-8 md:pr-60">
+            <div className="text-lg md:text-xl text-start font-serif font-medium md:pl-60 pt-8 md:pr-60">
                 <p>
-                    <strong>1.
-                        500
-                        Days
-                        of
-                        Summer</strong><br/>
-                    <strong>2.
-                        Twelve
-                        Angry
-                        Men</strong> (Thanks
-                    to
-                    Kaustab
-                    for
-                    recommending)<br/>
-                    <strong>3.
-                        The
-                        Shawshank
-                        Redemption</strong><br/>
-                    <strong>4.
-                        Eternal
-                        Sunshine
-                        of
-                        the
-                        Spotless
-                        Mind</strong> (Thanks
-                    to
-                    Radhika
-                    for
-                    recommending)<br/>
-                    <strong>5.
-                        Sully</strong><br/>
-                    <strong>6.
-                        Before
-                        We
-                        Go</strong><br/>
-                    <strong>7.
-                        The
-                        Big
-                        Short</strong><br/>
-                    <strong>8.
-                        The
-                        End
-                        of
-                        the
-                        Tour</strong><br/>
-                    <strong>9.
-                        Begin
-                        Again</strong><br/>
-                    <strong>10.
-                        Groundhog
-                        Day</strong><br/>
-                    <strong>11.
-                        Skyfall</strong><br/>
-                    <strong>12.
-                        Airplane!</strong> -
-                    if
-                    you're
-                    just
-                    looking
-                    for
-                    fun,
-                    go
-                    for
-                    this.
-                    It's
-                    the
-                    funniest
-                    movie
-                    that
-                    I've
-                    ever
-                    watched.
+                    <strong>1. 500 Days of Summer</strong><br />
+                    <strong>2. Twelve Angry Men</strong> (Thanks to Kaustab for recommending)<br />
+                    <strong>3. The Shawshank Redemption</strong><br />
+                    <strong>4. Eternal Sunshine of the Spotless Mind</strong> (Thanks to Radhika for recommending)<br />
+                    <strong>5. Sully</strong><br />
+                    <strong>6. Before We Go</strong><br />
+                    <strong>7. The Big Short</strong><br />
+                    <strong>8. The End of the Tour</strong><br />
+                    <strong>9. Begin Again</strong><br />
+                    <strong>10. Groundhog Day</strong><br />
+                    <strong>11. Skyfall</strong><br />
+                    <strong>12. Airplane!</strong> - if you're just looking for fun, go for this. It's the funniest movie that I've ever watched.
                 </p>
             </div>
 
