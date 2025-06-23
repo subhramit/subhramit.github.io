@@ -88,14 +88,21 @@ export default function Recommendations() {
                     <strong>2. Twelve Angry Men</strong> (Thanks to Kaustab for recommending)<br />
                     <strong>3. The Shawshank Redemption</strong><br />
                     <strong>4. Eternal Sunshine of the Spotless Mind</strong> (Thanks to Radhika for recommending)<br />
-                    <strong>5. Sully</strong><br />
-                    <strong>6. Before We Go</strong><br />
-                    <strong>7. The Big Short</strong><br />
-                    <strong>8. The End of the Tour</strong><br />
-                    <strong>9. Begin Again</strong><br />
-                    <strong>10. Groundhog Day</strong><br />
-                    <strong>11. Skyfall</strong><br />
-                    <strong>12. Airplane!</strong> - if you're just looking for fun, go for this. It's the funniest movie that I've ever watched.
+                    <strong>5. Demolition</strong><br />
+                    <strong>6. Prisoners</strong><br />
+                    <strong>7. La La Land</strong><br />
+                    <strong>8. Begin Again</strong><br />
+                    <strong>9. The Secret Life of Walter Mitty</strong><br />
+                    <strong>10. The End of the Tour</strong><br />
+                    <strong>11. Wind River</strong><br />
+                    <strong>12. Skyfall</strong><br />
+                    <strong>13. Sully</strong><br />
+                    <strong>14. Anatomy of a Fall</strong><br />
+                    <strong>15. Before We Go</strong><br />
+                    <strong>16. The Big Short</strong><br />
+                    <strong>17. Living</strong><br />
+                    <strong>18. Groundhog Day</strong><br />
+                    <strong>19. Airplane!</strong> - if you're just looking for fun, go for this. It's the funniest movie that I've ever watched.
                 </p>
             </div>
 
