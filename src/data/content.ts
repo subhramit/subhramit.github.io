@@ -29,5 +29,10 @@ export const blogPosts: BlogPost[] = [
       text: "You know, whenever I'm sad, something that I always try holding on to are the good memories I have. No matter how bad things are going, no matter who leaves you alone, nobody can take away those good memories. They'll always be with you.",
       author: "someone I'm no longer with."
     }
+  },
+  {
+    title:'Thought - The Lemur',
+    date: '24-06-2025',
+    content: `Yesterday, I was watching Flow (I am a sucker for animated films), and in it there was a Lemur who was obsessed with collecting useless items (glass bottles, mirrors and trinkets, to be precise), even at the face of a flood, which he needs to survive to even be able to entertain himself with these. It was as if they are so important, and indispensable. "What a foolish animal", I thought to myself. And then, after a while, it hit me - how different are most human beings from the Lemur, just the scope and scale of this obsession being different?`
   }
 ];
