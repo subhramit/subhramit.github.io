@@ -6,7 +6,7 @@ export default function Poetry() {
             <div className="flex justify-center pt-3">
                 <img
                     src={poetryImage}
-                    className="max-w-screen-2xl object-cover w-9/12 md:w-4/12 rounded-full"
+                    className="max-w-screen-2xl object-cover w-9/12 md:w-[28%] rounded-full"
                     alt="Poetry"
                 />
             </div>
