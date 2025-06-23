@@ -130,11 +130,11 @@ export default function Recommendations() {
             <div
                 className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-medium md:pl-60 pt-6 md:pr-60">
                 <p>
-                    <strong>1.Brave</strong><br />
-                    <strong>2.Zootopia</strong><br />
-                    <strong>3.Soul</strong><br />
-                    <strong>4.Penguins of Madagascar</strong><br />
-                    <strong>5.Inside Out</strong> (Thanks to Radhika for recommending)
+                    <strong>1. Brave</strong><br />
+                    <strong>2. Zootopia</strong><br />
+                    <strong>3. Soul</strong><br />
+                    <strong>4. Penguins of Madagascar</strong><br />
+                    <strong>5. Inside Out</strong> (Thanks to Radhika for recommending)
                 </p>
             </div>
 
@@ -157,12 +157,14 @@ export default function Recommendations() {
 
             <div className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-medium md:pl-60 pt-2 md:pr-60">
                 <p>
-                    <strong>1. BoJack Horseman</strong><br />
-                    <strong>2. Dark</strong><br />
-                    <strong>3. Blackadder</strong> <br />
-                    <strong>4. Sherlock</strong><br />
-                    <strong>5. Gravity Falls</strong> - Why did they have to end it so soon? :( <br />
-                    <strong>6. 13 Reasons Why (Season 1 only)</strong>
+                    <strong>1. The Leftovers</strong><br />
+                    <strong>2. BoJack Horseman</strong><br />
+                    <strong>3. The OA</strong><br />
+                    <strong>4. Dark</strong><br />
+                    <strong>5. Blackadder</strong> <br />
+                    <strong>6. Sherlock</strong><br />
+                    <strong>7. Gravity Falls</strong> - Why did they have to end it so soon? :( <br />
+                    <strong>8. 13 Reasons Why (Season 1 only)</strong>
                 </p>
             </div>
 
@@ -175,6 +177,9 @@ export default function Recommendations() {
             <div
                 className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-medium md:pl-60 pt-4 md:pr-72">
                 <p>
+                    I started with the Leftovers because I was bored and needed something to watch before I resume work, and did not have much expectations, so targeted to finish one season. The setting of the show is that one fine day, 2% of the world's population randomly disappears. At the beginning, I had many questions, things which I expected to have an explanation for soon enough, or at least by the end. A few episodes in, it got me hooked like no other show ever could. By the end of the first season, I realized this show is not about answers at all. It is about how you cope when you don't have them. Just as the title suggests, the show revolves around the "leftovers", and not the "departed".<br />
+                    Needless to say, I ended up watching all three seasons.<br/>
+                    Justin Theroux and Carrie Coon have acted their heart and soul out throughout the show. Every season is better than the last, and the ending for season 2 is especially my favourite. At the end of S3E4, there is a "sprinkler" scene with "Take On Me" by A-ha playing in the background, rolling into the credits - which I believe is the most profound scene that has been ever shot in the history of television.<br /><br/>
                     BoJack Horseman is the most psychologically clever series that has ever been made. It deals with topics that aren't usually talked about, and if such themes were to be portrayed by real human actors, the series would either be censored or banned. But through the animated characters and funny dialogue, you're constantly reminded - "It's a talking horse, after all - how seriously are you actually supoosed to take it?"<br /><br />
                     If you've ever reached a point of self loathing in your life, this series will hit really close to home, and resonate with all of your deepest insecurities. Not just that, it has probably the best collection of soundtracks that you'd see put together in a single show, while being very appropriately picked. Some of these songs that made it to my favourites playlist include "Los Ageless" by St. Vincent, "Break My Fall" by Doc Robinson, and "Mr. Blue" by Catherine Feeny.<br /><br />
                     About Dark, I don't have a lot to say, except that I'd like to quote a YouTube comment that I once read - "There are two kinds of people in the world - the ones who think Dark is a masterpiece and the ones who haven't watched it yet." It is originally in German, but if you have subtitles it isn't hard to follow at all. Avoid going for the dubbed version.<br /><br />
