@@ -44,7 +44,7 @@ export default function Stories() {
                         </h2>
                         {post.quote && (
                             <div className="mb-4">
-                                <blockquote className="italic font-semibold mb-2">
+                                <blockquote className="italic text-[16.67px] font-serif font-semibold mb-2">
                                     "{post.quote.text}"
                                 </blockquote>
                                 <cite className="block text-[16.67px] font-serif not-italic">-{post.quote.author}</cite>
@@ -53,13 +53,13 @@ export default function Stories() {
                         <div className="prose prose-lg font-serif font-medium whitespace-pre-line">{post.content}</div>
                         {post.endQuote && (
                             <div className="mt-6 mb-4">
-                                <blockquote className="italic font-semibold mb-2">
+                                <blockquote className="italic text-[16.67px] font-serif font-semibold mb-2">
                                     "{post.endQuote.text}"
                                 </blockquote>
                                 <cite className="block text-[16.32px] font-serif not-italic">-{post.endQuote.author}</cite>
                             </div>
                         )}
-                        <div className="text-lg font-serif mt-4">{post.date}</div>
+                        <div className="text-[16.67px] font-serif mt-4">{post.date}</div>
                     </article>
                 ))}
             </section>
