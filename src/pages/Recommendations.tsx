@@ -18,7 +18,10 @@ export default function Recommendations() {
                 I write about my favourites here.
             </div>
 
-            {/* Stand-up Comics Section */}
+            {/**
+             * Stand-up Comics -----------------------------------------------------------------------------------------------
+             * ---------------------------------------------------------------------------------------------------------------
+             * */}
             <div className="text-[21px] md:text-3xl text-start font-serif font-bold md:pl-60 pt-5 underline">Stand-up comics</div>
 
             <div className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-extralight md:pl-60 md:pr-72 pt-5 italic">
@@ -71,7 +74,10 @@ export default function Recommendations() {
                 </p>
             </div>
 
-            {/* Movies Section */}
+            {/**
+             * Movies ----------------------------------------------------------------------------------------------------
+             * -----------------------------------------------------------------------------------------------------------
+             * */}
             <div className="text-[21px] md:text-3xl text-start font-serif font-bold md:pl-60 pt-5 underline">Movies</div>
 
             <div className="flex justify-center pt-4">
@@ -133,7 +139,10 @@ export default function Recommendations() {
                 </p>
             </div>
 
-            {/* Disney/DreamWorks Movies Section */}
+            {/**
+             * Disney/DreamWorks Movies -----------------------------------------------------------------------------------
+             * ------------------------------------------------------------------------------------------------------------
+             * */}
             <div className="text-[21px] md:text-3xl text-start font-serif font-bold md:pl-60 pt-6 underline">Disney/DreamWorks Movies</div>
 
             <div
@@ -173,7 +182,10 @@ export default function Recommendations() {
                 </p>
             </div>
 
-            {/* Series Section */}
+            {/**
+             * Series ----------------------------------------------------------------------------------------------------
+             * -----------------------------------------------------------------------------------------------------------
+             * */}
             <div className="text-[21px] md:text-3xl text-start font-serif font-bold md:pl-60 pt-6 underline">Series</div>
 
             <div className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-medium md:pl-60 pt-2 md:pr-60">
@@ -212,7 +224,10 @@ export default function Recommendations() {
                 </p>
             </div>
 
-            {/* Books/Stories Section */}
+            {/**
+              * Books/Stories -------------------------------------------------------------------------------------------
+             * ----------------------------------------------------------------------------------------------------------
+              */}
             <div className="text-[21px] md:text-3xl text-start font-serif font-bold md:pl-60 pt-6 underline">Books/Stories</div>
 
             <div className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-medium md:pl-60 pt-2 md:pr-60">
@@ -242,7 +257,7 @@ export default function Recommendations() {
 
             <div className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-medium md:pl-60 pt-4 md:pr-72">
                 <p>
-                    "The Bet" is a short story that I was first introduced to in my 8th standard because of my board (ICSE). Although I did not have the maturity to, and hence wasn't able appreciate it justifiably back then, every time I re-read it at my leisure after my boards ended, my understanding of its themes deepend and I found it to be one of the most marvelous stories that have ever been written.<br />
+                    "The Bet" is a short story that I was first introduced to in my 8th standard because of my board (ICSE). Although I did not have the maturity to, and hence wasn't able appreciate it justifiably back then, every time I re-read it at my leisure after my boards ended, my understanding of its themes deepend and I found it to be one of the most profoundly layered stories that have ever been written.<br />
                     It highlights the psychological changes a young lawyer goes through during a 15-year voluntary solitary confinement, as a consequence of a "stupid" bet that he takes with a rich banker to prove that life imprisonment is a more humane punishment compared to death penalty, for two million dollars. I don't wish to spoil it for you any further, but I can't keep myself from putting this quote here that you'll find relevant to the story (and this sub-section in general) after reading it (if you choose to): <br />
                 </p>
                 <div className="text:lg md:text-xl text-start font-serif font-extralight pl-4 md:pl-72 pr-4 md:pr-62 pt-5 italic">
@@ -256,7 +271,10 @@ export default function Recommendations() {
                 </p>
             </div>
 
-            {/* Podcasts Section */}
+            {/**
+             * Podcasts ---------------------------------------------------------------------------------------------------
+             * ------------------------------------------------------------------------------------------------------------
+             * */}
             <div className="text-[21px] md:text-3xl text-start font-serif font-bold md:pl-60 pt-6 underline">Podcasts</div>
 
             <div
