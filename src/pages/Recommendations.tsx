@@ -109,7 +109,7 @@ export default function Recommendations() {
 
             <div className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-medium md:pl-60 pt-4 md:pr-72">
                 <p>
-                    As you might have guessed from the list (if you have watched even a couple of these), movies that interest me "usually" have a touch of philosophy, ones from which I can take something home (not necessarily "morals" or "life lessons", but just something worth thinking about). I find fictional/superhero movies (Marvel, Mission Impossible, etc.) entertaining as well, but I mostly look forward to movies that don't wander too far from the ordinary life and capabilities of human beings, yet highlight the beauty of some ordinary aspect of it and portray it in an extraordinary way (The Secret Life of Walter Mitty being a prime example of it).<br />
+                    As you might have guessed from the list (if you have watched even a couple of these), movies that interest me "usually" have a touch of philosophy, ones from which I can take something home (not necessarily "morals" or "life lessons", but just something worth thinking about). I find fictional/superhero movies (Marvel, Mission Impossible, etc.) entertaining as well, but I mostly look forward to movies that don't wander too far from the ordinary life and capabilities of human beings, yet highlight the beauty in such ordinary aspects and portray it in an extraordinary way (The Secret Life of Walter Mitty being a prime example of it).<br />
                 </p>
             </div>
 
