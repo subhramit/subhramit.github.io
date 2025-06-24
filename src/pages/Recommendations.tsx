@@ -121,6 +121,10 @@ export default function Recommendations() {
                     New ones are slave labor you can keep"
                 </p>
             </div>
+            <div className="text-base md:text-[19px] text-start font-serif md:pl-[245px] pt-2">
+                - From "Us" by Regina Spektor<br />
+                (opening theme in 500 Days of Summer)<br />
+            </div>
 
             <div className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-medium md:pl-60 pt-4 md:pr-72">
                 <p>
@@ -158,6 +162,9 @@ export default function Recommendations() {
                     A day where anything can happen. A day when I can change my fate."
                 </p>
             </div>
+            <div className="text-base md:text-[19px] text-start font-serif pt-2 md:pl-[245px]">
+                - Merida, Brave (from the second part of the prologue)<br />
+            </div>
 
             <div className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-medium md:pl-60 pt-4 md:pr-72">
                 <p>
@@ -181,11 +188,14 @@ export default function Recommendations() {
                     <strong>8. 13 Reasons Why (Season 1 only)</strong>
                 </p>
             </div>
-
             <div className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-extralight md:pl-60 md:pr-72 pt-5 italic">
                 <p>
                     "That's the problem with life, right? Either you know what you want, and then you don't get what you want, or you get what you want, and then you don't know what you want."
                 </p>
+            </div>
+
+            <div className="text-base md:text-[19px] text-start font-serif pt-2 md:pl-[245px]">
+                - Diane Nguyen, BoJack Horseman (S01E12)<br />
             </div>
 
             <div
@@ -225,7 +235,7 @@ export default function Recommendations() {
                     "I can never read all the books I want; I can never be all the people I want and live all the lives I want. I can never train myself in all the skills I want. And why do I want? I want to live and feel all the shades, tones and variations of mental and physical experience possible in my life. And I am horribly limited."
                 </p>
             </div>
-            <div className="text-base md:text-[19px] text-start font-serif md:pl-[245px]">
+            <div className="text-base md:text-[19px] text-start font-serif pt-2 md:pl-[245px]">
                 - Sylvia Plath, from "The Unabridged Journals of Sylvia Plath"<br />
                 (epigraph in The Midnight Library barring the last line, and also my favourite quote)<br />
             </div>
