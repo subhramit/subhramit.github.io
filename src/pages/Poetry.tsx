@@ -20,7 +20,7 @@ export default function Poetry() {
                     But poetry, beauty, romance, love - these are what we stay alive for."</p>
             </div>
 
-            <div className="text-[17px] sm:text-lg md:text-xl text-start font-serif md:pl-[15.5rem]">
+            <div className="text-[17px] sm:text-lg md:text-xl text-start font-serif pt-2 md:pl-[15.5rem]">
                 - John Keating, Dead Poets Society (1989)
             </div>
 
