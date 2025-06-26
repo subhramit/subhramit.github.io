@@ -95,7 +95,7 @@ export default function Recommendations() {
                     <strong>3. The Shawshank Redemption</strong><br />
                     <strong>4. Eternal Sunshine of the Spotless Mind</strong> (Thanks to Radhika for recommending)<br />
                     <strong>5. Demolition</strong><br />
-                    <strong>6. Donnie Brasco</strong><br /> (hey SSV, thanks for this)
+                    <strong>6. Donnie Brasco</strong> (hey SSV, thanks for this)<br />
                     <strong>7. La La Land</strong><br />
                     <strong>8. Begin Again</strong><br />
                     <strong>9. The Secret Life of Walter Mitty</strong><br />
