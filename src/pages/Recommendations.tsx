@@ -95,21 +95,22 @@ export default function Recommendations() {
                     <strong>3. The Shawshank Redemption</strong><br />
                     <strong>4. Eternal Sunshine of the Spotless Mind</strong> (Thanks to Radhika for recommending)<br />
                     <strong>5. Demolition</strong><br />
-                    <strong>6. Prisoners</strong><br />
+                    <strong>6. Donnie Brasco</strong><br /> (hey SSV, thanks for this)
                     <strong>7. La La Land</strong><br />
                     <strong>8. Begin Again</strong><br />
                     <strong>9. The Secret Life of Walter Mitty</strong><br />
                     <strong>10. The End of the Tour</strong><br />
                     <strong>11. Wind River</strong><br />
-                    <strong>12. Anatomy of a Fall</strong><br />
-                    <strong>13. Before We Go</strong><br />
-                    <strong>14. Django Unchained</strong><br />
-                    <strong>15. Skyfall</strong><br />
-                    <strong>16. Sully</strong><br />
-                    <strong>17. The Big Short</strong><br />
-                    <strong>18. Living</strong><br />
-                    <strong>19. Groundhog Day</strong><br />
-                    <strong>20. Airplane!</strong> - if you're just looking for fun, go for this. It's the funniest movie that I've ever watched.
+                    <strong>12. Prisoners</strong><br />
+                    <strong>13. Anatomy of a Fall</strong><br />
+                    <strong>14. Before We Go</strong><br />
+                    <strong>15. Django Unchained</strong><br />
+                    <strong>16. Skyfall</strong><br />
+                    <strong>17. Sully</strong><br />
+                    <strong>18. The Big Short</strong><br />
+                    <strong>19. Living</strong><br />
+                    <strong>20. Groundhog Day</strong><br />
+                    <strong>21. Airplane!</strong> - if you're just looking for fun, go for this. It's the funniest movie that I've ever watched.
                 </p>
             </div>
 
@@ -213,11 +214,11 @@ export default function Recommendations() {
             <div
                 className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-medium md:pl-60 pt-4 md:pr-72">
                 <p>
-                    I started with the Leftovers because I was bored and needed something to watch before I resume work, and did not have much expectations, so targeted to finish one season. The setting of the show is that one fine day, 2% of the world's population randomly disappears. At the beginning, I had many questions, things which I expected to have an explanation for soon enough, or at least by the end. A few episodes in, it got me hooked like no other show ever could. By the end of the first season, I realized this show is not about answers at all. It is about how you cope when you don't have them. Just as the title suggests, the show revolves around the "leftovers", and not the "departed".<br /><br />
+                    I started with The Leftovers because I was bored and needed something to watch before I resume work, and did not have much expectations, so targeted to finish one season. The setting of the show is that one fine day, 2% of the world's population randomly disappears. At the beginning, I had many questions, things which I expected to have an explanation for soon enough, or at least by the end. A few episodes in, it got me hooked like no other show ever could. By the end of the first season, I realized this show is not about answers at all. It is about how you cope when you don't have them. Just as the title suggests, the show revolves around the "leftovers", and not the "departed".<br /><br />
                     Needless to say, I ended up watching all three seasons. Justin Theroux and Carrie Coon have acted their heart and soul out throughout the show. Every season is better than the last, and the ending for season 2 is especially my favourite. At the end of S3E4, there is a "sprinkler" scene with "Take On Me" by A-ha playing in the background, rolling into the credits - which I believe is the most profound scene that has been ever shot in the history of television.<br /><br/>
                     BoJack Horseman is the most psychologically clever series that has ever been made. It deals with topics that aren't usually talked about, and if such themes were to be portrayed by real human actors, the series would either be censored or banned. But through the animated characters and funny dialogue, you're constantly reminded - "It's a talking horse, after all - how seriously are you actually supoosed to take it?"<br /><br />
                     If you've ever reached a point of self loathing in your life, this series will hit really close to home, and resonate with many of your deepest insecurities. Not just that, it has probably the best collection of soundtracks that you'd see put together in a single show, while being very appropriately picked. Some of these songs that made it to my favourites playlist include "Los Ageless" by St. Vincent, "Break My Fall" by Doc Robinson, and "Mr. Blue" by Catherine Feeny.<br /><br />
-                    About Dark, I don't have a lot to say, except that I'd like to quote a YouTube comment that I once read - "There are two kinds of people in the world - the ones who think Dark is a masterpiece and the ones who haven't watched it yet." It is originally in German, but if you have subtitles it isn't hard to follow at all. Avoid going for the dubbed version.<br /><br />
+                    About Dark, I don't have a lot to say, except that I'd like to quote a YouTube comment that I once read - "There are two kinds of people in the world - the ones who think Dark is a masterpiece and the ones who haven't watched it yet." It is originally in German, so unless you are one of my German friends reading, you'll have to use subtitles to follow. I would not suggest going for the dubbed version.<br /><br />
                     Blackadder is a laughter-filled classic, my favourite British comedy series by none other than our beloved Rowan Atkinson. <br />
                     Speaking of comedy, I think the US sitcom "Family Guy" also deserves a special mention. It is hands down the most inclusively and hilariously offensive TV show ever written in that genre. Kudos to Seth  MacFarlane for making our lives better. <br /><br />
                     13 Reasons why probably didn't achieve the goal it intended to, and in fact might've even caused teenagers to have a glorified image of suicide. Nevertheless, I found Season 1 really enjoyable (and feel that's where it should have ended). The show pointed out how the butterfly effect can make your tiniest gestures (positive or negative) have an extraordinary impact on people's lives and decisions. Also, the prom night scene is literally unforgettable, and it gifted us the version of "The Night We Met" by Lord Huron with Phoebe Bridgers, which made one of the loveliest romantic songs ever made even more heavenly.
