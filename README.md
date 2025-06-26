@@ -4,7 +4,7 @@ My personal blog.
 
 ## License
 
-This project is licensed under a **Modified [MIT License](https://opensource.org/licenses/MIT)**.
+This project is licensed under a **Modified [MIT License](https://opensource.org/licenses/MIT)**:
 
 - **Code**: Free to use, modify, and distribute
 - **Written content**: Requires attribution when copied or republished
