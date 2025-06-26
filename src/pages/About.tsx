@@ -1,4 +1,4 @@
-import displayImage from '/neil.jpg';
+import displayImage from '/ghibli.png';
 
 export default function About() {
     return (
