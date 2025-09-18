@@ -34,5 +34,21 @@ export const blogPosts: BlogPost[] = [
     title:'Thought - The Lemur',
     date: '24.06.2025',
     content: `Yesterday, I was watching Flow (as I might have mentioned before, I am a sucker for Disney-style animated films), and in it there was a Lemur who was obsessed with collecting useless items (glass bottles, mirrors and trinkets, to be precise), even at the face of a flood, which he needs to survive to even be able to entertain himself with these. It was as if they are so important, and indispensable. "What a foolish animal", I thought to myself. And then, after a while, it hit me - the Lemur "thinks" these objects are important. How different are most human beings from the Lemur, just the scope and scale of this obsession being different?`
+  },
+  {
+    title:'"Porichito haather ador e"',
+    date: '19.09.2025',
+    content: `There is a song from the Bengali movie "Autograph" called "Beche Thakar Gaan" (the song of survival). It has a line in particular that has been on my mind since the past couple of days.
+              The line is "Porichito haather ador e", which means, "in the affection and comfort of familiar hands".
+              Isn't that what we all deeply wish for - to have familiar hands we can rest our heads on?
+              
+              Hey, if you are reading this - please know that I miss you. Life is unfortunate, and nobody deserves to go through the kind of suffering you have gone through.
+              I always wished that I could make it a bit better for you, to the capacity of however-much I could.
+              We too didn't deserve to go through what we went through - all the hope and dreams, only to end up where we are now. We didn't deserve to suffer.
+              I wish it was us who could make it, but maybe not all things are meant to be. And that's alright.
+              As unbelievable as it may sound (or maybe believable to you as you got to know me at least a little bit over the past two years) - I really want you to be happy. I want you to be cared for.
+              I hope someone comes in life to offer you the affection of "porichito haath", so that you never have to feel what it is like for someone to go away from your life, ever again. I want them to tuck you tight and never let go.
+              It sucks that the hands couldn't be mine, but I shall pray that it is someone better. For both you and me.
+              Be happy, and do keep me in your memory.`
   }
 ];
