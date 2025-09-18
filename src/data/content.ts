@@ -42,7 +42,7 @@ export const blogPosts: BlogPost[] = [
               The line is "Porichito haather ador e", which means, "in the affection and comfort of familiar hands".
               Isn't that what we all deeply wish for - to have familiar hands we can rest our heads on?
               
-              Hey, if you are reading this - please know that I miss you. Life is unfortunate, and nobody deserves to go through the kind of suffering you have gone through.
+              Hey, if you are reading this - please know that I miss you. Life is unfortunate, humans are delicate, and nobody deserves to go through the kind of suffering you have gone through.
               I always wished that I could make it a bit better for you, to the capacity of however-much I could.
               We too didn't deserve to go through what we went through - all the hope and dreams, only to end up where we are now. We didn't deserve to suffer.
               I wish it was us who could make it, but maybe not all things are meant to be. And that's alright.
