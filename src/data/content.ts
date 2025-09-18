@@ -49,6 +49,8 @@ export const blogPosts: BlogPost[] = [
               As unbelievable as it may sound (or maybe believable to you as you got to know me at least a little bit over the past two years) - I really want you to be happy. I want you to be cared for.
               I hope someone comes in your life to give you the affection of "porichito haath", so that you never have to feel what it is like for someone to go away from your life, ever again. I want them to tuck you tight and never let go.
               It sucks that the hands couldn't be mine, but I shall pray that it is someone better. For both you and me.
-              Be happy, and do keep me in your memory.`
+              Be happy, and do keep me in your memory.
+              
+              For the love of cats.`
   }
 ];
