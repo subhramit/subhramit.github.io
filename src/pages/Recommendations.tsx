@@ -235,14 +235,15 @@ export default function Recommendations() {
                 <p>
                     <strong>1. The Bet - Anton Chekhov</strong><br />
                     <strong>2. A Voice in the Dark </strong>- part of "The Autobiography of a Super-Tramp" - <strong>W. H. Davies</strong><br />
-                    <strong>3. The Road Less Travelled - M. Scott Peck</strong> (currently reading)<br />
-                    <strong>4. The Midnight Library - Matt Haig</strong> (currently reading)<br />
+                    <strong>3. The Road Less Travelled - M. Scott Peck</strong><br />
+                    <strong>4. Siddhartha - Hermann Hesse</strong><br />
                     <strong>5. Don't Believe Everything You Think - Joseph Nguyen</strong><br />
-                    <strong>6. Siddhartha - Hermann Hesse</strong> (currently reading)<br />
-                    <strong>7. The Life Impossible - Matt Haig</strong> (currently reading)<br />
-                    <strong>8. The Laws of Human Nature - Robert Greene</strong> (currently reading)<br />
-                    <strong>9. Shrimad Bhagavad Gita - Vyasa</strong><br />
-                    <strong>10. Crime and Punishment - Fyodor Dostoevsky</strong> (it will take me a while before I can write about this)
+                    <strong>6. Open When... - Dr. Julie Smith</strong> (currently reading)<br />
+                    <strong>7. The Laws of Human Nature - Robert Greene</strong> (currently reading)<br />
+                    <strong>8. Shrimad Bhagavad Gita - Vyasa</strong><br />
+                    <strong>9. Crime and Punishment - Fyodor Dostoevsky</strong> (it will take me a while before I can write about this)
+                    <strong>10. Tales from the heart - Maryse Condé</strong><br />
+                    <strong>11. Why Has Nobody Told Me This Before? - Dr. Julie Smith</strong> (currently reading)<br />
                 </p>
             </div>
 
