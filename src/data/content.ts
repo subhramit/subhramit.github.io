@@ -47,7 +47,7 @@ export const blogPosts: BlogPost[] = [
               We too didn't deserve to go through what we went through - all the hope and dreams, only to end up where we are now. We didn't deserve to suffer.
               I wish it was us who could make it, but maybe not all things are meant to be. And that's alright.
               As unbelievable as it may sound (or maybe believable to you as you got to know me at least a little bit over the past two years) - I really want you to be happy. I want you to be cared for.
-              I hope someone comes in life to offer you the affection of "porichito haath", so that you never have to feel what it is like for someone to go away from your life, ever again. I want them to tuck you tight and never let go.
+              I hope someone comes in your life to give you the affection of "porichito haath", so that you never have to feel what it is like for someone to go away from your life, ever again. I want them to tuck you tight and never let go.
               It sucks that the hands couldn't be mine, but I shall pray that it is someone better. For both you and me.
               Be happy, and do keep me in your memory.`
   }
