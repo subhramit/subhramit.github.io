@@ -243,7 +243,7 @@ export default function Recommendations() {
                     <strong>8. Shrimad Bhagavad Gita - Vyasa</strong><br />
                     <strong>9. Crime and Punishment - Fyodor Dostoevsky</strong> (it will take me a while before I can write about this)<br />
                     <strong>10. Tales from the heart - Maryse Condé</strong><br />
-                    <strong>11. Why Has Nobody Told Me This Before? - Dr. Julie Smith</strong> (currently reading)<br />
+                    <strong>11. Why Has Nobody Told Me This Before? - Dr. Julie Smith</strong> (currently reading)
                 </p>
             </div>
 
