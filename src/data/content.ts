@@ -83,6 +83,20 @@ export const blogPosts: BlogPost[] = [
     But yeah, back to the primary topic, I am tired of people being this stupid. I am tired of having to explain myself to people who are not ready to understand even though they try to dig inside my head just because I welcome curiosity. When someone has a sensitive aspect of life to talk about, especially when you are the one who wants to hear it, listening just to challenge them does no good (in fact, it harms). Listening to understand makes a world of difference. And I really mean - a world of difference.
     The world lacks empathy. Severely.
     
-    You know the funny part which is so easy to forget? You and I are human too, and we are subject to these very same flaws. The least we can do is ask for forgiveness once the realization of stupidity and having hurt someone as a consequence hits (whether they tell you about it or not), and maybe forgive people for similar kind of stupidity when on the receiving end.`
-  }
+    You know the funny part which is so easy to forget? You and I are members of the same stupid human species, and thus are subject to these very same flaws. The least we can do is ask for forgiveness once the realization of stupidity and having hurt someone as a consequence hits (whether they tell you about it or not), and maybe forgive people for similar kind of stupidity when on the receiving end.`
+  },
+  {
+    title:'Part of life',
+    date: '20.09.2025',
+    content: `You may (or may not), at some point, wonder about the time gap between the posts I have in this section.
+    Well, I don't know. Actually, I think I do. I wrote the first post when (or around the time) I was making this blog website, and it was a time when it was summer vacation (we get long ones as summers used to get really brutal in Pilani, the place where my university was situated) and I was also taking a sort of a "vacation from life" due to the chain of events that had unfolded the preceding semester. It was one of the darkest phases of my life, so I decided that I'll spend that summer break doing only the things I love, and not worry about anything else.
+    After that, I had a lot of (necessary) things to worry about again, and I wish I had not done myself the disservice to stall writing for "when I feel more settled". That never happens. Life never really lets you settle.
+    
+    I am currently trying to explore things that give me true joy once again. This time, regardless of whatever is there to worry about. I would be lying if I said it was a natural impulse. Situations in life proved to me again that I can very well spend forever trying to wait for the time when I'd have no issues to take care of, and have nothing to worry about.
+    
+    I remember when a lot of the full-time employees at the company where I was interning were laid off out of nowhere, I ran to meet and have a final chat with oen of the first mentors I was assigned there who had always been very patient and taught me a lot was leaving office.
+    When I started talking to him about how unexpected all of this was, he just smiled (not out of happiness, but it was not a fake one either - it was just a different kind of smile) and said "Part of life." before leaving.
+    That moment really hit me. And I remember it to this day.
+    Because after all, that's what everything is.
+    Part of life.`  },
 ];
