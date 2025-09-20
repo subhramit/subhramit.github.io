@@ -86,7 +86,7 @@ export const blogPosts: BlogPost[] = [
     You know the funny part which is so easy to forget? You and I are members of the same stupid human species, and thus are subject to these very same flaws. The least we can do is ask for forgiveness once the realization of stupidity and having hurt someone as a consequence hits (whether they tell you about it or not), and maybe forgive people for similar kind of stupidity when on the receiving end.`
   },
   {
-    title:'Part of life',
+    title:'"Part of life"',
     date: '20.09.2025',
     content: `You may (or may not), at some point, wonder about the time gap between the posts I have in this section.
     Well, I don't know. Actually, I think I do. I wrote the first post when (or around the time) I was making this blog website, and it was a time when it was summer vacation (we get long ones as summers used to get really brutal in Pilani, the place where my university was situated) and I was also taking a sort of a "vacation from life" due to the chain of events that had unfolded the preceding semester. It was one of the darkest phases of my life, so I decided that I'll spend that summer break doing only the things I love, and not worry about anything else.
