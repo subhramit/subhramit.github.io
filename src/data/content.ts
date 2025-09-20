@@ -96,6 +96,7 @@ export const blogPosts: BlogPost[] = [
     
     I remember when a lot of the full-time employees at the company where I was interning were laid off out of nowhere, I ran to meet and have a final chat with oen of the first mentors I was assigned there who had always been very patient and taught me a lot was leaving office.
     When I started talking to him about how unexpected all of this was, he just smiled (not out of happiness, but it was not a fake one either - it was just a different kind of smile) and said, "Part of life." before leaving.
+    
     That moment really hit me. And I remember it to this day.
     Because after all, that's what everything is.
     Part of life.`  },
