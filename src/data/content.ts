@@ -52,5 +52,36 @@ export const blogPosts: BlogPost[] = [
               Be happy, and do keep me in your memory.
               
               For the love of cats.`
+  },
+  {
+    title:'Tired',
+    date: '20.09.2025',
+    content: `tl;dr: Humans are stupid.
+    The number of humans that are stupid is really astonishing. It is astonishing how we all evolved together as a species, so differently to have a cerebral capacity that's unmatched across all living creatures (at least on earth, that we know of), and still happen to be so painfully stupid.
+    And by "stupid", I don't mean stupid in a intentionally malicious or malevolent way, although some may argue that that may be the case in some (or even many) scenarios (we'll get to that later). Nor do I mean stupid in the sense of not knowing that Pluto is a dwarf planet, or how to derive the Navier-Stokes equation from the fundamental laws of physics, or how many years ago dinosaurs became extinct (honestly, I don't even care about that kind of smartness beyond a certain point of appreciation that they dedicated some time of their life to learn all that). 
+    For the sake of this present discussion, what I mean by "stupid" is just that they are unaware, and lazy.
+    Unaware in the sense that they don't understand that everyone's life is different. And even if you give two humans the exact same life, their thinking and perception of everything can (and does) manifest and evolve differently, and in many cases, very differently. That's just how we are. 
+    I also say "lazy", because they don't even make an effort to understand that. This is "painful", because as Ricky Gervais said, being stupid is like being dead - you are unaware of it, but it is painful to others who are associated with you.
+    
+    I am tired of people being casually stupid to not understand that they are making another person feel miserable for no reason at all. Suffering that is not required. Suffering that can be prevented.
+    
+    Now, I am about to argue that none of this is ever intentional. 
+    Deep breath, because this is something that takes a bit of resistance to firstly take in, and even more to act out.
+    Think of a time when someone really wronged you. Made you feel miserable even when they were perfectly awake, sober and aware of what they were doing. They "chose" to do it to you even though they knew perfectly well that it would hurt you. Heck, it may be that that's what they wanted to achieve. Or lets say even if they didn't begin with that intention, think of a time when they continued to do the same thing even after you told them it's hurting you.
+    Now, stop. Pause for a moment, and think about what I am about to say very carefully - 
+    If they really understood what they were doing, would they have done it?
+    No, think about it again - if they really understood what their actions are causing, would they still choose to do it?
+    If you've thought deeply enough, you would arrive at the truth that true understanding of one's own actions brings with it the awareness of what it causes another to go through.
+    It also brings with itself compassion and empathy towards another. All of this, at the end, is a by-product of self-awareness (or the "knowledge of self"), because once you know what hurts you, you know what hurts someone else. You are then able to put themselves in someone else's shoes and think of them like another human being just like yourself.
+    You can relate this with the imagination of a child causing chaos all around. If the child understood what they were doing, they would not act in such a stupid way. But we don't really use the word "stupid" for them, do we? We just give them a hug, and most of the times, they calm down.
+    My claim is that most people never grow up.
+    
+    Now, this is not to take away the concept of morality that I believe so strongly in - grown-up people are objectively assholes or good people depending on their actions. I am just arguing that who they are among the two is only a result of difference in self-awareness, provided they have the freedom and power to affect someone.
+    Nor do I think that people should be excused for all the horrible things they do, just because we develop this understanding (if we are able to). This just gives a framework to understand other people better, and maybe help forgive some of their actions and save us the turmoil of having to drag the cause of a negative incident with us apart from the incident itself which we already have the backlog of recovering from.
+    
+    But yeah, back to the primary topic, I am tired of people being this stupid. I am tired of having to explain myself to people who are not ready to understand even though they try to dig inside my head just because I welcome curiosity. When someone has a sensitive aspect of life to talk about, especially when you are the one who wants to hear it, listening just to challenge them does no good (in fact, it harms). Listening to understand makes a world of difference. And I really mean - a world of difference.
+    The world lacks empathy. Severely.
+    
+    You know the funny part which is so easy to forget? You and I are human too, and we are subject to these very same flaws. The least we can do is ask for forgiveness once the realization of having hurt someone hits, and maybe forgive people for similar kind of stupidity when on the receiving end.`
   }
 ];
