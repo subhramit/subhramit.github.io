@@ -57,6 +57,7 @@ export const blogPosts: BlogPost[] = [
     title:'Tired',
     date: '20.09.2025',
     content: `tl;dr: Humans are stupid.
+    
     The number of humans that are stupid is really astonishing. It is astonishing how we all evolved together as a species, so differently to have a cerebral capacity that's unmatched across all living creatures (at least on earth, that we know of), and still happen to be so painfully stupid.
     And by "stupid", I don't mean stupid in a intentionally malicious or malevolent way, although some may argue that that may be the case in some (or even many) scenarios (we'll get to that later). Nor do I mean stupid in the sense of not knowing that Pluto is a dwarf planet, or how to derive the Navier-Stokes equation from the fundamental laws of physics, or how many years ago dinosaurs became extinct (honestly, I don't even care about that kind of smartness beyond a certain point of appreciation that they dedicated some time of their life to learn all that). 
     For the sake of this present discussion, what I mean by "stupid" is just that they are unaware, and lazy.
