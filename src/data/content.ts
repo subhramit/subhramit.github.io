@@ -99,5 +99,5 @@ export const blogPosts: BlogPost[] = [
     
     That moment really hit me. And I remember it to this day.
     Because after all, that's what everything is.
-    Part of life.`  },
+    "Part of life."`  },
 ];
