@@ -83,6 +83,6 @@ export const blogPosts: BlogPost[] = [
     But yeah, back to the primary topic, I am tired of people being this stupid. I am tired of having to explain myself to people who are not ready to understand even though they try to dig inside my head just because I welcome curiosity. When someone has a sensitive aspect of life to talk about, especially when you are the one who wants to hear it, listening just to challenge them does no good (in fact, it harms). Listening to understand makes a world of difference. And I really mean - a world of difference.
     The world lacks empathy. Severely.
     
-    You know the funny part which is so easy to forget? You and I are human too, and we are subject to these very same flaws. The least we can do is ask for forgiveness once the realization of having hurt someone hits, and maybe forgive people for similar kind of stupidity when on the receiving end.`
+    You know the funny part which is so easy to forget? You and I are human too, and we are subject to these very same flaws. The least we can do is ask for forgiveness once the realization of stupidity and having hurt someone as a consequence hits (whether they tell you about it or not), and maybe forgive people for similar kind of stupidity when on the receiving end.`
   }
 ];
