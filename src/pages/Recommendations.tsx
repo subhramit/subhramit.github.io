@@ -197,11 +197,9 @@ export default function Recommendations() {
                     <strong>4. Gravity Falls</strong> - Why did they have to end it so soon? :( <br />
                     <strong>5. Blackadder</strong> <br />
                     <strong>6. Family Guy</strong> <br />
-                    <strong>7. Dark</strong><br />
-
-                    <strong>6. Sherlock</strong><br />
-
-                    <strong>8. 13 Reasons Why (Season 1 only)</strong>
+                    <strong>7. Sherlock</strong><br />
+                    <strong>8. Dark</strong><br />
+                    <strong>9. 13 Reasons Why (Season 1 only)</strong>
                 </p>
             </div>
             <div className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-extralight md:pl-60 md:pr-72 pt-5 italic">
