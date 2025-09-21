@@ -88,7 +88,7 @@ export const blogPosts: BlogPost[] = [
   {
     title:'"Part of life"',
     date: '20.09.2025',
-    content: `You may (or may not), at some point, wonder about the time gap between the posts I have in this section.
+    content: `You may (or may not), at some point, wonder about the time gap between the first two posts I have in this section.
     Well, I don't know. Actually, I think I do. I wrote the first post when (or around the time) I was making this blog website, and it was a time when it was summer vacation (we get long ones as summers used to get really brutal in Pilani, the place where my university was situated) and I was also taking a sort of a "vacation from life" due to the chain of events that had unfolded the preceding semester. It was one of the darkest phases of my life, so I decided that I'll spend that summer break doing only the things I love, and not worry about anything else.
     After that, I had a lot of (necessary) things to worry about again, and I wish I had not done myself the disservice to stall writing for "when I feel more settled". That never happens. Life never really lets you settle.
     
