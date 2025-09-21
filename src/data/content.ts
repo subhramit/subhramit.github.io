@@ -108,6 +108,7 @@ export const blogPosts: BlogPost[] = [
     I feel like being engulfed by them. I feel like being one with them.
     They are so chaotic, yet so calming at the same time. They would only be second to watching the night sky when it comes to my favourite experiences. But maybe someday I would be able to lie on a beach beside the waves, while observing the night sky?
     Or maybe while lying down on a boat in the middle of an ocean at night?
+    Maybe I'll even get a chance to close my eyes, and eventually fall asleep?
     I think I just expanded my bucket list.`
   }
 ];
