@@ -140,8 +140,8 @@ Error generating stack: `+o.message+`
     
     I am currently trying to explore things that give me true joy once again. This time, regardless of whatever is there to worry about. I would be lying if I said it was a natural impulse. Situations in life proved to me again that I can very well spend forever trying to wait for the time when I'd have no issues to take care of, and have nothing to worry about.
     
-    I remember when a lot of the full-time employees at the company where I was interning at during my final year were laid off out of nowhere, I ran to meet and have a final chat with oen of the first mentors I was assigned there who had always been very patient and taught me a lot was leaving office.
-    When I started talking to him about how unexpected all of this was, he just smiled (not out of happiness, but it was not a fake one either - it was just a different kind of smile) and said, "Part of life." before leaving.
+    I remember when a lot of the full-time employees at the company where I was interning during my final year were laid off out of the blue due to restructuring, I ran to meet and have a final chat with one of the first mentors I was assigned there when he was leaving the office. He had always been very patient and had taught me a lot.
+    When I started talking about how unexpected all of this was, he just smiled (not out of happiness, but it was not a fake one either - it was just a different kind of smile), and said, "Part of life." before leaving.
     
     That moment really hit me. And I remember it to this day.
     Because after all, that's what everything is.
