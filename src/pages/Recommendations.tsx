@@ -245,7 +245,7 @@ export default function Recommendations() {
                     <strong>9. Crime and Punishment - Fyodor Dostoevsky</strong> (it will take me a while before I can write about this)<br />
                     <strong>10. Tales from the heart - Maryse Condé</strong><br />
                     <strong>11. Why Has Nobody Told Me This Before? - Dr. Julie Smith</strong> (currently reading)
-                    <strong>12. Attached - Dr. Amir Levine & Rachel S.F. Heller</strong>
+                    <strong>12. Attached - Dr. Amir Levine & Rachel S.F. Heller</strong> (if there is one book about relationships that everyone should read, it's this one)
                 </p>
             </div>
 
