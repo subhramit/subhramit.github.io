@@ -104,7 +104,7 @@ export const blogPosts: BlogPost[] = [
   {
     title:'Waves',
     date: '21.09.2025',
-    content: `There is something about waves of the ocean that makes me want to keep watching them hour after hour, and lose track of time without getting bored.
+    content: `There is something so therapeutic about waves of the ocean that makes me want to keep watching them hour after hour, and lose track of time without getting bored.
     I feel like being engulfed by them. I feel like being one with them.
     They are so chaotic, yet so calming at the same time. They would only be second to watching the night sky when it comes to my favourite experiences. But maybe someday I would be able to lie on a beach beside the waves, while observing the night sky?
     Or maybe while lying down on a boat in the middle of an ocean at night?
