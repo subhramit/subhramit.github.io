@@ -7,9 +7,9 @@ export default {
         'uno': '#331D2C',
         'dos': '#3F2E3E',
         'tres': '#A78295',
-        'quad': '#EFE1D1'
-      }
+        'quad': '#EFE1D1',
+      },
     },
   },
   plugins: [],
-}
+};

@@ -12,7 +12,7 @@ export const blogPosts: BlogPost[] = [
     date: '10.07.2023',
     quote: {
       text: 'Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.',
-      author: 'Albus Dumbledore, Harry Potter and the Prisoner of Azkaban'
+      author: 'Albus Dumbledore, Harry Potter and the Prisoner of Azkaban',
     },
     content: `Whenever we think about fantasies like the Harry Potter series, one of the first things that come to our minds is a world of “magic” - a world we can only fantasize about in our imagination, one which is far, far away from reality.
     
@@ -26,17 +26,17 @@ export const blogPosts: BlogPost[] = [
             
             Just like we could relate to the Dementors in our real life, I came to realize that the Patronus charm exists in our world as well. Life never goes along a straight line, we all have our share of ups and downs. Whenever we feel our spirit of life is being threatened, something we can do is that we just close our eyes, and remember all the powerful memories that we have. Maybe it's about a place. Maybe it's with our parents. Maybe it's with a person who's your best friend, or once was, now turned a stranger, or maybe even an enemy - the only thing is that the memory should be powerful. It stands as a reminder to us that if life has been good once upon a time, it can be better again. And that's how the Dementors wither away, making you remember that life is worth it, after all.`,
     endQuote: {
-      text: "You know, whenever I'm sad, something that I always try holding on to are the good memories I have. No matter how bad things are going, no matter who leaves you alone, nobody can take away those good memories. They'll always be with you.",
-      author: "someone I'm no longer with."
-    }
+      text: 'You know, whenever I\'m sad, something that I always try holding on to are the good memories I have. No matter how bad things are going, no matter who leaves you alone, nobody can take away those good memories. They\'ll always be with you.',
+      author: 'someone I\'m no longer with.',
+    },
   },
   {
-    title:'Thought - The Lemur',
+    title: 'Thought - The Lemur',
     date: '24.06.2025',
-    content: `Yesterday, I was watching Flow (as I might have mentioned before, I am a sucker for Disney-style animated films), and in it there was a Lemur who was obsessed with collecting useless items (glass bottles, mirrors and trinkets, to be precise), even at the face of a flood, which he needs to survive to even be able to entertain himself with these. It was as if they are so important, and indispensable. "What a foolish animal", I thought to myself. And then, after a while, it hit me - the Lemur "thinks" these objects are important. How different are most human beings from the Lemur, just the scope and scale of this obsession being different?`
+    content: `Yesterday, I was watching Flow (as I might have mentioned before, I am a sucker for Disney-style animated films), and in it there was a Lemur who was obsessed with collecting useless items (glass bottles, mirrors and trinkets, to be precise), even at the face of a flood, which he needs to survive to even be able to entertain himself with these. It was as if they are so important, and indispensable. "What a foolish animal", I thought to myself. And then, after a while, it hit me - the Lemur "thinks" these objects are important. How different are most human beings from the Lemur, just the scope and scale of this obsession being different?`,
   },
   {
-    title:'"Porichito haather ador e"',
+    title: '"Porichito haather ador e"',
     date: '19.09.2025',
     content: `There is a song from the Bengali movie "Autograph" called "Beche Thakar Gaan" (the song of survival). It has a line in particular that has been on my mind since the past couple of days.
               The line is "Porichito haather ador e", which means, "in the affection and comfort of familiar hands".
@@ -51,10 +51,10 @@ export const blogPosts: BlogPost[] = [
               It sucks that the hands couldn't be mine, but I shall pray that it is someone better. For both you and me.
               Be happy, and do keep me in your memory.
               
-              For the love of cats.`
+              For the love of cats.`,
   },
   {
-    title:'Tired',
+    title: 'Tired',
     date: '20.09.2025',
     content: `tl;dr: Humans are stupid.
     
@@ -83,10 +83,10 @@ export const blogPosts: BlogPost[] = [
     But yeah, back to the primary topic, I am tired of people being this stupid. I am tired of having to explain myself to people who are not ready to understand even though they try to dig inside my head just because I welcome curiosity. When someone has a sensitive aspect of life to talk about, especially when you are the one who wants to hear it, listening just to challenge them does no good (in fact, it harms). Listening to understand makes a world of difference. And I really mean - a world of difference.
     The world lacks empathy. Severely.
     
-    You know the funny part which is so easy to forget? You and I are members of the same stupid human species, and thus are subject to these very same flaws. The least we can do is ask for forgiveness once the realization of stupidity and having hurt someone as a consequence hits (whether they tell you about it or not), and maybe forgive people for similar kind of stupidity when on the receiving end.`
+    You know the funny part which is so easy to forget? You and I are members of the same stupid human species, and thus are subject to these very same flaws. The least we can do is ask for forgiveness once the realization of stupidity and having hurt someone as a consequence hits (whether they tell you about it or not), and maybe forgive people for similar kind of stupidity when on the receiving end.`,
   },
   {
-    title:'"Part of life"',
+    title: '"Part of life"',
     date: '20.09.2025',
     content: `You may (or may not), at some point, wonder about the time gap between the first two posts I have in this section.
     Well, I don't know. Actually, I think I do. I wrote the first post when (or around the time) I was making this blog website, and it was a time when it was summer vacation (we used to get long ones as summers would get really brutal back in Pilani, the place where my university was situated) and I was also taking a sort of a "vacation from life" due to the chain of events that had unfolded the preceding semester. It was one of the darkest phases of my life, so I decided that I'll spend that summer break doing only the things I love, and not worry about anything else.
@@ -99,16 +99,16 @@ export const blogPosts: BlogPost[] = [
     
     That moment really hit me. And I remember it to this day.
     Because after all, that's what everything is.
-    "Part of life."`
+    "Part of life."`,
   },
   {
-    title:'Waves',
+    title: 'Waves',
     date: '21.09.2025',
     content: `There is something so therapeutic about waves of the ocean that makes me want to keep watching them hour after hour, and lose track of time without getting bored.
     I feel like being engulfed by them. I feel like being one with them.
     They are so chaotic, yet so calming at the same time. They would only be second to watching the night sky when it comes to my favourite experiences. But maybe someday I would be able to lie on a beach beside the waves, while observing the night sky?
     Or maybe while lying down on a boat in the middle of an ocean at night?
     Maybe I'll even get a chance to close my eyes, and eventually fall asleep?
-    I think I just expanded my bucket list.`
-  }
+    I think I just expanded my bucket list.`,
+  },
 ];
