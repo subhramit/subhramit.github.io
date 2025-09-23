@@ -66,7 +66,7 @@ export default function Recommendations() {
       <div
         className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-medium md:pl-60 pt-4 md:pr-60">
         <p>
-          Here's a <a href="https://www.youtube.com/watch?v=YDDlFHQ1Vgw&t=468s&ab_channel=SrijanKaushik"
+          Here's a <a href="https://www.youtube.com/watch?v=YDDlFHQ1Vgw"
                       className="hover:text-tres text-pink-600">link</a> to a short stand-up clip by Srijan
           Kaushik. <br />
           Here's <a href="https://www.youtube.com/watch?v=6CdhE3hh2CQ&ab_channel=SumitAnand"
