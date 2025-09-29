@@ -117,6 +117,10 @@ export const blogPosts: BlogPost[] = [
     content: `So, love songs are not particularly my genre. Sure, I enjoyed Taylor Swift's "Love Story" when I came across it, but the category was never one I would consciously look for.
     That being said, I really appreciate well-written love songs from time to time. I sat down listing how my favourite "love" song changed through the years.
     I really spent some time coming back to Roja (Version 2, by Hariharan), and here's my conclusion - I don't think there is a "greater" love song ever written by humans, or there will ever be.
-    The only song in my mind that comes close is "There Will Be Time" by Mumford & Sons, Baaba Maal.`,
+    The only song in my mind that comes close is "There Will Be Time" by Mumford & Sons, Baaba Maal.
+    
+    I have a lot to talk about the topic (love) in general, but battling laziness is a real thing. I also just recovered from recurring typhoid fever over the last 6 days.
+    
+    I was thinking whether to have a separate "Rants" page to write about all the things I find to be wrong about the world, and another counterpart for the "Things I'm grateful for". Still contemplating on that.`,
   },
 ];
