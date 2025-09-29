@@ -123,4 +123,9 @@ export const blogPosts: BlogPost[] = [
     
     I was thinking whether to have a separate "Rants" page to write about all the things I find to be wrong about the world, and another counterpart for the "Things I'm grateful for". Still contemplating on that.`,
   },
+  {
+    title: 'The Coldplay Trip',
+    date: '29.09.2025',
+    content: `They didn't play Every Teardrop is a Waterfall. That's what I went for. (TBC).`,
+  },
 ];
