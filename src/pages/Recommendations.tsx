@@ -253,10 +253,11 @@ export default function Recommendations() {
           <strong>3. The OA</strong><br />
           <strong>4. Gravity Falls</strong> - Why did they have to end it so soon? :( <br />
           <strong>5. Blackadder</strong> <br />
-          <strong>6. Family Guy</strong> <br />
-          <strong>7. Sherlock</strong><br />
-          <strong>8. Dark</strong><br />
-          <strong>9. 13 Reasons Why (Season 1 only)</strong>
+          <strong>6. Slow Horses</strong> <br />
+          <strong>7. Family Guy</strong> <br />
+          <strong>8. Sherlock</strong><br />
+          <strong>9. Dark</strong><br />
+          <strong>10. 13 Reasons Why (Season 1 only)</strong>
         </p>
       </div>
       <div
