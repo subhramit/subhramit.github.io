@@ -129,12 +129,23 @@ export const blogPosts: BlogPost[] = [
     content: `They didn't play Every Teardrop is a Waterfall. That's what I went for. (TBC).`,
   },
   {
-    title: 'The Coldplay Trip',
+    title: 'Borrowed peace',
     date: '21.10.2025',
-    content: `Finally back home, under the excuse of the Diwali break (I honestly couldn't care less, but it was the`,
-    // lone enjoyment
-    // met old friend
-    // quit social media
-    // life goes on
+    content: `Finally back home, under the excuse of the Diwali break (I honestly couldn't care less, but it was the only way left I could get a long enough break as I (purposely) didn't take one during Dusshera to preserve my mental well-being, at which, I still failed miserably).
+    I also quit social media (particularly Instagram) before coming here, and the net increase in mental stillness I am experiencing as a consequence is making me re-think if I ever want to go back again. I might keep things this way. I don't find any utility for it anymore anyway. Scrolling reels and talking to more people is fun, but it messes with your dopamine baseline, and by the end, you don't really feel fulfilled and keep wanting more.
+    Before deciding to quit, I tried to configure the space a bit better for myself by removing more than a hundred people from my followers/following. During the process, I kept asking myself questions like "Why did I keep these people around in mys social space, if whenever I see them or hear their names, I feel something negative?", "Why did I put up with all this for so long?" and "Why do I follow this person? Heck, why does this person even follow me? We don't even know each other."
+    September was quite a month for housekeeping, you can say. I cut off from a bunch of people in real life as well, interacting with whom stopped feeling right lately. I am really glad and give myself gratitude for taking these efforts.
+    I wish I had a thicker skin, I really do. But I don't. So that's that.
+    
+    I also think much more than the average person. How do I know that? Because more often than not, I am told "Itna mat socha kar" and "Eto bhabish na" ("Don't think so much"). But I love thinking, sometimes even at the cost of being less mindful. Sometimes, it may be too much, but more often than not, I find that I have a problem with people instead for not putting much thought into things (even the bare minimum). But that just may be me.
+    I am really fine by myself if you leave me be. I am not a full-fledged introvert, but extroverts do think that I lack enjoyment in my life if I spend the weekend with myself instead of "going out somewhere". Don't get me wrong - I absolutely enjoy having weekend plans and going out with my friends, but if the plan gets cancelled for some reason, I do feel sad about it, but I also feel equally happy that I now have more me-time, as if it's an equally enjoyable opportunity.
+    In fact, when I think of it, the most enjoyable and nostalgic moments I have in my life mainly consist of time I spent with myself, doing something. And mostly with music on.
+    That's also when I figured out that what people call "loneliness" is not a problem that arises due to lack of people around to do things with. It's something much deeper, and springs from within.
+    
+    Back to the present, I have been really lucky this time - I was able to meet a very old and dear friend of mine after many, many years. He was my best friend in school till 10th (after which he moved to Kolkata, a different city, whereas I stayed in my town), and still happens to be the first person I call when things, lets just say, take a "really" unexpected turn in life.
+    
+    I'm thinking what would be the best possible way to spend the remaining four days here, as I have my flight back to Bangalore this Sunday.
+    And life goes on. Sometimes too fast.
+    `,
   },
 ];
