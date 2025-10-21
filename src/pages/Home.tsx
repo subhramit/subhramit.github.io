@@ -11,7 +11,7 @@ export default function Home() {
         </p>
         <div className="buttons my-4">
           <Link to="/about">
-            <button className="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2 cursor-pointer">
+            <button className="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2">
               Board the train
             </button>
           </Link>
