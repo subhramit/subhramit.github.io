@@ -10,43 +10,43 @@ export default function Contact() {
             Connect with me:
           </p>
           <div className="buttons my-1">
-            <a href="mailto: f20200611@pilani.bits-pilani.ac.in"
-              className="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2 my-1 inline-block"
-            >
-              Email
+            <a href="mailto: f20200611@pilani.bits-pilani.ac.in">
+              <button
+                className="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2 my-1 cursor-pointer">Email
+              </button>
             </a>
-            <a href="https://www.instagram.com/_neeyl/"
-              className="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2 my-1 inline-block"
-            >
-              Instagram
+            <a href="https://www.instagram.com/_neeyl/">
+              <button
+                className="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2 my-1 cursor-pointer">Instagram
+              </button>
             </a>
-            <a href="https://github.com/subhramit"
-              className="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2 my-1 inline-block"
-            >
-              GitHub
+            <a href="https://github.com/subhramit">
+              <button
+                className="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2 my-1 cursor-pointer">GitHub
+              </button>
             </a>
-            <a href="https://www.linkedin.com/in/subhramit-basu/"
-              className="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2 my-1 inline-block"
-            >
-              LinkedIn
+            <a href="https://www.linkedin.com/in/subhramit-basu/">
+              <button
+                className="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2 my-1 cursor-pointer">LinkedIn
+              </button>
             </a>
-            <a href="https://www.facebook.com/subhramit.basu/"
-              className="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2 my-1 inline-block"
-            >
-              Facebook
+            <a href="https://www.facebook.com/subhramit.basu/">
+              <button
+                className="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2 my-1 cursor-pointer">Facebook
+              </button>
             </a>
-            <a href="https://www.quora.com/profile/Subhramit-Basu/"
-              className="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2 my-1 inline-block"
-            >
-              Quora
+            <a href="https://www.quora.com/profile/Subhramit-Basu/">
+              <button
+                className="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2 my-1 cursor-pointer">Quora
+              </button>
             </a>
             <p className="py-3 md:w-1/2 pl-1 font-serif pt-4">
               Send me an anonymous message:
             </p>
-            <a href="https://www.confessout.com/neeyl"
-              className="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2 my-1 inline-block"
-            >
-              Confessout
+            <a href="https://www.confessout.com/neeyl">
+              <button
+                className="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2 my-1 cursor-pointer">Confessout
+              </button>
             </a>
           </div>
         </div>
