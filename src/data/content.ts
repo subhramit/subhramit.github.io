@@ -128,4 +128,13 @@ export const blogPosts: BlogPost[] = [
     date: '29.09.2025',
     content: `They didn't play Every Teardrop is a Waterfall. That's what I went for. (TBC).`,
   },
+  {
+    title: 'The Coldplay Trip',
+    date: '21.10.2025',
+    content: `Finally back home, under the excuse of the Diwali break (I honestly couldn't care less, but it was the`,
+    // lone enjoyment
+    // met old friend
+    // quit social media
+    // life goes on
+  },
 ];
