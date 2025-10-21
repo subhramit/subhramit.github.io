@@ -167,6 +167,7 @@ Please change the parent <Route path="${L}"> to <Route path="${L==="/"?"*":`${L}
     I wish I had a thicker skin, I really do. But I don't. So that's that.
     
     I also think much more than the average person. How do I know that? Because more often than not, I am told "Itna mat socha kar" and "Eto bhabish na" ("Don't think so much"). But I love thinking, sometimes even at the cost of being less mindful. Sometimes, it may be too much, but more often than not, I find that I have a problem with people instead for not putting much thought into things (even the bare minimum). But that just may be me.
+    
     I am really fine by myself if you leave me be. I am not a full-fledged introvert, but extroverts do think that I lack enjoyment in my life if I spend the weekend with myself instead of "going out somewhere". Don't get me wrong - I absolutely enjoy having weekend plans and going out with my friends, but if the plan gets cancelled for some reason, I do feel sad about it, but I also feel equally happy that I now have more me-time, as if it's an equally enjoyable opportunity.
     In fact, when I think of it, the most enjoyable and nostalgic moments I have in my life mainly consist of time I spent with myself, doing something. And mostly with music on.
     That's also when I figured out that what people call "loneliness" is not a problem that arises due to lack of people around to do things with. It's something much deeper, and springs from within.
