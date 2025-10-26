@@ -23,7 +23,7 @@ export default function Navigation({ className = '' }: NavigationProps) {
             to={item.href}
             className={({ isActive }) =>
               `block py-4 pl-5 pr-2 md:px-2.5 hover:bg-tres transition-colors duration-200 ${
-                isActive ? 'bg-tres' : ''
+                isActive ? 'bg-tres md:bg-transparent' : ''
               }`
             }
           >
