@@ -11,32 +11,32 @@ export default function Contact() {
           </p>
           <div className="buttons my-1">
             <a href="mailto: f20200611@pilani.bits-pilani.ac.in"
-              className="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2 my-1 inline-block"
+              className="bg-uno px-3 py-2 rounded-xl text-white hover:bg-tres mx-2 my-1 inline-block"
             >
               Email
             </a>
             <a href="https://www.instagram.com/_neeyl/"
-              className="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2 my-1 inline-block"
+              className="bg-uno px-3 py-2 rounded-xl text-white hover:bg-tres mx-2 my-1 inline-block"
             >
               Instagram
             </a>
             <a href="https://github.com/subhramit"
-              className="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2 my-1 inline-block"
+              className="bg-uno px-3 py-2 rounded-xl text-white hover:bg-tres mx-2 my-1 inline-block"
             >
               GitHub
             </a>
             <a href="https://www.linkedin.com/in/subhramit-basu/"
-              className="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2 my-1 inline-block"
+              className="bg-uno px-3 py-2 rounded-xl text-white hover:bg-tres mx-2 my-1 inline-block"
             >
               LinkedIn
             </a>
             <a href="https://www.facebook.com/subhramit.basu/"
-              className="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2 my-1 inline-block"
+              className="bg-uno px-3 py-2 rounded-xl text-white hover:bg-tres mx-2 my-1 inline-block"
             >
               Facebook
             </a>
             <a href="https://www.quora.com/profile/Subhramit-Basu/"
-              className="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2 my-1 inline-block"
+              className="bg-uno px-3 py-2 rounded-xl text-white hover:bg-tres mx-2 my-1 inline-block"
             >
               Quora
             </a>
@@ -44,7 +44,7 @@ export default function Contact() {
               Send me an anonymous message:
             </p>
             <a href="https://www.confessout.com/neeyl"
-              className="bg-uno px-3 py-2 rounded-xl text-white hover:text-white hover:bg-tres mx-2 my-1 inline-block"
+              className="bg-uno px-3 py-2 rounded-xl text-white hover:bg-tres mx-2 my-1 inline-block"
             >
               Confessout
             </a>

@@ -14,7 +14,7 @@ export default function Layout({ children }: LayoutProps) {
     <div className="min-h-screen flex flex-col">
       {/* Mobile Menu Button */}
       <button
-        className="md:hidden fixed top-4 left-4 z-50 p-2 bg-uno text-white rounded-lg cursor-pointer"
+        className="md:hidden fixed top-4 left-4 z-50 p-2 bg-uno text-white rounded-lg cursor-pointer hover:bg-tres"
         onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
       >
         {isMobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
