@@ -2,8 +2,8 @@ import windowImage from '/window.jpg';
 
 export default function Contact() {
   return (
-    <div className="flex flex-col md:flex-row justify-around items-center p-8 md:p-0">
-      <div className="md:py-80 px-16 md:pl-56 md:pr-0 max-w-6xl text-center md:text-left">
+    <div className="flex flex-col md:flex-row justify-around items-center pt-20 md:pt-0 p-8 md:p-0 md:min-h-screen">
+      <div className="md:pl-56 max-w-6xl text-center md:text-left">
         <div className="text-3xl md:text-5xl font-serif mb-4">Thanks for taking the journey!</div>
         <div>
           <p className="py-3 md:w-1/2 pl-1 font-serif">
@@ -11,32 +11,32 @@ export default function Contact() {
           </p>
           <div className="buttons my-1">
             <a href="mailto: f20200611@pilani.bits-pilani.ac.in"
-              className="bg-uno px-3 py-2 rounded-xl text-white hover:bg-tres mx-2 my-1 inline-block"
+               className="bg-uno px-3 py-2 rounded-xl text-white hover:bg-tres mx-2 my-1 inline-block"
             >
               Email
             </a>
             <a href="https://www.instagram.com/_neeyl/"
-              className="bg-uno px-3 py-2 rounded-xl text-white hover:bg-tres mx-2 my-1 inline-block"
+               className="bg-uno px-3 py-2 rounded-xl text-white hover:bg-tres mx-2 my-1 inline-block"
             >
               Instagram
             </a>
             <a href="https://github.com/subhramit"
-              className="bg-uno px-3 py-2 rounded-xl text-white hover:bg-tres mx-2 my-1 inline-block"
+               className="bg-uno px-3 py-2 rounded-xl text-white hover:bg-tres mx-2 my-1 inline-block"
             >
               GitHub
             </a>
             <a href="https://www.linkedin.com/in/subhramit-basu/"
-              className="bg-uno px-3 py-2 rounded-xl text-white hover:bg-tres mx-2 my-1 inline-block"
+               className="bg-uno px-3 py-2 rounded-xl text-white hover:bg-tres mx-2 my-1 inline-block"
             >
               LinkedIn
             </a>
             <a href="https://www.facebook.com/subhramit.basu/"
-              className="bg-uno px-3 py-2 rounded-xl text-white hover:bg-tres mx-2 my-1 inline-block"
+               className="bg-uno px-3 py-2 rounded-xl text-white hover:bg-tres mx-2 my-1 inline-block"
             >
               Facebook
             </a>
             <a href="https://www.quora.com/profile/Subhramit-Basu/"
-              className="bg-uno px-3 py-2 rounded-xl text-white hover:bg-tres mx-2 my-1 inline-block"
+               className="bg-uno px-3 py-2 rounded-xl text-white hover:bg-tres mx-2 my-1 inline-block"
             >
               Quora
             </a>
@@ -44,7 +44,7 @@ export default function Contact() {
               Send me an anonymous message:
             </p>
             <a href="https://www.confessout.com/neeyl"
-              className="bg-uno px-3 py-2 rounded-xl text-white hover:bg-tres mx-2 my-1 inline-block"
+               className="bg-uno px-3 py-2 rounded-xl text-white hover:bg-tres mx-2 my-1 inline-block"
             >
               Confessout
             </a>
@@ -52,7 +52,7 @@ export default function Contact() {
         </div>
       </div>
       <div className="mt-8 md:mt-0 flex items-center justify-center md:justify-start">
-        <div className="w-8/12 md:w-80 md:h-80 md:mr-72">
+        <div className="w-8/12 md:w-80 md:h-80 md:mr-48">
           <img src={windowImage} className="w-full h-full rounded-full object-cover" alt="Contact" />
         </div>
       </div>
