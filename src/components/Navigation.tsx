@@ -1,4 +1,4 @@
-import { Link } from 'react-router';
+import { NavLink } from 'react-router';
 import { NavItem } from '../types';
 
 const navItems: NavItem[] = [
@@ -19,12 +19,16 @@ export default function Navigation({ className = '' }: NavigationProps) {
     <ul className={`${className}`}>
       {navItems.map((item) => (
         <li key={item.href}>
-          <Link
+          <NavLink
             to={item.href}
-            className="block py-4 pl-5 pr-2 md:px-2.5 hover:bg-tres transition-colors duration-200"
+            className={({ isActive }) =>
+              `block py-4 pl-5 pr-2 md:px-2.5 hover:bg-tres transition-colors duration-200 ${
+                isActive ? 'bg-tres' : ''
+              }`
+            }
           >
             {item.label}
-          </Link>
+          </NavLink>
         </li>
       ))}
     </ul>
