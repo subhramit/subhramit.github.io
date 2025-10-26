@@ -1,5 +1,6 @@
 import { Menu, X } from 'lucide-react';
 import { useState } from 'react';
+import React from 'react';
 import Navigation from './Navigation';
 
 interface LayoutProps {
@@ -22,7 +23,7 @@ export default function Layout({ children }: LayoutProps) {
       {/* Backdrop Overlay */}
       {isMobileMenuOpen && (
         <div
-          className="fixed inset-0 bg-black bg-opacity-50 z-30 md:hidden"
+          className="fixed inset-0 bg-black/50 z-30 md:hidden"
           onClick={() => setIsMobileMenuOpen(false)}
         />
       )}
