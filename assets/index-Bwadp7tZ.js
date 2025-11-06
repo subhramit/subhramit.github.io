@@ -176,7 +176,7 @@ Please change the parent <Route path="${L}"> to <Route path="${L==="/"?"*":`${L}
     
     I'm thinking what would be the best possible way to spend the remaining four days here, as I have my flight back to Bangalore this Sunday.
     And life goes on. Sometimes too fast.
-    `},{title:"The Coldplay Trip",date:"07.11.2025",content:`I don't really get what's happening. I haven't quite been here before. I've taken this journey countless times but this time, it's something so entirely different. I don't want to be the person who sits and thinks his life away.
+    `},{title:"Stillness",date:"07.11.2025",content:`I don't really get what's happening. I haven't quite been here before. I've taken this journey countless times but this time, it's something so entirely different. I don't want to be the person who sits and thinks his life away.
     The funny thing is, on extrapolating, I can see myself doing that, and I see myself not minding.
     I promised myself I won't ask "Why?"...but I am really close. I know that couple of months down, I will be saying "Oh, that's why."
     But right now, I hate it when things don't make sense.
