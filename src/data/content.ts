@@ -149,4 +149,14 @@ export const blogPosts: BlogPost[] = [
     And life goes on. Sometimes too fast.
     `,
   },
+  {
+    title: 'The Coldplay Trip',
+    date: '07.11.2025',
+    content: `I don't really get what's happening. I haven't quite been here before. I've taken this journey countless times but this time, it's something so entirely different. I don't want to be the person who sits and thinks his life away.
+    The funny thing is, on extrapolating, I can see myself doing that, and I see myself not minding.
+    I promised myself I won't ask "Why?"...but I am really close. I know that couple of months down, I will be saying "Oh, that's why."
+    But right now, I hate it when things don't make sense.
+    
+    The mind gets the day shift, the heart gets the night shift.`,
+  },
 ];
