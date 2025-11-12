@@ -183,7 +183,7 @@ Please change the parent <Route path="${L}"> to <Route path="${L==="/"?"*":`${L}
     
     The mind gets the day shift, the heart gets the night shift.`},{title:"Solo Dates",date:"13.11.2025",content:`(Since I was already a day late, I was thinking of writing this one tomorrow given how tired I was, but I have been unable to sleep so far, even at 4 AM, so here goes me and my keyboard)
     
-    I went on my first solo date in Bangalore. My throat was starting to ache because of all the cold buttermilk and "coke on rocks" I had been having since the past few days, so I decided to go to Kazan's and get myself a hot, soothing bowl of ramen for dinner. 
+    Day before yesterday, I went on my first solo date in Bangalore. My throat was starting to ache because of all the cold buttermilk and "coke on rocks" I had been having since the past few days, so I decided to go to Kazan's and get myself a hot, soothing bowl of ramen for dinner. 
     It's been quite a while since I've done something like that - the last time I had gone alone to "eat" somewhere was in college.
     
     That used to be less daunting as an act back then. In a city like Bangalore, one seldom goes for dates or dinners without a partner or a group of friends.
