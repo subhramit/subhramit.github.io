@@ -169,7 +169,7 @@ export const blogPosts: BlogPost[] = [
     
     That used to be less daunting as an act back then. In a city like Bangalore, one seldom goes for dates or dinners without a partner or a group of friends.
     But it makes you feel powerful, you know, if you can go somewhere and sit at a table alone, order a meal, happily savor every bit of it while listening to music and scrolling reddit, and then take a metro back home.
-    I think what mostly stops people is fear. And I used to argue that it's really not the fear of "unknown places". It's usually the fear of "unknown people".
+    I think what mostly stops people from taking even the smallest solo trip is fear. And I used to argue that it's really not the fear of "unknown places". It's usually the fear of "unknown people".
     
     I also wanted to take a stroll through Blossom's and buy a book for myself to make it a "perfect date" but unfortunately it was closed for the day by the time I got there. Maybe I expected Church Street to have a better nightlife.`,
   },
