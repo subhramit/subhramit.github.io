@@ -162,7 +162,7 @@ export const blogPosts: BlogPost[] = [
   {
     title: 'Solo Dates',
     date: '13.11.2025',
-    content: `(Since I was already a day late, I was thinking of writing this one writing tomorrow given how tired I was, but I have been unable to sleep so far, so here goes me and my keyboard)
+    content: `(Since I was already a day late, I was thinking of writing this one tomorrow given how tired I was, but I have been unable to sleep so far, so here goes me and my keyboard)
     
     I went on my first solo date in Bangalore. My throat was starting to ache because of all the cold buttermilk and "coke on rocks" I had been having since the past few days, so I decided to go to Kazan's and get myself a hot, soothing bowl of ramen for dinner. 
     It's been quite a while since I've done something like that - the last time I had gone alone to "eat" somewhere was in college.
