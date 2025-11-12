@@ -165,7 +165,7 @@ export const blogPosts: BlogPost[] = [
     content: `(Since I was already a day late, I was thinking of sleeping early and writing this one tomorrow itself, given how tired I was, but I have still not been able to sleep so far, even at 4 AM, so here goes me and my keyboard)
     
     Day before yesterday, I went on my first solo date in Bangalore. My throat was starting to ache because of all the cold buttermilk and "coke on rocks" I had been having since the past few days, so I decided to go to Church Street, to Kazan's and get myself a hot, soothing bowl of ramen for dinner. 
-    It's been quite a while since I've done something like that - the last time I had gone alone to "eat" somewhere was in college.
+    It's been quite a while since I've done something like that - the last time I had gone alone to "eat" somewhere was back in college.
     
     That used to be less daunting as an act back then. In a city like Bangalore, one seldom goes for dates or dinners without a partner or a group of friends.
     But it makes you feel powerful, you know, if you can go somewhere and sit at a table alone, order a meal, happily savor every bit of it while listening to music and scrolling reddit, and then take a metro back home.
