@@ -171,6 +171,8 @@ export const blogPosts: BlogPost[] = [
     But it makes you feel powerful, you know, if you can go somewhere and sit at a table alone, order a meal, happily savor every bit of it while listening to music and scrolling reddit, and then take a metro back home.
     I think what mostly stops people from taking even the smallest solo trip is fear. And I used to argue that it's not really the fear of "unknown places". It's usually the fear of "unknown people".
     
+    Before college, a "solo date" for me used to be me choosing a night to stay up late and just spend time with myself - usually writing my diary while having dark chocolate. It used to be a reminder for me that I don't need people around me to have a good time.
+    
     I also wanted to take a stroll through Blossom's and buy myself an interesting book to make it a "perfect date" but unfortunately it was closed for the day by the time I got there. Maybe I expected Church Street to have a better nightlife.`,
   },
 ];
