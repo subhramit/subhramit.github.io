@@ -177,7 +177,7 @@ export const blogPosts: BlogPost[] = [
   },
   {
     title: 'November',
-    date: '16.11.2025',
+    date: '15.11.2025',
     content: `I never expected myself to be listening to so many Bengali songs off late. I see what I'd been missing out on.
     I don't know if this happens to other people, but my feelings cycle through years. When it's a particular month, my body and my mind start feeling exactly the way it felt that month a few years ago.
     This mostly happens if whatever happened back then made me feel something very strongly, almost wrapped around me like a blanket.
