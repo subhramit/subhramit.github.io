@@ -183,7 +183,8 @@ export const blogPosts: BlogPost[] = [
     This mostly happens if whatever happened back then made me feel something very strongly, almost wrapped around me like a blanket.
     And it's not the other way around - it's only when I start feeling things that I check the date, and it makes sense right away.
     
-    Things that heighten this include songs, the weather, maybe even instagram reels that portray a certain weather. I have lots of emotions associated with Christmas.
+    Things that heighten this include songs I listened to, the weather during that period (maybe even instagram reels that portray a certain weather, as now that I think, the weather in Bangalore doesn't have much variation anyway - it's always pleasant). 
+    I have lots of emotions associated with Christmas. I also remember exactly how I felt few days before the first APOGEE (our university tech fest) that I experienced.
     
     And of course, two years ago, today, I confessed to the girl who ruined a lot of conceptions about how I was to "hope" to be "understood" for the rest of my life.
     She said I was stupid if I had any doubts about her not liking me. I was ecstatic. Sometimes I feel like going back and reading my own post on the patronus charm to remind myself that it's okay to live with the memories.
