@@ -192,7 +192,7 @@ Please change the parent <Route path="${L}"> to <Route path="${L==="/"?"*":`${L}
     
     Before college, a "solo date" for me used to be me choosing a night to stay up late and just spend time with myself - usually writing my diary while having dark chocolate. It used to be a reminder for me that I don't need people around me to have a good time.
     
-    I also wanted to take a stroll through Blossom's and buy myself an interesting book to make it a "perfect date" but unfortunately it was closed for the day by the time I got there. Maybe I expected Church Street to have a better nightlife.`},{title:"November",date:"16.11.2025",content:`I never expected myself to be listening to so many Bengali songs off late. I see what I'd been missing out on.
+    I also wanted to take a stroll through Blossom's and buy myself an interesting book to make it a "perfect date" but unfortunately it was closed for the day by the time I got there. Maybe I expected Church Street to have a better nightlife.`},{title:"November",date:"15.11.2025",content:`I never expected myself to be listening to so many Bengali songs off late. I see what I'd been missing out on.
     I don't know if this happens to other people, but my feelings cycle through years. When it's a particular month, my body and my mind start feeling exactly the way it felt that month a few years ago.
     This mostly happens if whatever happened back then made me feel something very strongly, almost wrapped around me like a blanket.
     And it's not the other way around - it's only when I start feeling things that I check the date, and it makes sense right away.
