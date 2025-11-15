@@ -177,7 +177,7 @@ export const blogPosts: BlogPost[] = [
   },
   {
     title: 'November',
-    date: '13.11.2025',
+    date: '16.11.2025',
     content: `I never expected myself to be listening to so many Bengali songs off late. I see what I'd been missing out on.
     I don't know if this happens to other people, but my feelings cycle through years. When it's a particular month, my body and my mind start feeling exactly the way it felt that month a few years ago.
     This mostly happens if whatever happened back then made me feel something very strongly, almost wrapped around me like a blanket.
@@ -187,7 +187,8 @@ export const blogPosts: BlogPost[] = [
     I have lots of emotions associated with Christmas. I also remember exactly how I felt few days before the first APOGEE (our university tech fest) that I experienced.
     
     And of course, two years ago, today, I confessed to the girl who ruined a lot of conceptions about how I was to "hope" to be "understood" for the rest of my life.
-    She said I was stupid if I had any doubts about her not liking me. I was ecstatic. Sometimes I feel like going back and reading my own post on the patronus charm to remind myself that it's okay to live with the memories.
+    She said I was stupid if I had any doubts about her not liking me. I was ecstatic. I can imagine Caroline Myss screaming at my ear that there is "nothing 'back there'".
+    Sometimes I feel like going back and reading my own post on the patronus charm to remind myself that it's okay to live with the memories.
     In fact, it's something to be grateful about.
     
     I felt understood.
