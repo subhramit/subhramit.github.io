@@ -194,13 +194,4 @@ export const blogPosts: BlogPost[] = [
     I felt understood.
     `,
   },
-  {
-    title: 'The best Sunday ever',
-    date: '23.11.2025',
-    content: `Today, I almost feel like I've got my "spark" back. (TBC - I have to add more context by writing about the Diwali evening I spent at my school best friend's house).
-    I got myself Assassin's Creed Syndicate - Gold Edition for INR 160 (which was worth INR 3499) at the Epic Games store due to the holiday sale as well as all the Epic reward credits I had accumulated so far.
-    I also plan to watch Inglorious Basterds tonight.
-    I am over the moon.
-    `,
-  },
 ];
