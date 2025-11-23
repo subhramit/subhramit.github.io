@@ -194,4 +194,11 @@ export const blogPosts: BlogPost[] = [
     I felt understood.
     `,
   },
+  {
+    title: 'The best Sunday ever',
+    date: '23.11.2025',
+    content: `I got Assassin's Creed Syndicate - Gold Edition worth INR 3500 for INR 160 at the Epic Games store due to the holiday sale as well as all the Epic reward credits I had accumulated so far.
+    I am over the moon.
+    `,
+  },
 ];
