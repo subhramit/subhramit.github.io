@@ -39,7 +39,7 @@ export const blogPosts: BlogPost[] = [
     title: '"Porichito haather ador e"',
     date: '19.09.2025',
     content: `There is a song from the Bengali movie "Autograph" called "Beche Thakar Gaan" (the song of survival). It has a line in particular that has been on my mind since the past couple of days.
-              The line is "Porichito haather ador e", which means, "in the affection and comfort of familiar hands".
+              The line is "Porichito haather ador e", which means, "in the comfort and affection of familiar hands".
               Isn't that what we all deeply wish for - to have familiar hands we can rest our heads on?
               
               Hey, if you're ever reading this - please know that it was not easy. I miss you. Life is unfortunate, humans are delicate, and nobody deserves to go through the kind of suffering you have been through.
