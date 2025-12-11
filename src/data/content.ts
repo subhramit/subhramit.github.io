@@ -44,7 +44,7 @@ export const blogPosts: BlogPost[] = [
               
               Hey, if you're ever reading this - please know that it was not easy. I miss you. Life is unfortunate, humans are delicate, and nobody deserves to go through the kind of suffering you have been through.
               I know I was far from perfect, but I always wished that I could make it a bit better for you, to the capacity of however-much I could. I hope I was able to, if even a little bit, for as long as I was there. Nobody can take away the fact you are one of the bravest, strongest and most honest human beings I have ever met. You were worth it.
-              We didn't deserve this - only to end up where we are now.
+
               I wish it was us who could make it, but maybe not all things are meant to be. And that's alright.
               As unbelievable as it may sound (or maybe believable to you as you got to know me at least a little bit over the past two years) - I really want you to be happy. I want you to be cared for.
               I hope someone comes in your life to give you the affection of "porichito haath", so that you never have to feel what it is like for someone to go away from your life, ever again. I want them to tuck you tight and never let go.
