@@ -206,7 +206,7 @@ Please change the parent <Route path="${L}"> to <Route path="${L==="/"?"*":`${L}
     In fact, it's something to be grateful about.
     
     I felt understood.
-    `},{title:"The second sunrise",date:"12.12.2025",content:`I was feeling really nostalgic today. Trying to trace back through some years of my childhood, I came across a very old email that my uncle had written to me as a reply to mine in which I had wished him a happy new year, that he is proud that I have started sending emails.
+    `},{title:"The second sunrise",date:"12.12.2025",content:`I was feeling really nostalgic today. Trying to trace back through some years of my childhood, I came across a very old email that my uncle had written to me as a reply to mine in which I had wished him a happy new year, saying that he is proud that I have started sending emails.
     It was 2010. There is really something magical about the period 2010-2017. So much of carefree happiness, great music, great movies, great video games, and what not.
     I am lucky that my school life coincided with that period. In fact, keeping aside the fact that more or less all Indian families have some or the other dysfunctional component within, as far as the "good" part of my childhood is concerned, I couldn't have asked for a better one.
     I really want to go back to re-live even one evening of me coming back from tuitions and going straight to my computer chair starting up Far Cry 3 on my PC, without a care in the world, and mom eventually bringing my dinner and feeding me herself, knowing very well that it's futile to call me to the table.
