@@ -107,7 +107,7 @@ Please change the parent <Route path="${L}"> to <Route path="${L==="/"?"*":`${L}
               I wish it was us who could make it, but maybe not all things are meant to be. And that's alright.
               As unbelievable as it may sound (or maybe believable to you as you got to know me at least a little bit over the past two years) - I really want you to be happy. I want you to be cared for.
               I hope someone comes in your life to give you the affection of "porichito haath", so that you never have to feel what it is like for someone to go away from your life, ever again. I want them to tuck you tight and never let go.
-              It sucks that the hands couldn't be mine, but I shall pray that it is someone better. For both you and me.
+              I shall pray that it is someone better. For both you and me. 
               Be happy, and do keep me in your memory.
               
               For the love of cats.`},{title:"Tired",date:"20.09.2025",content:`tl;dr: Humans are stupid.
