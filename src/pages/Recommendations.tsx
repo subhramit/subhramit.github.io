@@ -118,27 +118,29 @@ export default function Recommendations() {
       <div
         className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-medium md:pl-60 pt-8 md:pr-60">
         <p>
-          <strong>1. 500 Days of Summer</strong><br />
-          <strong>2. Twelve Angry Men</strong> (Thanks to Kaustab for recommending)<br />
-          <strong>3. The Shawshank Redemption</strong><br />
-          <strong>4. Eternal Sunshine of the Spotless Mind</strong> (Thanks to Radhika for recommending)<br />
-          <strong>5. Demolition</strong><br />
-          <strong>6. Donnie Brasco</strong> (hey SSV, thanks for this)<br />
-          <strong>7. La La Land</strong><br />
-          <strong>8. Begin Again</strong><br />
-          <strong>9. The Secret Life of Walter Mitty</strong><br />
-          <strong>10. The End of the Tour</strong><br />
-          <strong>11. Wind River</strong><br />
-          <strong>12. Prisoners</strong><br />
-          <strong>13. Anatomy of a Fall</strong><br />
-          <strong>14. Before We Go</strong><br />
-          <strong>15. Django Unchained</strong><br />
-          <strong>16. Skyfall</strong><br />
-          <strong>17. Sully</strong><br />
-          <strong>18. The Big Short</strong><br />
-          <strong>19. Living</strong><br />
-          <strong>20. Groundhog Day</strong><br />
-          <strong>21. Airplane!</strong> - if you're just looking for fun, go for this. It's the funniest movie that
+          <strong>1. Inglorious Basterds</strong><br />
+          <strong>2. 500 Days of Summer</strong><br />
+          <strong>3. Twelve Angry Men</strong> (Thanks to Kaustab for recommending)<br />
+          <strong>4. The Shawshank Redemption</strong><br />
+          <strong>5. Eternal Sunshine of the Spotless Mind</strong> (Thanks to Radhika for recommending)<br />
+          <strong>6. Demolition</strong><br />
+          <strong>7. Donnie Brasco</strong> (hey SSV, thanks for this)<br />
+          <strong>8. Carnage</strong><br />
+          <strong>9. La La Land</strong><br />
+          <strong>10. Begin Again</strong><br />
+          <strong>11. The Secret Life of Walter Mitty</strong><br />
+          <strong>12. The End of the Tour</strong><br />
+          <strong>13. Wind River</strong><br />
+          <strong>14. Prisoners</strong><br />
+          <strong>15. Anatomy of a Fall</strong><br />
+          <strong>16. Before We Go</strong><br />
+          <strong>17. Django Unchained</strong><br />
+          <strong>18. Skyfall</strong><br />
+          <strong>19. Sully</strong><br />
+          <strong>20. The Big Short</strong><br />
+          <strong>21. Living</strong><br />
+          <strong>22. Groundhog Day</strong><br />
+          <strong>23. Airplane!</strong> - if you're just looking for fun, go for this. It's the funniest movie that
           I've ever watched.
         </p>
       </div>
