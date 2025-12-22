@@ -230,7 +230,7 @@ Please change the parent <Route path="${L}"> to <Route path="${L==="/"?"*":`${L}
     
     Everyone who comes into our lives changes us in ways we don't even get to notice. Even after they are gone, we carry pieces of them with us.
     
-    But perhaps a semicolon doesn't do justice to the ending of some stories, or the beginning of others. Sometimes, a proper period, followed by a page turn is what we are supposed to look forward to.
+    But perhaps a semicolon doesn't do justice to the ending of some stories, or the beginning of others. Sometimes, a proper period, followed by the turn of a page is what we are supposed to look forward to.
     
     I hope to find that courage again. Someday.
     I hope you do too.
