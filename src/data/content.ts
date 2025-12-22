@@ -205,4 +205,29 @@ export const blogPosts: BlogPost[] = [
     Snapping back to today, I sometimes wonder when life got so serious. 
     `,
   },
+  {
+    title: 'Demolition',
+    date: '22.12.2025',
+    content: `I hate doing this. 
+    I never imagined writing to become more than a creative outlet for me (in fact I never wanted it to be a creative outlet in the first place), but these days it's the first thing that I think about doing the moment I feel an overwhelm of emotions.
+    Be it any emotion. I admitted to someone recently when they were talking about how they feel conscious about oversharing in their blog, that I feel nothing of that sort even though I share more than a few personal crumbs? At least much more than them, and I acknowledged my habit of writing out of impulse instead of coming up with a refined, well-thought, well-censored piece of expression.
+    
+    As much as I hate doing this, I can't help it. I initially mentioned in my "About me" section (which hasn't been changed since the inception of this website - I really don't feel like updating it) that I felt I had spent a good part of my life "painting for myself" and now I want to spare a little time attempting to live the life of the "other artist".
+    Haha, then guess what, it all became just another selfish venture. It's all for myself again. It's all to make me feel better. Maybe it even makes me feel more like myself in some way? I never wanted to give generic life advice anyway, considering how chaotically I get through each day.
+    
+    So what am I clutching onto tonight, and trying to let go at the same time?
+    "Everything has become a metaphor." Everything has become a comparison.
+    
+    If it's you again reading this, I am back in town, and it's still very difficult to not think about things, to not be reminded of moments when I walk down certain roads. Especially how it used to feel on the way back after dropping you home.
+    I almost went to the extent of blaming myself for everything that happened. It almost feels better that way.
+    It's not like one finds people like you every day. Winter two years back was perhaps one of the happiest I've ever been in life. I still read our old texts sometimes. It just feels good. Almost as if it's a way I get to live all of it again.
+    Know that I don't regret even one moment that I have spent with you in this life. Sometimes I wonder if I would even trade all of them just to have just one more.
+    I wish Lacuna, Inc. was real. I'd get to meet you again. We'd both get to do everything, all over again. We'd look at each other and just smile and say nothing, once again.
+    
+    Everyone who comes into our lives changes us in ways we don't even get to notice. Even after they are gone, we carry pieces of them with us.
+    
+    But perhaps a semicolon doesn't do justice to the ending of some stories, or the beginning of others. Sometimes, a proper period, followed by a page turn is what we are supposed to look forward to.
+    I hope to find that courage. Someday.
+    `,
+  },
 ];
