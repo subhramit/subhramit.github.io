@@ -221,7 +221,7 @@ export const blogPosts: BlogPost[] = [
     `,
   },
   {
-    title: 'What I want life to be like',
+    title: 'New year resolutions',
     date: '11.01.2025',
     content: `Although I have always loved the idea of "new beginnings" carrying marvelous potential for change, I was never much of a believer in "new year resolutions", given their rate of success. In fact, I have never taken one in life.
     
