@@ -1,4 +1,5 @@
 import { Character, BlogPost } from '../types';
+import cheapThrills from '/sia.png'
 
 export const characters: Character[] = [
   // { name: 'Me', description: '' },
@@ -244,6 +245,6 @@ export const blogPosts: BlogPost[] = [
     
     And they danced.
     `,
-    images: ['/sia.png']
+    images: [cheapThrills]
   },
 ];
