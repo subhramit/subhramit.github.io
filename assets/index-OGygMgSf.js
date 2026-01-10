@@ -214,7 +214,7 @@ Please change the parent <Route path="${Y}"> to <Route path="${Y==="/"?"*":`${Y}
     
     So what am I clutching onto tonight, and trying to let go at the same time?
     "Everything has become a metaphor." Everything has become a comparison.
-    `},{title:"What I want life to be like",date:"11.01.2025",content:`Although I have always loved the idea of "new beginnings" carrying marvelous potential for change, I was never much of a believer in "new year resolutions", given their rate of success. In fact, I have never taken one in life.
+    `},{title:"Resolutions",date:"11.01.2026",content:`Although I have always loved the idea of "new beginnings" carrying marvelous potential for change, I was never much of a believer in "new year resolutions", given their rate of success. In fact, I have never taken one in life.
     
     This year, however, I sat down to think of a few things I'd really like to do. It can certainly cause an issue when you don't love the person you are becoming, even though I feel I have left that lane long back.
     So, once I was done listing down some of the more obvious ones like "eating healthier" or "sleeping better", the question of "What would I really want to do?" inevitably took a more essential form of "Who do I really want to be?"
