@@ -83,3 +83,26 @@ export default function Stories() {
     </div>
   );
 }
+
+// <ReactMarkdown
+//   components={{
+//     p: ({ node, ...props }) => (
+//       <p className="mb-4 whitespace-pre-line break-words" {...props} />
+//     ),
+//     img: ({ node, ...props }) => (
+//       <img
+//         {...props}
+//         className="w-full max-w-2xl mx-auto rounded-lg my-6 block"
+//         alt={props.alt || ''}
+//       />
+//     ),
+//     code: ({ node, ...props }) => (
+//       <span {...props} />
+//     ),
+//     pre: ({ node, ...props }) => (
+//       <div {...props} />
+//     ),
+//   }}
+// >
+//   {post.content}
+// </ReactMarkdown>
