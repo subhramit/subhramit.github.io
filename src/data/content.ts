@@ -111,18 +111,18 @@ export const blogPosts: BlogPost[] = [
     Maybe I'll even get a chance to close my eyes, and eventually fall asleep?
     I think I just expanded my bucket list.`,
   },
-  {
-    title: '"One more love song"',
-    date: '29.09.2025',
-    content: `So, love songs are not particularly my genre. Sure, I enjoyed Taylor Swift's "Love Story" when I came across it, but the category was never one I would consciously look for.
-    That being said, I really appreciate well-written love songs from time to time. I sat down listing how my favourite "love" song changed through the years.
-    I really spent some time coming back to Roja (Version 2, by Hariharan), and here's my conclusion - I don't think there is a "greater" love song ever written by humans, or there will ever be.
-    The only song in my mind that comes close is "There Will Be Time" by Mumford & Sons, Baaba Maal.
-    
-    I have a lot to talk about the topic (love) in general, but battling laziness is a real thing. I also just recovered from recurring typhoid fever over the last 6 days.
-    
-    I was thinking whether to have a separate "Rants" page to write about all the things I find to be wrong about the world, and another counterpart for the "Things I'm grateful for". Still contemplating on that.`,
-  },
+  // {
+  //   title: '"One more love song"',
+  //   date: '29.09.2025',
+  //   content: `So, love songs are not particularly my genre. Sure, I enjoyed Taylor Swift's "Love Story" when I came across it, but the category was never one I would consciously look for.
+  //   That being said, I really appreciate well-written love songs from time to time. I sat down listing how my favourite "love" song changed through the years.
+  //   I really spent some time coming back to Roja (Version 2, by Hariharan), and here's my conclusion - I don't think there is a "greater" love song ever written by humans, or there will ever be.
+  //   The only song in my mind that comes close is "There Will Be Time" by Mumford & Sons, Baaba Maal.
+  //
+  //   I have a lot to talk about the topic (love) in general, but battling laziness is a real thing. I also just recovered from recurring typhoid fever over the last 6 days.
+  //
+  //   I was thinking whether to have a separate "Rants" page to write about all the things I find to be wrong about the world, and another counterpart for the "Things I'm grateful for". Still contemplating on that.`,
+  // },
   {
     title: 'The Coldplay Trip',
     date: '29.09.2025',
@@ -217,19 +217,33 @@ export const blogPosts: BlogPost[] = [
     
     So what am I clutching onto tonight, and trying to let go at the same time?
     "Everything has become a metaphor." Everything has become a comparison.
-    
-    If it's you again reading this, I am back in town, and it's still very difficult to not think about things, to not be reminded of moments when I walk down certain roads. Especially how it used to feel on the way back after dropping you home.
-    I almost went to the extent of blaming myself for everything that happened. It almost feels better that way.
-    It's not like one finds people like you every day. Winter two years back was perhaps one of the happiest I've ever been in life. I still read our old texts sometimes. It just feels good. Almost as if it's a way I get to live all of it again.
-    Know that I don't regret even one moment that I have spent with you in this life. Sometimes I wonder if I would even trade all of them just to have just one more.
-    I wish Lacuna, Inc. was real. I'd get to meet you again. We'd both get to do everything, all over again. We'd look at each other and just smile and say nothing, once again.
-    
-    Everyone who comes into our lives changes us in ways we don't even get to notice. Even after they are gone, we carry pieces of them with us.
-    
-    But perhaps a semicolon doesn't do justice to the ending of some stories, or the beginning of others. Sometimes, a proper period, followed by the turn of a page is what we are supposed to look forward to.
-    
-    I hope to find that courage again. Someday.
-    I hope you do too.
     `,
+  },
+  {
+    title: 'What I want life to be like',
+    date: '11.01.2025',
+    content: `Although I have always loved the idea of "new beginnings" carrying marvelous potential for change, I was never much of a believer in "new year resolutions", given their rate of success. In fact, I have never taken one in life.
+    
+    This year, however, I sat down to think of a few things I'd really like to do. It can certainly cause an issue when you don't love the person you are becoming, even though I feel I have left that lane long back.
+    So, once I was done listing down some of the more obvious ones like "eating healthier" or "sleeping better", the question of "What would I really want to do?" inevitably took a more essential form of "Who do I really want to be?"
+    And that, took quite some time. Days, in fact. Until I got the answer.
+    I really wanted more "immersion" in my life. I was struggling to conceptualize it, but what I knew was that it had to do with how the sense or awareness of "you" dissolves when you are witnessing something way too captivating or beautiful. 
+    
+    About 10 years ago, Sia released the music video for her song "Cheap Thrills" (the version that featured Sean Paul). The song had already taken over the world, but the music video was also very fun to watch.
+    I loved it too. But back then, I did not try to interpret it any more deeply than a carefree video of people dancing. But a decade later, when I revisited it, I finally found an example of what I was meaning to say.
+    
+    The video starts with a TV host welcoming us back to "Dance Stage USA" - which, as far as it can be gathered, is an evening of people (primarily couples) dancing to music, while being filmed on live TV.
+    It also seems to be some sort of a competition, where the couple that is able to pull off the best dance of the evening are declared "winners".
+    The song (Cheap Thrills) is played, which the couples clearly seem to love, and they start dancing to it. All of them dance pretty modestly, while the host walks around taking note of how well each of the couples were performing.
+    This goes on for a while, until halfway through, when a couple with masked faces and Sia's symbolic hair wigs step in. They literally shock everyone on stage with their distinctively energetic style and daring moves.
+    They dance with overflowing passion. Seeing them, the host asks a couple around to clear the area for their safety, while another tries to ramp up their energy in an attempt to keep up from being overshadowed, to no avail.
+    
+    The host finally comes to the masked couple to stop them, and declares them winners. In fact, it was almost as if he declares them winners so that they stop.
+    Now here is the interesting part - they don't. They keep dancing and pulling off their fantastic moves with the same energy as they did before. Everyone is shocked wondering why they were doing this. 
+    They did not care about the fact that they had already won. In fact, they were never here to win in the first place. They were here to dance.
+    
+    And they danced.
+    `,
+    images: ['/sia.png']
   },
 ];

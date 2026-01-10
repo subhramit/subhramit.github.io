@@ -57,7 +57,17 @@ export default function Stories() {
                 <cite className="block text-[16.67px] font-serif not-italic">-{post.quote.author}</cite>
               </div>
             )}
-            <div className="prose prose-lg font-serif font-medium whitespace-pre-line">{post.content}</div>
+            <div className="prose prose-lg font-serif font-medium whitespace-pre-line">
+              {post.content}
+              {post.images?.map((imageSrc, index) => (
+                <img
+                  key={index}
+                  src={imageSrc}
+                  alt={`${post.title} - image ${index + 1}`}
+                  className="w-full max-w-2xl mx-auto rounded-3xl my-3.25"
+                />
+              ))}
+            </div>
             {post.endQuote && (
               <div className="mt-6 mb-4">
                 <blockquote className="italic text-[16.32px] font-serif font-semibold mb-2">
