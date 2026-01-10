@@ -231,7 +231,7 @@ Please change the parent <Route path="${Y}"> to <Route path="${Y==="/"?"*":`${Y}
     They dance with overflowing passion. Seeing them, the host asks a couple around to clear the area for their safety, while another tries to ramp up their energy in an attempt to keep up from being overshadowed, to no avail.
     
     The host finally comes to the masked couple to stop them, and declares them winners. In fact, it was almost as if he declares them winners so that they stop.
-    Now here is the interesting part - they don't. They keep dancing and pulling off their fantastic moves with the same energy as they did before. Everyone is shocked wondering why they were doing this. 
+    Now here is the interesting part - they don't. They keep dancing and pulling off their fantastic moves with the same energy as they did before. Everyone is confused wondering why they were doing this. 
     They did not care about the fact that they had already won. In fact, they were never here to win in the first place. They were here to dance.
     
     And they danced.
