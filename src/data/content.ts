@@ -228,7 +228,7 @@ export const blogPosts: BlogPost[] = [
     This year, however, I sat down to think of a few things I'd really like to do. It can certainly cause an issue when you don't love the person you are becoming, even though I feel I have left that lane long back.
     So, once I was done listing down some of the more obvious ones like "eating healthier" or "sleeping better", the question of "What would I really want to do?" inevitably took a more essential form of "Who do I really want to be?"
     And that, took quite some time. Days, in fact. Until I got the answer.
-    I really wanted more "immersion" in my life. I was struggling to conceptualize it, but what I knew was that it had to do with how the sense or awareness of "you" dissolves when you are witnessing something way too captivating or beautiful. 
+    I really wanted to be someone who is able to have more "immersion" in life. I was struggling to conceptualize it, but what I knew was that it had to do with how the sense or awareness of "you" dissolves when you are witnessing something way too captivating or beautiful. 
     
     About 10 years ago, Sia released the music video for her song "Cheap Thrills" (the version that featured Sean Paul). The song had already taken over the world, but the music video was also very fun to watch.
     I loved it too. But back then, I did not try to interpret it any more deeply than a carefree video of people dancing. But a decade later, when I revisited it, I finally found an example of what I was meaning to say.
