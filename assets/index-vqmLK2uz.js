@@ -228,7 +228,7 @@ Please change the parent <Route path="${Y}"> to <Route path="${Y==="/"?"*":`${Y}
     It also seems to be some sort of a competition, where the couple that is able to pull off the best dance of the evening are declared "winners".
     The song (Cheap Thrills) is played, which the couples clearly seem to love, and they start dancing to it. All of them dance pretty modestly, while the host walks around taking note of how well each of the couples were performing.
     This goes on for a while, until halfway through, when a couple with masked faces and Sia's symbolic hair wigs step in. They literally shock everyone on stage with their distinctively energetic style and daring moves.
-    They dance with overflowing passion. Seeing them, the host asks a nearby couple to clear the area for their safety, while another couple tries to ramp up their energy in an attempt to keep from being overshadowed, to no avail.
+    They dance with overflowing passion. Seeing them, the host asks a nearby couple to clear the area for their safety, while another couple tries to ramp up their energy in an attempt to keep themselves from being overshadowed, to no avail.
     
     The host finally comes to the masked couple to stop them, and declares them winners. In fact, it was almost as if he declares them winners so that they stop.
     Now here is the interesting part - they don't. They keep dancing and pulling off their fantastic moves with the same energy as they did before. Everyone is confused wondering why they were doing this. 
