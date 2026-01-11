@@ -242,7 +242,7 @@ export const blogPosts: BlogPost[] = [
     
     The host finally comes to the masked couple to stop them, and declares them winners. In fact, it was almost as if he declares them winners so that they stop.
     Now here is the interesting part - they don't. They keep dancing and pulling off their fantastic moves with the same energy as they did before. Everyone is confused wondering why they were doing this. 
-    They did not give a damn about the fact that they had already won. That's when it starts occurring to some of the people there, and eventually everyone, that the couple was never there to win in the first place. They were here to dance.
+    They did not give a damn about the fact that they had already won. That's when it starts occurring to some of the people there, and eventually everyone, that the couple was never there to win in the first place. They were there to dance.
     
     And they danced.
     `,
