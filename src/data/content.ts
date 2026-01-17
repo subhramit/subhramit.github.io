@@ -218,6 +218,8 @@ export const blogPosts: BlogPost[] = [
     
     So what am I clutching onto tonight, and trying to let go at the same time?
     "Everything has become a metaphor." Everything has become a comparison.
+    I don't think "moving on" in the truest sense is ever possible. Everyone who comes into our lives changes us in ways we don't even get to notice. Even after they are gone, we carry pieces of them with us.
+    But perhaps a semicolon doesn't do justice to the ending of some stories, or the beginning of others. Sometimes, a proper period, followed by the turn of a page is what we are supposed to look forward to.
     `,
   },
   {
