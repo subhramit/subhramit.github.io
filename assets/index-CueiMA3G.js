@@ -214,6 +214,8 @@ Please change the parent <Route path="${Y}"> to <Route path="${Y==="/"?"*":`${Y}
     
     So what am I clutching onto tonight, and trying to let go at the same time?
     "Everything has become a metaphor." Everything has become a comparison.
+    I don't think "moving on" in the truest sense is ever possible. Everyone who comes into our lives changes us in ways we don't even get to notice. Even after they are gone, we carry pieces of them with us.
+    But perhaps a semicolon doesn't do justice to the ending of some stories, or the beginning of others. Sometimes, a proper period, followed by the turn of a page is what we are supposed to look forward to.
     `},{title:"Resolutions",date:"11.01.2026",content:`Although I have always loved the idea of "new beginnings" carrying marvelous potential for change, I was never much of a believer in "new year resolutions", given their rate of success. In fact, I have never taken one in life.
     
     This year, however, I sat down to think of a few things I'd really like to do. It can certainly cause an issue when you don't love the person you are becoming, even though I feel I have left that lane long back.
