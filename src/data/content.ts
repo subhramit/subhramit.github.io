@@ -250,4 +250,10 @@ export const blogPosts: BlogPost[] = [
     `,
     images: [cheapThrills]
   },
+  {
+    title: 'Last train to Whitefield',
+    date: '23.01.2026',
+    content: `I turned 25.
+    TBC.`,
+  },
 ];
