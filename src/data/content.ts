@@ -261,7 +261,7 @@ export const blogPosts: BlogPost[] = [
     I find a stark resemblance of that experiment with human connections. Sometimes we can't directly feel exactly how much we were attached to someone (or something) until we see how bad it feels when they have been displaced out of our lives, that is, we lose them.
     
     There's some dots to connect here.
-    In Sherlock S1E1 (A Study in Pink), when Mycroft talks to John Watson in person, inquiring about his relationship with Sherlock, he shows how Watson was in a stressful situation but his hand was perfectly steady, even though he was thought to have tremors due to post-traumatic stress due to his history of military service.
+    In Sherlock S1E1 (A Study in Pink), when Mycroft talks to John Watson in person, inquiring about his relationship with Sherlock, he shows how Watson was in a stressful situation but his hand was perfectly steady, even though he was thought to have tremors due to post-traumatic stress from his history of military service.
     He tells him, "You're not haunted by the war, Dr. Watson. You miss it."`,
   },
 ];
