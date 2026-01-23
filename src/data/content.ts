@@ -253,7 +253,15 @@ export const blogPosts: BlogPost[] = [
   {
     title: 'Last train to Whitefield',
     date: '23.01.2026',
-    content: `I turned 25.
-    TBC.`,
+    content: `I turned 25. That's a third of my life.
+    TBC.
+    (Contd.) Okay. I finally feel I can jot down some thoughts.
+    This one's gonna be slightly childish.
+    Remember the Archimedes' experiment? The one that demonstrates that the buoyant force experienced by a body in water (or any fluid) turns out to be the weight of the water it displaces?
+    I find a stark resemblance of that experiment with human connections. Sometimes we can't directly feel exactly how much we were attached to someone (or something) until we see how bad it feels when they have been displaced out of our lives, that is, we lose them.
+    
+    There's some dots to connect here.
+    In Sherlock S1E1 (A Study in Pink), when Mycroft talks to John Watson in person, inquiring about his relationship with Sherlock, he shows how Watson was in a stressful situation but his hand was perfectly steady, even though he was thought to have tremors due to post-traumatic stress due to his history of military service.
+    He tells him, "You're not haunted by the war, Dr. Watson. You miss it."`,
   },
 ];
