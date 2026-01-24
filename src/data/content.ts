@@ -254,7 +254,9 @@ export const blogPosts: BlogPost[] = [
     title: 'Last train to Whitefield',
     date: '23.01.2026',
     content: `I turned 25. That's a third of my life.
+    Took the last metro to Whitefield home yesternight.
     TBC.
+    
     (Contd.) Okay. I finally feel I can jot down some thoughts.
     This one's gonna be slightly childish.
     Remember the Archimedes' experiment? The one that demonstrates that the buoyant force experienced by a body in water (or any fluid) turns out to be the weight of the water it displaces?
