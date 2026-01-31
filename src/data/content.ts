@@ -267,7 +267,7 @@ export const blogPosts: BlogPost[] = [
     He tells him, "You're not haunted by the war, Dr. Watson. You miss it."`,
   },
   {
-    title: 'Full Moon',
+    title: 'Full moon',
     date: '01.02.2026',
     content: `I am convinced that human beings are capable of unimaginable suffering, as well as unimaginable resilience.
     It's not easy, many of the things that people have gone through for no reason at all.
