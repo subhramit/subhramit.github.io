@@ -249,7 +249,7 @@ Please change the parent <Route path="${Y}"> to <Route path="${Y==="/"?"*":`${Y}
     
     There's some dots to connect here.
     In Sherlock S1E1 (A Study in Pink), when Mycroft talks to John Watson in person, inquiring about his relationship with Sherlock, he shows how Watson was in a stressful situation but his hand was perfectly steady, even though he was thought to have tremors due to post-traumatic stress from his history of military service.
-    He tells him, "You're not haunted by the war, Dr. Watson. You miss it."`},{title:"Full Moon",date:"01.02.2026",content:`I am convinced that human beings are capable of unimaginable suffering, as well as unimaginable resilience.
+    He tells him, "You're not haunted by the war, Dr. Watson. You miss it."`},{title:"Full moon",date:"01.02.2026",content:`I am convinced that human beings are capable of unimaginable suffering, as well as unimaginable resilience.
     It's not easy, many of the things that people have gone through for no reason at all.
     
     It's a full moon day today. It's said that on such days, whatever you experience is "elevated", whether it be physical or mental/emotional.
