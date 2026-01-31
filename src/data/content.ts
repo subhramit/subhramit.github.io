@@ -273,7 +273,7 @@ export const blogPosts: BlogPost[] = [
     It's not easy, many of the things that people have gone through for no reason at all.
     
     It's a full moon day today. It's said that on such days, whatever you experience is "elevated", whether it be physical or mental/emotional.
-    I don't know how much of that is true but I for sure am thinking a lot.
+    I don't know how much of that is true but I for sure am thinking a lot tonight.
     `,
   },
 ];
