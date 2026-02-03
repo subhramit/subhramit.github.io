@@ -119,7 +119,7 @@ export default function Recommendations() {
         className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-medium md:pl-60 pt-8 md:pr-60">
         <p>
           <strong>1. Inglorious Basterds</strong><br />
-          <strong>2. Nine Days</strong> (I am about 30 min into the movie, and I already have to list this here.<br />
+          <strong>2. Nine Days</strong> (I am about 30 min into the movie, and I already have to list this here.)<br />
           <strong>3. 500 Days of Summer</strong><br />
           <strong>4. Twelve Angry Men</strong> (Thanks to Kaustab for recommending)<br />
           <strong>5. The Shawshank Redemption</strong><br />
