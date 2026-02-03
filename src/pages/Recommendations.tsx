@@ -118,8 +118,8 @@ export default function Recommendations() {
       <div
         className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-medium md:pl-60 pt-8 md:pr-60">
         <p>
-          <strong>1. Inglorious Basterds</strong><br />
-          <strong>2. Nine Days</strong> (I am about 30 min into the movie, and I already have to list this here)<br />
+          <strong>1. Nine Days</strong><br />
+          <strong>2. Inglorious Basterds</strong><br />
           <strong>3. 500 Days of Summer</strong><br />
           <strong>4. Twelve Angry Men</strong> (Thanks to Kaustab for recommending)<br />
           <strong>5. The Shawshank Redemption</strong><br />
@@ -130,20 +130,21 @@ export default function Recommendations() {
           <strong>10. La La Land</strong><br />
           <strong>11. Begin Again</strong><br />
           <strong>12. The Secret Life of Walter Mitty</strong><br />
-          <strong>13. The End of the Tour</strong><br />
-          <strong>14. Wind River</strong><br />
-          <strong>15. Prisoners</strong><br />
-          <strong>16. Anatomy of a Fall</strong><br />
-          <strong>17. Before We Go</strong><br />
-          <strong>18. Django Unchained</strong><br />
-          <strong>19. Skyfall</strong><br />
-          <strong>20. Sully</strong><br />
-          <strong>21. The Big Short</strong><br />
-          <strong>22. Living</strong><br />
-          <strong>23. Groundhog Day</strong><br />
-          <strong>24. Airplane!</strong> - if you're just looking for fun, go for this. It's the funniest movie that I've ever watched.
+          <strong>13. The Lunchbox</strong><br />
+          <strong>14. The End of the Tour</strong><br />
+          <strong>15. Wind River</strong><br />
+          <strong>16. Prisoners</strong><br />
+          <strong>17. Anatomy of a Fall</strong><br />
+          <strong>18. Aftersun</strong><br />
+          <strong>19. Before We Go</strong><br />
+          <strong>20. Django Unchained</strong><br />
+          <strong>21. Skyfall</strong><br />
+          <strong>22. Sully</strong><br />
+          <strong>23. The Big Short</strong><br />
+          <strong>24. Living</strong><br />
+          <strong>25. Groundhog Day</strong><br />
         </p>
-      </div>
+      </div>// biggest fear me being vulnerable, them not
 
       <div
         className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-medium md:pl-60 pt-4 md:pr-72">
