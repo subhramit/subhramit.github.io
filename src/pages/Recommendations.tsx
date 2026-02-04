@@ -144,7 +144,7 @@ export default function Recommendations() {
           <strong>24. Living</strong><br />
           <strong>25. Groundhog Day</strong><br />
         </p>
-      </div>// biggest fear me being vulnerable, them not
+      </div>
 
       <div
         className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-medium md:pl-60 pt-4 md:pr-72">
