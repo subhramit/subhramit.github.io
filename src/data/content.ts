@@ -282,7 +282,7 @@ export const blogPosts: BlogPost[] = [
     content: `
     I finally got time to write about this.
     Nine Days. It's become my favourite movie, and I have no idea why I never heard about this before in any "list of movies to watch before you die".
-    It's two hour long. Once I hit the 30-minute mark, I had to pause it, go to the recommendations section of this website, put it on #2 among my movie recommendations. After I finished the movie, I put it at #1.
+    It's two hour long. Once I hit the 30-minute mark, I had to pause it, go to the recommendations section of this website, put it on #2 in the movies section. After I finished it, I put it at #1.
     I don't have words to describe how beautiful it is. But I can, for sure, without spoiling anything, quote the excerpt of the poem "Song of Myself" by Walt Whitman that has been used in the movie:
     
     "Have you ever reckoned the Earth much? 
