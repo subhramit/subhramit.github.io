@@ -276,4 +276,76 @@ export const blogPosts: BlogPost[] = [
     I don't know how much of that is true but I for sure am thinking a lot tonight.
     `,
   },
+  {
+    title: 'Nine Days',
+    date: '14.02.2026',
+    content: `
+    I finally got time to write about this.
+    Nine Days. It's become my favourite movie, and I have no idea why I never heard about this before in any "list of movies to watch before you die".
+    It's two hour long. Once I hit the 30-minute mark, I had to pause it, go to the recommendations section of this website, put it on #2 among my movie recommendations. After I finished the movie, I put it at #1.
+    I don't have words to describe how beautiful it is. But I can, for sure, without spoiling anything, quote the excerpt of the poem "Song of Myself" by Walt Whitman that has been used in the movie:
+    
+    "Have you ever reckoned the Earth much? 
+    Spend this day and night with me
+    And you shall possess the origin of all poems
+    
+    I, I celebrate myself and sing myself
+    And what I assume you shall assume
+    For every atom belonging to me as good belongs to you
+    
+    I loafe and invite my soul
+    I lean and I loafe at my ease
+    Observing a spear of summer grass
+    Ah, my tongue, owww
+    Every atom of my blood born here
+    From parents born here
+    And their parents the same
+    As their parents the same
+    I, now 37 years old and in perfect health,
+    Begin hoping to cease not till death
+    
+    The smoke of my breath echoes, ripples
+    Buzzed whispers, love root, silk thread, crotch and vine
+    My inspiration and respiration
+    The passing of air and blood through my lungs
+    The sound of the belched words of my voice [roaring]
+    Loos’d to the eddies of the wind
+    
+    A few light kisses, a few embraces
+    The reaching around of arms,
+    the play of the light
+    And shade on the trees as the supple boughs wag
+    The delight alone or the rush of the streets
+    Or along the fields and hillsides
+    The feeling of health
+    
+    The full noon trill
+    The song of me
+    Rising from bed and greeting the sun
+    Hey, sun – sun, sun, sun, sun, sun, sun, sun, sun, sun
+    The last scud of sun holds back for me
+    It flings my likeness after the rest
+    And as true as any on the shadowed wilds
+    It coaxes me to the vapor
+    and the dusk
+    
+    I depart as air
+    I effuse my flesh in eddies and drift it in lacy jags
+    And to die
+    is different than anyone supposed
+    And luckier
+    
+    I bequeath myself to the dirt
+    To grow from the grass I love
+    If you want me again
+    Look for me under your boot soles
+    
+    You will hardly know who I am or what I mean
+    But I shall be good health to you nevertheless
+    Failing to fetch me at first, keep encouraged
+    Missing me one place, search another
+    I stop someplace
+    Waiting for you."
+    `,
+  },
 ];
