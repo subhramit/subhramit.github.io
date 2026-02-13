@@ -254,8 +254,7 @@ Please change the parent <Route path="${k}"> to <Route path="${k==="/"?"*":`${k}
     
     It's a full moon day today. It's said that on such days, whatever you experience is "elevated", whether it be physical or mental/emotional.
     I don't know how much of that is true but I for sure am thinking a lot tonight.
-    `},{title:"Nine Days",date:"14.02.2026",content:`
-    I finally got time to write about this.
+    `},{title:"Nine Days",date:"14.02.2026",content:`I finally got time to write about this.
     Nine Days. It's become my favourite movie, and I have no idea why I never heard about this before in any "list of movies to watch before you die".
     It's two hour long. Once I hit the 30-minute mark, I had to pause it, go to the recommendations section of this website, put it on #2 in the movies section. After I finished it, I put it at #1.
     I don't have words to describe how beautiful it is. But I can, for sure, without spoiling anything, quote the excerpt of the poem "Song of Myself" by Walt Whitman that has been used in the movie:
