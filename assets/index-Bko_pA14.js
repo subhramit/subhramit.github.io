@@ -321,7 +321,7 @@ Please change the parent <Route path="${k}"> to <Route path="${k==="/"?"*":`${k}
     I stop someplace
     Waiting for you."
     `},{title:"Drenched",date:"19.02.2026",content:`Rain. I want to be absolutely drenched in rain. 
-    I remember how Bangalore rains felt the first time I came here. 
+    I remember how the rains felt the first time I came here. 
     But they weren't strong enough to drench anybody.
     I want no mercy from the storms if I am to face them.
     I want no mercy from the lightning, and the thunder.
