@@ -353,7 +353,7 @@ export const blogPosts: BlogPost[] = [
     content: `Rain. I want to be absolutely drenched in rain. 
     I remember how Bangalore rains felt the first time I came here. 
     But they weren't strong enough to drench anybody.
-    I want no mercy from the storms if they are to face me.
+    I want no mercy from the storms if I am to face them.
     I want no mercy from the lightning, and the thunder.
     I want to be absolutely drenched in rain.
     I want every drop to splash against my skin like it isn't indifferent,
