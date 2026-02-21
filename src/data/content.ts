@@ -359,7 +359,7 @@ export const blogPosts: BlogPost[] = [
     I want every drop to splash against my skin like it isn't indifferent,
     I want every drop to splash like it's meant for me.
     I want the drops to look for me, not let me hide.
-    But I don't really want to hide.
+    I don't really want to hide.
     I want to be absolutely drenched in rain.
     `,
   },
