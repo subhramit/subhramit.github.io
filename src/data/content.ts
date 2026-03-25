@@ -57,6 +57,10 @@ export const blogPosts: BlogPost[] = [
   {
     title: 'Tired',
     date: '20.09.2025',
+    quote: {
+      text: 'Extremely few people in this world enjoy being an asshole or hurting someone else\'s feelings.',
+      author: 'Mark Manson, from his book "Models"',
+    },
     content: `tl;dr: Humans are stupid.
     
     The number of humans that are stupid is really astonishing. It is astonishing how we all evolved together as a species, so differently to have a cerebral capacity that's unmatched across all living creatures (at least on earth, that we know of), and still happen to be so painfully stupid.
@@ -348,19 +352,26 @@ export const blogPosts: BlogPost[] = [
     `,
   },
   {
-    title: 'Drenched',
-    date: '19.02.2026',
-    content: `Rain. I want to be absolutely drenched in rain. 
-    I remember how the rains felt the first time I came here. 
-    They weren't strong enough to drench anybody.
-    I want no mercy from the storms if I am to face them.
-    I want no mercy from the lightning, and the thunder.
-    I want to be absolutely drenched in rain.
-    I want every drop to splash against my skin like it isn't indifferent,
-    I want every drop to splash like it's meant for me.
-    I want the drops to look for me, not let me hide.
-    I don't really want to hide.
-    I want to be absolutely drenched in rain.
+    title: 'Solo Dates - 2',
+    date: '26.03.2026',
+    content: `I am a bit late, but this is way too important to me to not write about.
+    I went for another solo date. Although I say "another", this time, it was quite different. I went alone not because there wasn't anyone available to accompany, or because it was a simple quick stroll in a park which would be an overkill to take friends along with for, but because I really, really, deliberately wanted to.
+    Last time (or in most cases when I go solo), it is mostly the case that I am "fine" going alone, and someone's company would just make it more enjoyable. But here, I did not want anyone else to come with me.
+    
+    The event was the candle-lit Queen x ABBA piano concert at JW Mariott, by Natallia Kapylova.
+    I went to attend it with an injured leg - I had messed something up at the gym recently because of which I was not even able to walk properly. But I had to go. As I said, it was important.
+    I think it was January 31st, last year, when I first started going to these concerts. When I had asked my friends back then if they wanted to come along, they weren't ready to because of a multitude of reasons (one of them being "concert fatigue", since we had gone for Alan Walker and Coldplay recently).
+    Although I was sad, I really did not want to miss it. There was something about it which was really attractive to me. So that's how it started - I decided to go alone, because I had no other option.
+    
+    The concert was marvelous, indeed - something really different. The ambience of the entire candle-lit theme, with a piano at the center - it was just gorgeous. The pianist that year was also very knowledgeable about the history of the bands and their songs. Before each song that he played, he would tell us a bit about its backstory, how it felt when he first heard it during his childhood and personally connected to it. You could easily figure out that he was not just there to perform - he was passionate.
+    What was even more fascinating was that throughout the entire concert, everyone followed an unspoken code - except for the occasional faint humming that went along beautifully with the performance, nobody shouted lyrics, or took their phones out - everyone was just there, and "in" the moment. Everyone was a stranger, but there was a sense of "unity" that I could feel - as if we all were together.
+    
+    So I went again, and purposefully alone this time to really replicate that same experience - it had become a "me" thing. I also wanted to remind myself that "life goes on" the same way with or without the presence of someone I had lost, who was in my life last year when I went.
+    This year too, it was beautiful, and although initially I was sad to see that "Gimme, gimme, gimme" was not in the tentative list of songs, I was overwhelmed with joy when Natallia did play it as the closing song as a surprise. There were people who knew exactly which song it was going to be when she said she is about to play "one more" now, and maybe I did as well, but still, I was just hoping.
+    
+    After the concert, since I had traveled that far near Sarjapur, I decided to travel a bit more and go to Street 1522 - the place which keeps my favourite drink - "Indian Affair". I had kicked a traffic cone out along the way when riding my bike-taxi, because I had to keep my leg straight with the braces. But all of it was worth it.
+    
+    I did really enjoy that day. And I could do so alone, again.
     `,
   },
 ];
