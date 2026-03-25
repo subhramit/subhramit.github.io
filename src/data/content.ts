@@ -370,7 +370,7 @@ export const blogPosts: BlogPost[] = [
     So I went again, and purposefully alone this time to really replicate that same experience - it had become a "me" thing. I also wanted to remind myself that "life goes on" the same way with or without the presence of someone I had lost, who was in my life last year when I went.
     This year too, it was beautiful, and although initially I was sad to see that "Gimme, gimme, gimme" was not in the tentative list of songs, I was overwhelmed with joy when Natallia did play it as the closing song as a surprise. There were people who knew exactly which song it was going to be when she said she is about to play "one more" now, and maybe I did as well, but still, I was just hoping.
     
-    After the concert, since I had traveled that far near Sarjapur, I decided to travel a bit more and go to Street 1522 - the place which keeps my favourite drink - "Indian Affair". I had kicked a traffic cone out along the way when riding my bike-taxi, because I had to keep my leg straight with the braces. But all of it was worth it.
+    After the concert, since I had traveled that far near Sarjapur, I decided to travel a bit more and go to Street 1522 - the place which keeps my favourite drink - "Indian Affair". I had kicked a traffic cone out along the way when riding my bike-taxi, because I had to keep my leg straight with the braces. But it was all worth it.
     
     I did really enjoy that day. And I could do so alone, again.
     `,
