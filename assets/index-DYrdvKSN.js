@@ -326,6 +326,7 @@ Please change the parent <Route path="${k}"> to <Route path="${k==="/"?"*":`${k}
     
     The event was the candle-lit Queen x ABBA piano concert at JW Mariott, by Natallia Kapylova.
     I went to attend it with an injured leg - I had messed something up at the gym recently because of which I was not even able to walk properly. But I had to go. As I said, it was important.
+    
     I think it was January 31st, last year, when I first started going to these concerts. When I had asked my friends back then if they wanted to come along, they weren't ready to because of a multitude of reasons (one of them being "concert fatigue", since we had gone for Alan Walker and Coldplay recently).
     Although I was sad, I really did not want to miss it. There was something about it which was really attractive to me. So that's how it started - I decided to go alone, because I had no other option.
     
