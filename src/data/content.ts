@@ -357,7 +357,7 @@ export const blogPosts: BlogPost[] = [
     date: '26.03.2026',
     content: `I am a bit late, but this is way too important to me to not write about.
     I went for another solo date. Although I say "another", this time, it was quite different. I went alone not because there wasn't anyone available to accompany, or because it was a simple quick stroll in a park which would be an overkill to take friends along with for, but because I really, really, deliberately wanted to.
-    Last time (or in most cases when I go solo), it is mostly the case that I am "fine" going alone, and someone's company would just make it more enjoyable. But here, I did not want anyone else to come with me.
+    Last time (or in most cases when I go solo), it is mostly the case that I am "fine" going alone, and someone's company would just make it more enjoyable - but nobody is ready. But here, I did not want anyone else to come with me.
     
     The event was the candle-lit Queen x ABBA piano concert at JW Mariott, by Natallia Kapylova.
     I went to attend it with an injured leg - I had messed something up at the gym recently because of which I was not even able to walk properly. But I had to go. As I said, it was important.
