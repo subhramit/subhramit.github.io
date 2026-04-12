@@ -286,7 +286,7 @@ export const blogPosts: BlogPost[] = [
     date: '14.02.2026',
     content: `I finally got time to write about this.
     Nine Days. It's become my favourite movie, and I have no idea why I never heard about this before in any "list of movies to watch before you die".
-    It's two hour long. Once I hit the 30-minute mark, I had to pause it, go to the recommendations section of this website, put it on #2 in the movies section. After I finished it, I put it at #1.
+    It's two hours long. Once I hit the 30-minute mark, I had to pause it, go to the recommendations section of this website, put it on #2 in the movies section. After I finished it, I put it at #1.
     I don't have words to describe how beautiful it is. But I can, for sure, without spoiling anything, quote the excerpt of the poem "Song of Myself" by Walt Whitman that has been used in the movie:
     
     "Have you ever reckoned the Earth much? 
@@ -376,5 +376,20 @@ export const blogPosts: BlogPost[] = [
     I did really enjoy that day. And I could do so alone, again.
     `,
     images: [candleLit]
+  },
+  {
+    title: 'My best investments',
+    date: '13.04.2026',
+    content: `I had this one in my mind for quite some time now.
+    I wanted to list down the most worth-it subscriptions I have purchased so far in life.
+    
+    So here it goes -
+    1. Kindle Oasis - I finally got into finishing books because of it.
+    2. A Soft Murmur - I miss the sound of rain, breeze and gentle storms I used to sleep to back when I used to live in railway quarters during my childhood. This is the closest alternative.
+    3. Spotify Premium - need I say more?
+    4. YouTube Premium - trust me, no ads and background play are game changing.
+    5. Netflix - If the only show available on Netflix was Bojack Horseman, even then it would still be worth it.
+    6. Recall AI - Really helpful in consolidating and revising long lectures and books/articles.
+    `,
   },
 ];
