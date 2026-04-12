@@ -389,7 +389,7 @@ export const blogPosts: BlogPost[] = [
     3. Spotify Premium - need I say more?
     4. YouTube Premium - trust me, no ads and background play are game changing.
     5. Netflix - If the only show available on Netflix was Bojack Horseman, even then it would still be worth it.
-    6. Recall AI - Really helpful in consolidating and revising long lectures and books/articles.
+    6. Recall - Really helpful in consolidating and revising long lectures and books/articles.
     `,
   },
 ];
