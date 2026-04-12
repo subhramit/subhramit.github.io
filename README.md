@@ -11,4 +11,4 @@ This project is licensed under a **Modified [MIT License](https://opensource.org
 
 See the [LICENSE](LICENSE) file for more information.
 
-Copyright © 2025 Subhramit Basu Bhowmick
+Copyright © 2026 Subhramit Basu Bhowmick
