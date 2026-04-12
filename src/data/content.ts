@@ -385,7 +385,7 @@ export const blogPosts: BlogPost[] = [
     
     So here it goes -
     1. Kindle Oasis - I finally got into finishing books because of it.
-    2. A Soft Murmur - I miss the sound of rain, breeze and gentle storms I used to sleep to back when I used to live in railway quarters during my childhood. This is the closest alternative.
+    2. A Soft Murmur - I miss the sound of rain, breeze and gentle storms I used to sleep to back in childhood.
     3. Spotify Premium - need I say more?
     4. YouTube Premium - trust me, no ads and background play are game changing.
     5. Netflix - If the only show available on Netflix was Bojack Horseman, even then it would still be worth it.
