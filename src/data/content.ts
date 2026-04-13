@@ -386,7 +386,7 @@ export const blogPosts: BlogPost[] = [
     So here it goes -
     1. Kindle Oasis - I finally got into finishing books because of it.
     2. A Soft Murmur - I miss the sound of rain, breeze and gentle storms I used to sleep to back in childhood.
-    3. Spotify Premium - need I say more?
+    3. Spotify Premium - do I really need to elaborate?
     4. YouTube Premium - trust me, no ads and background play are game changing.
     5. Netflix - If the only show available on Netflix was Bojack Horseman, even then it would still be worth it.
     6. Recall - Really helpful in consolidating and revising long lectures and books/articles.
