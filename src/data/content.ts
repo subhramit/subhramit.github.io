@@ -353,7 +353,7 @@ export const blogPosts: BlogPost[] = [
     `,
   },
   {
-    title: 'Solo Dates - 2',
+    title: 'Solo Dates - II',
     date: '26.03.2026',
     content: `I am a bit late, but this is way too important to me to not write about.
     I went for another solo date. Although I say "another", this time, it was quite different. I went alone not because there wasn't anyone available to accompany, or because it was a simple quick stroll in a park which would be an overkill to take friends along with for, but because I really, really, deliberately wanted to.
