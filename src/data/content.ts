@@ -392,4 +392,11 @@ export const blogPosts: BlogPost[] = [
     6. Recall - Really helpful in consolidating and revising long lectures and books/articles.
     `,
   },
+  {
+    title: 'Not so profound, am I',
+    date: '15.04.2026',
+    content: `"I hope we make it out of this life alive".
+    "Oh wait, we won't."
+    `,
+  },
 ];
