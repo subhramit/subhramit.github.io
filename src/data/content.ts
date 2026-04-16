@@ -272,16 +272,6 @@ export const blogPosts: BlogPost[] = [
     He tells him, "You're not haunted by the war, Dr. Watson. You miss it."`,
   },
   {
-    title: 'Full moon',
-    date: '01.02.2026',
-    content: `I am convinced that human beings are capable of unimaginable suffering, as well as unimaginable resilience.
-    It's not easy, many of the things that people have gone through for no reason at all.
-    
-    It's a full moon day today. It's said that on such days, whatever you experience is "elevated", whether it be physical or mental/emotional.
-    I don't know how much of that is true but I for sure am thinking a lot tonight.
-    `,
-  },
-  {
     title: 'Nine Days',
     date: '14.02.2026',
     content: `I finally got time to write about this.
