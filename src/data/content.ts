@@ -397,7 +397,7 @@ export const blogPosts: BlogPost[] = [
     date: '15.04.2026',
     content: `"I hope we make it out of this life alive".
     "Oh wait, we won't."
-    (taken from a conversation b/w me and M.)
+    (taken from a conversation b/w me and a friend.)
     `,
   },
 ];
