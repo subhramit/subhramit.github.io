@@ -166,7 +166,7 @@ export const blogPosts: BlogPost[] = [
     The mind gets the day shift, the heart gets the night shift.`,
   },
   {
-    title: 'Solo Dates',
+    title: 'Table for one',
     date: '13.11.2025',
     content: `(Since I was already a day late, I was thinking of sleeping early and writing this one tomorrow itself, given how tired I was, but I have still not been able to sleep so far, even at 4 AM, so here goes me and my keyboard)
     
