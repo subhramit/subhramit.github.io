@@ -398,7 +398,7 @@ export const blogPosts: BlogPost[] = [
     What's even better is that rains are here. It took its time this year, but Bangalore doesn't disappoint. There was a storm recently that almost kind of wrecked my room when I opened the door, but I couldn't be happier to welcome that sort of chaos into life again. The sort that uproots and washes things away.
     
     My mom received a call from someone today. She mistook it for her - she says the voice was unmistakably similar. Until I reminded her that her number began with an "8" and not a "7", she couldn't believe that it wasn't her.
-    Funny, isn't it? That woman had heard her voice much less than I had, yet she remembers it.
+    Funny, isn't it? That woman had heard her voice much less than I had, yet she remembers it so well.
     
     Sometimes I wonder if she still visits this page. I wonder if she reads what these. What I write.
     She was the only one who had taken her time to read it from the beginning till the end, back then.
