@@ -407,7 +407,7 @@ export const blogPosts: BlogPost[] = [
     
     By the way, I started learning the guitar again. I wanted to know music. It's something that felt essential that I had been skipping for so long.
     
-    And May went away, just like that.
+    And May went by, just like that.
     `,
   },
 ];
