@@ -404,6 +404,8 @@ export const blogPosts: BlogPost[] = [
     She was the only one who had taken her time to read it from the beginning till the end, back then.
     
     By the way, I started learning the guitar again. I wanted to know music. It's something that felt essential that I had been skipping for so long.
+    
+    And may went away, just like that.
     `,
   },
 ];
