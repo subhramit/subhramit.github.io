@@ -396,7 +396,7 @@ export const blogPosts: BlogPost[] = [
     content: `Summers have always been special. Unlike most people who get "out there" during the season, for me it's the time to sit down an introspect, even though you may argue autumn or winter are probably better suited for that.
     I shifted to a penthouse. My room is literally on the terrace, so after a long, long time I have the open sky for myself. And I'm obsessed with it. I was sick of looking at the concrete jungle all around ever since I came here. Way too much development for my taste. The last time I got to look at the sky endlessly was probably back in university.
     
-    What's even better is that rains are here. It took its time this year, but Bangalore doesn't disappoint. I learned recently that humans can smell rains better than sharks can smell blood. 
+    What's even better is that rains are here. It took its time this year, but Bangalore doesn't disappoint. I learned recently that humans can smell rains better than sharks can smell blood. Isn't that amazing?
     There was also a storm recently that almost kind of wrecked my room when I opened the door, but I couldn't be happier to welcome that sort of chaos into life again. The sort that uproots and washes things away.
     
     My mom received a call from someone today. She mistook it for her - she says the voice was unmistakably similar. Until I reminded her that her number began with an "8" and not a "7", she couldn't believe that it wasn't her.
