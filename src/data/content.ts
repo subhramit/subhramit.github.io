@@ -390,4 +390,18 @@ export const blogPosts: BlogPost[] = [
     (taken from a conversation b/w me and a friend.)
     `,
   },
+  {
+    title: 'Rain',
+    date: '31.05.2026',
+    content: `Summers have always been special. Unlike most people who get "out there" during the season, for me it's the time to sit down an introspect, even though autumn or winter is probably better suited for that.
+    I shifted to a penthouse. My room is literally on the terrace, so after a long, long time I have the sky for myself. And I'm obsessed with it.
+    What's even better is that rains are here. It took its time this year, but Bangalore doesn't disappoint. There was a storm recently that almost kind of wrecked my room when I opened the door, but I couldn't be happier to welcome that sort of chaos into life again. The chaos that uproots and washes things away.
+    
+    My mom received a call from someone today. She mistook it for her - she says the voice was unmistakably similar. Until I reminded her that her number didn't begin with a "7", she believed it was her.
+    Funny, isn't it? That woman had heard her voice much less than I had, yet she remembers it.
+    
+    Sometimes I wonder if she still visits this page. I wonder if she reads what these. What I write.
+    She was the only one who had taken her time to read it from the beginning till the end, back then.
+    `,
+  },
 ];
