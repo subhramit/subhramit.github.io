@@ -393,7 +393,7 @@ export const blogPosts: BlogPost[] = [
   {
     title: 'Rain',
     date: '31.05.2026',
-    content: `Summers have always been special. Unlike most people who get "out there" during the season, for me it's the time to sit down an introspect, even though autumn or winter is probably better suited for that.
+    content: `Summers have always been special. Unlike most people who get "out there" during the season, for me it's the time to sit down an introspect, even though you may argue autumn or winter are probably better suited for that.
     I shifted to a penthouse. My room is literally on the terrace, so after a long, long time I have the sky for myself. And I'm obsessed with it.
     What's even better is that rains are here. It took its time this year, but Bangalore doesn't disappoint. There was a storm recently that almost kind of wrecked my room when I opened the door, but I couldn't be happier to welcome that sort of chaos into life again. The chaos that uproots and washes things away.
     
