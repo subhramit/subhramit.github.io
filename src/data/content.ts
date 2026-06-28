@@ -44,7 +44,14 @@ export const blogPosts: BlogPost[] = [
               The line is "Porichito haather ador e", which means, "in the comfort and affection of familiar hands".
               Isn't that what we all deeply wish for - to have familiar hands we can rest our heads on?
               
-              [a large part of this post has been redacted on June 29th, 2026, on the completion of a year from one of the most difficult days of my life. If you are still curious to read it, you can dig it out from the git history - I'm not ashamed of anything, it's just not that important anymore].
+              Hey, if you're ever reading this - please know that it was not easy. I miss you. Life is unfortunate, humans are delicate, and nobody deserves to go through the kind of suffering you have been through.
+              Nobody can take away the fact you are one of the bravest, strongest and most honest human beings I have ever met. Every second I spent with you was worth it (yes, even the bad parts).
+
+              Maybe not all things are meant to be. And that's alright.
+              As unbelievable as it may sound (or maybe believable to you as you got to know me at least a little bit over the past two years) - I really want you to be happy. I want you to be cared for.
+              I hope someone comes in your life to give you the affection of "porichito haath", so that you never have to feel what it is like for someone to go away from your life, ever again. I hope they tuck you tight and never let go.
+              I shall pray that it is someone better. For both of us. I want fate to make sense.
+              Be happy, and do keep me in your memory.
               
               For the love of cats.`,
   },
