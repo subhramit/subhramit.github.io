@@ -327,7 +327,12 @@ export default function Recommendations() {
       </div>
 
       <div
-        className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-medium md:pl-60 pt-2 md:pr-60">
+        className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-extralight md:pl-60 md:pr-72 pt-3 italic">
+        <p>[Note that this is not strictly a list of recommendations, but more of a reading list.]</p>
+      </div>
+
+      <div
+        className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-medium md:pl-60 pt-4 md:pr-60">
         <p>
           <strong>1. The Bet - Anton Chekhov</strong><br />
           <strong>2. A Voice in the Dark </strong>- part of "The Autobiography of a Super-Tramp" - <strong>W. H.
