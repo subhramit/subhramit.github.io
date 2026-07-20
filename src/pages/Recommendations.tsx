@@ -327,7 +327,7 @@ export default function Recommendations() {
       </div>
 
       <div
-        className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-extralight md:pl-60 md:pr-72 pt-3">
+        className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-extralight md:pl-60 md:pr-72 pt-3 bold italic">
         <p>[Note that this is more of a reading list than a list of "recommendations".]</p>
       </div>
 
