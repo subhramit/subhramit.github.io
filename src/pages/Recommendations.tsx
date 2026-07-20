@@ -320,15 +320,15 @@ export default function Recommendations() {
       </div>
 
       {/**
-       * Books/Stories -------------------------------------------------------------------------------------------
+       * Books/Reads -------------------------------------------------------------------------------------------
        * ----------------------------------------------------------------------------------------------------------
        */}
-      <div className="text-[21px] md:text-3xl text-start font-serif font-bold md:pl-60 pt-6 underline">Books/Stories
+      <div className="text-[21px] md:text-3xl text-start font-serif font-bold md:pl-60 pt-6 underline">Books/Reads
       </div>
 
       <div
-        className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-extralight md:pl-60 md:pr-72 pt-3 italic">
-        <p>[Note that this is not strictly a list of recommendations, but more of a reading list.]</p>
+        className="text-base sm:text-[17px] md:text-lg lg:text-xl text-start font-serif font-extralight md:pl-60 md:pr-72 pt-3">
+        <p>[Note that this is more of a reading list than a list of "recommendations".]</p>
       </div>
 
       <div
