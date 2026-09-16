@@ -37,24 +37,24 @@ export const blogPosts: BlogPost[] = [
     date: '24.06.2025',
     content: `Yesterday, I was watching Flow (as I might have mentioned before, I am a sucker for Disney-style animated films), and in it there was a Lemur who was obsessed with collecting useless items (glass bottles, mirrors and trinkets, to be precise), even at the face of a flood, which he needs to survive to even be able to entertain himself with these. It was as if they are so important, and indispensable. "What a foolish animal", I thought to myself. And then, after a while, it hit me - the Lemur "thinks" these objects are important. How different are most human beings from the Lemur, just the scope and scale of this obsession being different?`,
   },
-  {
-    title: '"Porichito haather ador e"',
-    date: '19.09.2025',
-    content: `There is a song from the Bengali movie "Autograph" called "Beche Thakar Gaan" (the song of survival). It has a line in particular that has been on my mind since the past couple of days.
-              The line is "Porichito haather ador e", which means, "in the comfort and affection of familiar hands".
-              Isn't that what we all deeply wish for - to have familiar hands we can rest our heads on?
-              
-              Hey, if you're ever reading this - please know that it was not easy. I miss you. Life is unfortunate, humans are delicate, and nobody deserves to go through the kind of suffering you have been through.
-              Nobody can take away the fact you are one of the bravest, strongest and most honest human beings I have ever met. Every second I spent with you was worth it (yes, even the bad parts).
-
-              Maybe not all things are meant to be. And that's alright.
-              As unbelievable as it may sound (or maybe believable to you as you got to know me at least a little bit over the past two years) - I really want you to be happy. I want you to be cared for.
-              I hope someone comes in your life to give you the affection of "porichito haath", so that you never have to feel what it is like for someone to go away from your life, ever again. I hope they tuck you tight and never let go.
-              I shall pray that it is someone better. For both of us. I want fate to make sense.
-              Be happy, and do keep me in your memory.
-              
-              For the love of cats.`,
-  },
+  // {
+  //   title: '"Porichito haather ador e"',
+  //   date: '19.09.2025',
+  //   content: `There is a song from the Bengali movie "Autograph" called "Beche Thakar Gaan" (the song of survival). It has a line in particular that has been on my mind since the past couple of days.
+  //             The line is "Porichito haather ador e", which means, "in the comfort and affection of familiar hands".
+  //             Isn't that what we all deeply wish for - to have familiar hands we can rest our heads on?
+  //
+  //             Hey, if you're ever reading this - please know that it was not easy. I miss you. Life is unfortunate, humans are delicate, and nobody deserves to go through the kind of suffering you have been through.
+  //             Nobody can take away the fact you are one of the bravest, strongest and most honest human beings I have ever met. Every second I spent with you was worth it (yes, even the bad parts).
+  //
+  //             Maybe not all things are meant to be. And that's alright.
+  //             As unbelievable as it may sound (or maybe believable to you as you got to know me at least a little bit over the past two years) - I really want you to be happy. I want you to be cared for.
+  //             I hope someone comes in your life to give you the affection of "porichito haath", so that you never have to feel what it is like for someone to go away from your life, ever again. I hope they tuck you tight and never let go.
+  //             I shall pray that it is someone better. For both of us. I want fate to make sense.
+  //             Be happy, and do keep me in your memory.
+  //
+  //             For the love of cats.`,
+  // },
   {
     title: 'Tired',
     date: '20.09.2025',
@@ -348,4 +348,16 @@ export const blogPosts: BlogPost[] = [
     And May went by, just like that.
     `,
   },
+  // {
+  //   title: 'Have a drink, burn the bridge and leave the town',
+  //   date: '01.06.2026',
+  //   content: `Over the past one year, I have lived life. Not necessarily the happiest life, but I've gone through all the emotions that I, as a human, could possibly feel.
+  //   I have been happy, sad, angry, nostalgic, grateful, and everything I can be. I haven't been a failure at keeping my commitments.
+  //   It's funny, isn't it? To pick a side knowing the polarity between a life full of meaning, and nihilism. Between determinism and free will. Between theism and atheism.
+  //   Thoughts, thoughts, thoughts. A human's ability to think. Glee and pain, triumph and defeat.
+  //   A fluttering heart, and one that can't feel.
+  //
+  //
+  //   `,
+  // },
 ];
